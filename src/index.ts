@@ -3,6 +3,27 @@ import fs from 'fs';
 import cheerio from 'cheerio';
 import { Block, Item } from './model/build';
 
+const items_raw = JSON.parse(fs.readFileSync('src/data/items_enUS.json', 'utf8'));
+const champions_raw = JSON.parse(fs.readFileSync('src/data/champions_enUS.json', 'utf8'));
+
+const items = items_raw.map((item: { id: string; name: string; }) => {
+  return {
+    id: item.id,
+    name: item.name
+  }
+});
+
+async function fetch_champions() {
+  const champions_file_path = 'src/model/champions_enUS.json';
+  const { data } = await api.get(`/cdn/12.2.1/data/en_US/champion.json`);
+
+  const champions = data.data;
+
+  const champions_file = JSON.stringify(champions, null, 2);
+
+  fs.writeFileSync(champions_file_path, champions_file);
+}
+
 async function fetch_items(language: string) {
   const response = await api.get(`/cdn/12.2.1/data/en_US/${language}.json`);
   const data = response.data;
@@ -47,6 +68,7 @@ async function extract_build_items_names_from_mobafire(url: string) {
     // find all items in the content
     content.find('a').each((i, el) => {
       let item_name = $(el).find('span').text();
+
       items.push({
         id: item_name,
         count: 1
@@ -59,7 +81,6 @@ async function extract_build_items_names_from_mobafire(url: string) {
     });
   });
 
-
   return {
     blocks,
     author
@@ -69,15 +90,6 @@ async function extract_build_items_names_from_mobafire(url: string) {
 async function generate_lol_build_file_from_url(champion: string, url: string) {
   const lol_build_file_path = `src/builds/${champion}.json`;
   const { blocks, author } = await extract_build_items_names_from_mobafire(url);
-
-  const items_raw = JSON.parse(fs.readFileSync('src/model/items_enUS.json', 'utf8'));
-
-  const items = items_raw.map((item: { id: string; name: string; }) => {
-    return {
-      id: item.id,
-      name: item.name
-    }
-  });
 
   for (const block of blocks) {
     for (const item of block.items) {
@@ -91,14 +103,12 @@ async function generate_lol_build_file_from_url(champion: string, url: string) {
     }
   }
 
-  const champion_id = await api.get(`/cdn/12.2.1/data/en_US/champion.json`);
-  const champion_data = champion_id.data.data;
-  const _champion_id = Number([champion_data[champion]['key']])
+  const champion_id = Number(champions_raw[champion]['key'])
 
   const lol_build = {
     title: champion,
     associatedMaps: [],
-    associatedChampions: [_champion_id],
+    associatedChampions: [champion_id],
     _notes: url,
     _author: author,
     blocks
@@ -109,4 +119,39 @@ async function generate_lol_build_file_from_url(champion: string, url: string) {
   fs.writeFileSync(lol_build_file_path, lol_build_file);
 }
 
-generate_lol_build_file_from_url('Nasus', 'https://www.mobafire.com/league-of-legends/build/12-2-carnarius-best-nasus-eu-guide-556341');
+const data_to_extract = [
+  {
+    champion: 'Mordekaiser',
+    url: 'https://www.mobafire.com/league-of-legends/build/my-monstrous-mordekaiser-immortal-amp-full-magic-pen-build-565380'
+  },
+  {
+    champion: 'Fiddlesticks',
+    url: 'https://www.mobafire.com/league-of-legends/build/12-1-reworked-fiddlesticks-jungle-the-detailled-guide-569186',
+  },
+  {
+    champion: 'Jax',
+    url: 'https://www.mobafire.com/league-of-legends/build/12-2-ph45s-in-depth-guide-to-jax-the-grandmaster-503356'
+  },
+  {
+    champion: 'Nasus',
+    url: 'https://www.mobafire.com/league-of-legends/build/12-2-carnarius-best-nasus-eu-guide-556341'
+  },
+  {
+    champion: 'Bard',
+    url: 'https://www.mobafire.com/league-of-legends/build/lathyrus-11-22-euw-challenger-guide-not-updated-guide-mo-544216'
+  },
+  {
+    champion: 'Thresh',
+    url: 'https://www.mobafire.com/league-of-legends/build/season-12-updated-ad-thresh-top-by-cryobeats-564624'
+  },
+  {
+    champion: 'Amumu',
+    url: 'https://www.mobafire.com/league-of-legends/build/giving-amu-deathmu-tank-ap-w-matchups-531668'
+  }
+]
+
+// download data
+
+for (const data of data_to_extract) {
+  generate_lol_build_file_from_url(data.champion, data.url);
+}
