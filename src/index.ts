@@ -150,7 +150,7 @@ const data_to_extract = [
   }
 ]
 
-// download data
+// extract data
 
 for (const data of data_to_extract) {
   generate_lol_build_file_from_url(data.champion, data.url);
