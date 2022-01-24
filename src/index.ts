@@ -93,13 +93,15 @@ async function generate_lol_build_file_from_url(champion: string, url: string) {
 
   const champion_id = await api.get(`/cdn/12.2.1/data/en_US/champion.json`);
   const champion_data = champion_id.data.data;
+  const _champion_id = Number([champion_data[champion]['key']])
 
   const lol_build = {
     title: champion,
     associatedMaps: [],
-    associatedChampions: [champion_data[champion]['key']],
-    blocks,
-    _author: author
+    associatedChampions: [_champion_id],
+    _notes: url,
+    _author: author,
+    blocks
   };
 
   const lol_build_file = JSON.stringify(lol_build, null, 2);
@@ -107,4 +109,4 @@ async function generate_lol_build_file_from_url(champion: string, url: string) {
   fs.writeFileSync(lol_build_file_path, lol_build_file);
 }
 
-generate_lol_build_file_from_url('Amumu', 'https://www.mobafire.com/league-of-legends/build/giving-amu-deathmu-tank-ap-w-matchups-531668');
+generate_lol_build_file_from_url('Nasus', 'https://www.mobafire.com/league-of-legends/build/12-2-carnarius-best-nasus-eu-guide-556341');
