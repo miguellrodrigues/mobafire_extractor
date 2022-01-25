@@ -7,7 +7,14 @@ import { get_champion_builds_from_mobafire } from './services/mobafire';
 const champions = JSON.parse(fs.readFileSync('src/data/champions.json', 'utf8'));
 
 async function extract_all() {
- await get_champion_builds_from_mobafire(champions);
+ const urls = await get_champion_builds_from_mobafire(champions);
+
+  for (const url of urls) {
+    const { author, champion_name } = await generate_lol_build_file_from_url(
+      `https://www.mobafire.com${url.href}`
+    );
+    console.log(`${champion_name} by ${author}`);
+  }
 }
 
 extract_all();

@@ -56,7 +56,7 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
   }>();
 
   for (const champion of champions) {
-    //console.log(champion.name);
+    console.log(champion.name);
     const champion_url = url + champion.name.toLocaleLowerCase();
 
     try{
@@ -81,8 +81,6 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       urls.sort((a, b) => {
         return b.rating - a.rating;
       });
-
-      console.log(urls)
 
       // get the most liked
       const best_rating = urls[0];

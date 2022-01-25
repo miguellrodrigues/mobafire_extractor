@@ -70,6 +70,11 @@ async function generate_lol_build_file_from_url(url: string, index?: number) {
   }
 
   fs.writeFileSync(lol_build_file_path, lol_build_file);
+
+  return {
+    author,
+    champion_name
+  }
 }
 
 export { generate_lol_build_file_from_url, extract_champions_name_and_id, extract_items_name_and_id };
