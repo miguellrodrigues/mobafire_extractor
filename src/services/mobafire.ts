@@ -52,7 +52,7 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
   
   const builds_urls = Array<{
     href: string,
-    rating: number,
+    likes: number,
   }>();
 
   for (const champion of champions) {
@@ -62,29 +62,29 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       const { data } = await axios(champion_url);
       const $ = cheerio.load(data);
       
-      const urls = Array<{href: string, rating: number}>();
+      const urls = Array<{href: string, likes: number}>();
 
-      $('.mf-listings__item').each((i, el) => {
+      $('.mf-listings__item').each((_, el) => {
         const rating = $(el).find('.mf-listings__item__rating__circle__inner > span').text();
 
-        //const likes = $(el).find('a > .mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1)');
-        //const likes_count = likes.text().trim();
+        const likes = $(el).find('a > .mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1)');
+        const likes_count = likes.text().trim();
 
         urls.push({
           href: el.attribs.href,
-          rating: Number(rating)
+          likes: Number(likes_count)
         });
       });
 
       // sort by likes
       urls.sort((a, b) => {
-        return b.rating - a.rating;
+        return b.likes - a.likes;
       });
 
       // get the most liked
-      const best_rating = urls[0];
+      const most_liked = urls[0];
 
-      builds_urls.push(best_rating);
+      builds_urls.push(most_liked);
     }catch(e){
     }
   }
