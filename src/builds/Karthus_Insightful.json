@@ -1,0 +1,82 @@
+{
+  "title": "Karthus",
+  "associatedMaps": [],
+  "associatedChampions": [
+    30
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-1-challenger-na-amp-euw-rank-1-karthus-world-in-dep-588437",
+  "_author": "Insightful",
+  "blocks": [
+    {
+      "type": "Jungle start",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

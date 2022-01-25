@@ -1,0 +1,109 @@
+{
+  "title": "Fizz",
+  "associatedMaps": [],
+  "associatedChampions": [
+    105
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/yamikazes-challenger-fizz-guide-513734",
+  "_author": "Yamikaze",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3108",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buy at Level 9",
+      "items": [
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Liandries",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Protobelt",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "title": "Sett",
+  "associatedMaps": [],
+  "associatedChampions": [
+    875
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-na-challenger-sett-top-lane-guide-594328",
+  "_author": "BoilTheOil",
+  "blocks": [
+    {
+      "type": "Starting",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythics",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Legendary Items",
+      "items": [
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Generally good",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "When you need to stick onto the opponent very hard",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MEAT",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "When you have no gold whatsoever",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Support",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "B U R S T",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

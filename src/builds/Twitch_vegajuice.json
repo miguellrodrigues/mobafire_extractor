@@ -1,0 +1,225 @@
+{
+  "title": "Twitch",
+  "associatedMaps": [],
+  "associatedChampions": [
+    29
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/twitch-ap-s12-mid-adc-supp-guide-583940",
+  "_author": "vegajuice",
+  "blocks": [
+    {
+      "type": "Starter AD/MID",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starter Support",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "JUNGLE STARTER",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "1) Core item ",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "2) BOOTS",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CHOOSE A MYTHIC",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "#1 FULL BUILD EXAMPLE",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "#2 FULL BUILD EXAMPLE",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "3) SITUATIONNAL",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

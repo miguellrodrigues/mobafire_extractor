@@ -1,0 +1,221 @@
+{
+  "title": "Kayle",
+  "associatedMaps": [],
+  "associatedChampions": [
+    10
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/fnc-styllees-challenger-kayle-top-jng-546915",
+  "_author": "styllEE",
+  "blocks": [
+    {
+      "type": "STARTING ITEMS",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST ITEM",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "WHAT TO GET THEN",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL ITEMS EXAMPLE",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONALS",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STARTING ITEMS",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST ITEM",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "WHAT TO GET THEN",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL ITEMS EXAMPLE",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONALS",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

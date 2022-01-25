@@ -1,0 +1,103 @@
+{
+  "title": "Brand",
+  "associatedMaps": [],
+  "associatedChampions": [
+    63
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-bizzleberrys-season-11-brand-support-hot-again-502033",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Purchases",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Viable items for last slots",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

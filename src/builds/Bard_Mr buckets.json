@@ -1,0 +1,278 @@
+{
+  "title": "Bard",
+  "associatedMaps": [],
+  "associatedChampions": [
+    432
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/lathyrus-11-22-euw-challenger-guide-not-updated-guide-mo-544216",
+  "_author": "Mr buckets",
+  "blocks": [
+    {
+      "type": "Guardian Setup - Best in High Elo",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Normal Items",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "When ahead early",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Normal items",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "When ahead early",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Hail of Blades Setup - For Fun",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Prototype: Omnistone Setup - For Fun",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

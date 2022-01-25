@@ -1,0 +1,386 @@
+{
+  "title": "Vi",
+  "associatedMaps": [],
+  "associatedChampions": [
+    254
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/how-to-smash-rocks-551110",
+  "_author": "Fruxo",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vision Control",
+      "items": [
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Late Game Elixirs",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Trinity Force Build",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Divine Sunderer Build",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Eclipse Build",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythics",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Physical",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Magic",
+      "items": [
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Tanks",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs AA users",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Healing",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mixed comps/Frontline",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Mobility",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Burst",
+      "items": [
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Survivability",
+      "items": [
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Healing",
+      "items": [
+        {
+          "id": "3123",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Before teamfights",
+      "items": [
+        {
+          "id": "2420",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Magic",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs cc",
+      "items": [
+        {
+          "id": "3140",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Armor",
+      "items": [
+        {
+          "id": "3035",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Shields",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Luxury DMG",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Burst",
+      "items": [
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

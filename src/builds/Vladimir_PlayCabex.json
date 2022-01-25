@@ -1,0 +1,219 @@
+{
+  "title": "Vladimir",
+  "associatedMaps": [],
+  "associatedChampions": [
+    8
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/vladimir-guide-patch-12-1-mid-top-iron-to-diamond-524864",
+  "_author": "PlayCabex",
+  "blocks": [
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back (look notes)",
+      "items": [
+        {
+          "id": "3145",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Second back/third back (look notes)",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3108",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First items (LOOK NOTES)",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "5th item (read notes)",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "6th item (READ NOTES)",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "build i usully do (look notes)",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "build against squishies (look notes)",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

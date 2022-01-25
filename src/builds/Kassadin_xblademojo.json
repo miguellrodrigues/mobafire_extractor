@@ -1,0 +1,345 @@
+{
+  "title": "Kassadin",
+  "associatedMaps": [],
+  "associatedChampions": [
+    38
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-rank-1-kassadin-complete-guide-by-xblademojo-602685",
+  "_author": "xblademojo",
+  "blocks": [
+    {
+      "type": "Starting Items #1",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs AD #2",
+      "items": [
+        {
+          "id": "1029",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs Heavy Poke #3",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Base",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "3082",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tear (Read Notes)",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #1 Scaling",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #2 vs Heavy Burst Scaling",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #3 Fastest Impact",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #4 vs Heavy Burst Fastest Impact",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #5 vs Heavy AD",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #6 Engage & Disengage",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #7 Against Full Squishy",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

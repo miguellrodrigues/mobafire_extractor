@@ -1,0 +1,668 @@
+{
+  "title": "Yasuo",
+  "associatedMaps": [],
+  "associatedChampions": [
+    157
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-rank-1-euw-yasuo-mp-guide-top-mid-529530",
+  "_author": "The_Unf0rgiv3n",
+  "blocks": [
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items 2",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "On your first back",
+      "items": [
+        {
+          "id": "1053",
+          "count": 1
+        },
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "On your first back #2",
+      "items": [
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kraken build rush with lifesteal",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "1053",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kraken build rush with crit",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "1018",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush vs 3+ tanks",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush vs no tanks",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example (no antiburst item)",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example #2",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example #3",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example #4",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Shieldbow and facing tanks",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs Full AD team",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items 2",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "On your first back",
+      "items": [
+        {
+          "id": "1018",
+          "count": 1
+        },
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "One your first back 2",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush #1",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush #2",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "1053",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example from Rush #1",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example from Rush #2",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti-tank full build",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build vs full AD team",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Triforce build example",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

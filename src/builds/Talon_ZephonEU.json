@@ -1,0 +1,139 @@
+{
+  "title": "Talon",
+  "associatedMaps": [],
+  "associatedChampions": [
+    91
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/talonted-guide-on-talon-jungle-season-12-567413",
+  "_author": "ZephonEU",
+  "blocks": [
+    {
+      "type": "Primary jungle start",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "1035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back",
+      "items": [
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "GHOSTBLADE THIS PATCH",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CORE mythic.",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots options",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Pick one or two",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Pick one",
+      "items": [
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example final build",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

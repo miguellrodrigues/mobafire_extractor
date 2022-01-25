@@ -1,0 +1,203 @@
+{
+  "title": "Veigar",
+  "associatedMaps": [],
+  "associatedChampions": [
+    45
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/ziannis-challenger-veigar-guide-585002",
+  "_author": "iZianni",
+  "blocks": [
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First recall",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Season 11 items no assassins",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Season 11 items",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Old Veigar core (still works)",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal end game",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal end game",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

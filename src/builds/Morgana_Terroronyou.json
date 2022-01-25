@@ -1,0 +1,53 @@
+{
+  "title": "Morgana",
+  "associatedMaps": [],
+  "associatedChampions": [
+    25
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-bizzleberrys-season-11-morgana-guide-new-build-529560",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "First Buy",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

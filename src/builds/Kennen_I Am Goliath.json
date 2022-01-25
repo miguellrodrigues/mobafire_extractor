@@ -1,0 +1,66 @@
+{
+  "title": "Kennen",
+  "associatedMaps": [],
+  "associatedChampions": [
+    85
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/goliathgames-master-guide-to-kennen-516558",
+  "_author": "I Am Goliath",
+  "blocks": [
+    {
+      "type": "Aggressive Start",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Passive Start",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

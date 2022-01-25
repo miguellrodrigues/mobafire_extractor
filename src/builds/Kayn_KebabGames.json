@@ -1,0 +1,330 @@
+{
+  "title": "Kayn",
+  "associatedMaps": [],
+  "associatedChampions": [
+    141
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-guide-to-kayn-the-shadow-reaper-red-and-blue-543579",
+  "_author": "KebabGames",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First buy (blue)",
+      "items": [
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional First Buy (blue)",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Buy (Rhaast/red)",
+      "items": [
+        {
+          "id": "6029",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core (blue)",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core (Rhaast/red)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early Items",
+      "items": [
+        {
+          "id": "3123",
+          "count": 1
+        },
+        {
+          "id": "3035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other Items (blue)",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other Items (Rhaast/red)",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build (blue)",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build (blue) 2",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build (red)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Important!",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3123",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "NEW BLUE BUILD (Blueiser Kayn)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

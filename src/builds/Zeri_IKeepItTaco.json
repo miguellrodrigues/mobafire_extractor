@@ -1,0 +1,400 @@
+{
+  "title": "Zeri",
+  "associatedMaps": [],
+  "associatedChampions": [
+    221
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-ikeepittacos-grandmaster-zeri-guide-ad-amp-ap-608001",
+  "_author": "IKeepItTaco",
+  "blocks": [
+    {
+      "type": "VS ALL-IN/DIVE LANE (EX: Draven Nautilus)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS POKE LANE (EX: ASHE KARMA)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST RECALL (SHEEN OR ZERKERS)",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items in order",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situationals (check notes)",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Final Build Example",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS ALL-IN/DIVE LANE (EX: Draven Nautilus)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS POKE LANE (EX: ASHE KARMA)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Build #1 ",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Build #2 ",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situationals ",
+      "items": [
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3095",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kraken Slayer Build Example ",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Shieldbow Build Example",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Laning",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Pick Mythic",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buy these 2 but you choose the order",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Last 2 item",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Potential Situationals ",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Final Build Example",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

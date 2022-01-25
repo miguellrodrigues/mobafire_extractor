@@ -1,0 +1,298 @@
+{
+  "title": "Garen",
+  "associatedMaps": [],
+  "associatedChampions": [
+    86
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-conqueror-amp-immortal-garen-builds-561907",
+  "_author": "BaLoRi",
+  "blocks": [
+    {
+      "type": "First items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Conqueror Garen Build",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Conqueror Garen (Armor Pen) Build",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Conqueror Garen Build Version 2",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Conqueror Garen Build Version 3",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build Start Items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build First back (1250-1550) ",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Garen Build",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Garen Build Version 2",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Garen Build Version 3",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

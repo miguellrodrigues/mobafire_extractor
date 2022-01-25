@@ -1,0 +1,171 @@
+{
+  "title": "Zyra",
+  "associatedMaps": [],
+  "associatedChampions": [
+    143
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-24-melyns-ex-challenger-zyra-guide-season-12-536856",
+  "_author": "Melyn",
+  "blocks": [
+    {
+      "type": "Starting",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mid game options",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Typical full build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Typical full build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "See items section for more info",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

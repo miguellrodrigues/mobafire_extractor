@@ -1,0 +1,149 @@
+{
+  "title": "Xayah",
+  "associatedMaps": [],
+  "associatedChampions": [
+    498
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-1-ph45s-detailed-guide-to-xayah-the-rebel-504210",
+  "_author": "PH45",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items #2",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other viable items",
+      "items": [
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "title": "Gangplank",
+  "associatedMaps": [],
+  "associatedChampions": [
+    41
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-1-the-gangplank-compendium-all-roles-ap-amp-ad-564821",
+  "_author": "Kippari",
+  "blocks": [
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs squishy",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "safe",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tear build",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Crit options",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Lethality/Pen options",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "The rest",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3140",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush",
+      "items": [
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Frontline",
+      "items": [
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Trinity example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sunderer example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Prowler's example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Galeforce example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Raise Morale",
+          "count": 1
+        },
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Secondary",
+      "items": [
+        {
+          "id": "Raise Morale",
+          "count": 1
+        },
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs squishy",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Safe",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "4fun",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tear build",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Pick 4",
+      "items": [
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Liandry's example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Harvester example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Frontline",
+      "items": [
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Burst",
+      "items": [
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        },
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Raise Morale",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sustain damage",
+      "items": [
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        },
+        {
+          "id": "Raise Morale",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "safe",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs squishy",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "4fun",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Waveclear/Damage",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank",
+      "items": [
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sunfire example",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Frostfire example",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Chemtank example",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Frontline",
+      "items": [
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush",
+      "items": [
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "Raise Morale",
+          "count": 1
+        },
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Secondary",
+      "items": [
+        {
+          "id": "Fire At Will",
+          "count": 1
+        },
+        {
+          "id": "Raise Morale",
+          "count": 1
+        },
+        {
+          "id": "Death's Daughter",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

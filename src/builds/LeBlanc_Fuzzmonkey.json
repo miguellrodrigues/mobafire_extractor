@@ -1,0 +1,216 @@
+{
+  "title": "LeBlanc",
+  "associatedMaps": [],
+  "associatedChampions": [
+    7
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-fuzzmonkeys-leblanc-guide-always-win-lane-1-523241",
+  "_author": "Fuzzmonkey",
+  "blocks": [
+    {
+      "type": "If you're against an easy match up (aggro)",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sustain lane",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Get as fast as possible",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core damage build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build - If enemy has A LOT of healing",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS lots of CC",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS lots of AD champs",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items (see item chapter below)",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

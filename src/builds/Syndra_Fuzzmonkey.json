@@ -1,0 +1,125 @@
+{
+  "title": "Syndra",
+  "associatedMaps": [],
+  "associatedChampions": [
+    134
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-the-ultimate-syndra-guide-always-win-lane-10-554390",
+  "_author": "Fuzzmonkey",
+  "blocks": [
+    {
+      "type": "Standard start",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sustain start (not recommended)",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First + second back",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Get as fast as possible",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

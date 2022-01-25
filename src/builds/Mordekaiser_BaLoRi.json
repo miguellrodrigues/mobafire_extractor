@@ -1,0 +1,289 @@
+{
+  "title": "Mordekaiser",
+  "associatedMaps": [],
+  "associatedChampions": [
+    82
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-monstrous-mordekaiser-immortal-amp-full-magic-pen-build-565380",
+  "_author": "BaLoRi",
+  "blocks": [
+    {
+      "type": "First Items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back (1250-1550 gold)",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mordekaiser Immortal Build",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mordekaiser Immortal Build Version 2",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mordekaiser Immortal Build Version 3",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back Magic Pen Version",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Magic Pen Mordekaiser Build",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Magic Pen Mordekaiser Build Version 2",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Magic Pen Mordekaiser Build Version 3",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Magic Pen Mordekaiser Build Version 4",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

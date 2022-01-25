@@ -1,0 +1,165 @@
+{
+  "title": "Seraphine",
+  "associatedMaps": [],
+  "associatedChampions": [
+    147
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-updated-challenger-seraphine-support-guide-583193",
+  "_author": "Doglightning",
+  "blocks": [
+    {
+      "type": "Healing Build Core",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4638",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Engage/Peel Build",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "4638",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Assassins",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4638",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CC Peel Build",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "4638",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

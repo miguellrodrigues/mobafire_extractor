@@ -1,0 +1,213 @@
+{
+  "title": "Kindred",
+  "associatedMaps": [],
+  "associatedChampions": [
+    203
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-play-maker-build-by-yed-530976",
+  "_author": "Narutoe",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Duellist Build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Squishy Team",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build In order",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "1037",
+          "count": 1
+        },
+        {
+          "id": "1018",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "1037",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "1043",
+          "count": 1
+        },
+        {
+          "id": "1053",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6677",
+          "count": 1
+        },
+        {
+          "id": "1018",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3133",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items ",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3095",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

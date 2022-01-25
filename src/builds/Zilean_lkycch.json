@@ -1,0 +1,263 @@
+{
+  "title": "Zilean",
+  "associatedMaps": [],
+  "associatedChampions": [
+    26
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/glacial-zilean-support-mid-562632",
+  "_author": "lkycch",
+  "blocks": [
+    {
+      "type": "MID Full Build:",
+      "items": [
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "1. Start",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "Warding Totem Removed",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "2. First Back ",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1027",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "3. Rush",
+      "items": [
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "4. Core",
+      "items": [
+        {
+          "id": "Catalyst of Aeons",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "5. Finish",
+      "items": [
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SUPPORT Full Build:",
+      "items": [
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "1. Start",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "Warding Totem Removed",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "2. First Back",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "1027",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "3. Rush",
+      "items": [
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "4. Core",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "5. Finish",
+      "items": [
+        {
+          "id": "3114",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

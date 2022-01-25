@@ -1,0 +1,195 @@
+{
+  "title": "Yone",
+  "associatedMaps": [],
+  "associatedChampions": [
+    777
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/yeagers-master-yone-guide-season-12-in-depth-578626",
+  "_author": "Yeager",
+  "blocks": [
+    {
+      "type": "Starting items #1",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items #2",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic items",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build #1",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build #2 Anti-tank",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Season 12 Build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

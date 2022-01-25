@@ -1,0 +1,390 @@
+{
+  "title": "Singed",
+  "associatedMaps": [],
+  "associatedChampions": [
+    27
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/phrxshns-in-depth-guide-to-singed-12-2-578305",
+  "_author": "Phrxshn",
+  "blocks": [
+    {
+      "type": "Starting(For Laning and Sustaining)",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting(Proxying)",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting(Against Ranged)",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Converting Your Core",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "3191",
+          "count": 1
+        },
+        {
+          "id": "3211",
+          "count": 1
+        },
+        {
+          "id": "3108",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3066",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal Upgraded Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Constituent",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Item(Pick One)(First is mostly used and Last is rarely used)",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3001",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Supplemental Items For Team",
+      "items": [
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Very Situational Items",
+      "items": [
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If You Have Spirit Visage + Ravenous Hunter and 5 Items Already.",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Chinese Singed Build",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kuba Singed Build",
+      "items": [
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Minishcap1 Singed",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Phrxshn Singed",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Chemtank Build",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "title": "Ziggs",
+  "associatedMaps": [],
+  "associatedChampions": [
+    115
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-wormmaws-guide-for-ziggs-532170",
+  "_author": "AP WormMaW Mid",
+  "blocks": [
+    {
+      "type": "Start shop",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early shop",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early core",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against tank-heavy",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Followup items",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

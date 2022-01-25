@@ -1,0 +1,66 @@
+{
+  "title": "Azir",
+  "associatedMaps": [],
+  "associatedChampions": [
+    268
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/how-to-play-azir-masterclass-549518",
+  "_author": "Twitch.Tv-LimitBreaker88",
+  "blocks": [
+    {
+      "type": "Standart",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs poke",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL BUILD EXAMPLE",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

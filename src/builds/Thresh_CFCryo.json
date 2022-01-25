@@ -1,0 +1,226 @@
+{
+  "title": "Thresh",
+  "associatedMaps": [],
+  "associatedChampions": [
+    412
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-updated-ad-thresh-top-by-cryobeats-564624",
+  "_author": "CFCryo",
+  "blocks": [
+    {
+      "type": "Doran's Blade",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Doran's Shield",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AD Thresh Mythics",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AD Thresh Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank Thresh Mythic",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank Thresh Core Item",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank Thresh Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Shieldbow Bruiser Top",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Galeforce Bruiser",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Galeforce Predator Assassin",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3095",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Shieldbow ADC Thresh Lethal Tempo (Experimental)",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

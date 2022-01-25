@@ -1,0 +1,258 @@
+{
+  "title": "Zoe",
+  "associatedMaps": [],
+  "associatedChampions": [
+    142
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/vicksys-updated-master-zoe-guide-for-season-12-524904",
+  "_author": "Vicksay",
+  "blocks": [
+    {
+      "type": "standard start",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. heavy trading match-up",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First base",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items #1",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items #2",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example build #1",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example build #2 - vs AP",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example build #3 - huge damage",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example build #4 - vs. tanks",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

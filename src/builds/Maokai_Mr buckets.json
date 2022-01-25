@@ -1,0 +1,97 @@
+{
+  "title": "Maokai",
+  "associatedMaps": [],
+  "associatedChampions": [
+    57
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-euw-challenger-guide-on-how-to-meowkai-support-567295",
+  "_author": "Mr buckets",
+  "blocks": [
+    {
+      "type": "Poke Playstyle",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tanky Playstyle",
+      "items": [
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

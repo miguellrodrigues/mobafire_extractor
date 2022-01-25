@@ -1,0 +1,282 @@
+{
+  "title": "Lux",
+  "associatedMaps": [],
+  "associatedChampions": [
+    99
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-porcelain-lux-mid-light-em-up-im-on-fiyaa-lu-460573",
+  "_author": "LuxTheGreyWarden",
+  "blocks": [
+    {
+      "type": "Starting Item",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "4632",
+          "count": 1
+        },
+        {
+          "id": "3191",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Item (Choose 1)",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots (Choose 1)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Legendary Items",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Don't Forget!",
+      "items": [
+        {
+          "id": "2139",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Burst Lux Build",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive Build",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "High Healing Comps",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Healthy/Tanky Comps",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

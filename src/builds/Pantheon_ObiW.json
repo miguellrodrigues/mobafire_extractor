@@ -1,0 +1,297 @@
+{
+  "title": "Pantheon",
+  "associatedMaps": [],
+  "associatedChampions": [
+    80
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-all-possible-builds-546404",
+  "_author": "ObiW",
+  "blocks": [
+    {
+      "type": "Default Start",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fast Entrance",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Recommended Build",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Bruiser Build",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Brawler Build",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Assassin Build",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tankeon Build",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Suggested JUNG Build",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SUP",
+      "items": [
+        {
+          "id": "3854",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

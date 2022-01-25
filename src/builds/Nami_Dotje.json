@@ -1,0 +1,1380 @@
+{
+  "title": "Nami",
+  "associatedMaps": [],
+  "associatedChampions": [
+    267
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-dotjes-in-depth-guide-on-nami-563318",
+  "_author": "Dotje",
+  "blocks": [
+    {
+      "type": "Starting items [choose]",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First purchase options",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "4642",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Laid back heal build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Extra damage",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Item alternatives",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Extra disengage/engage [META]",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "No/late Mythic strong heals",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Everfrost example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "4642",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mana save start",
+      "items": [
+        {
+          "id": "3112",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Choose a mythic",
+      "items": [
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example full build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Speed",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other options",
+      "items": [
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items [Choose]",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "3145",
+          "count": 1
+        },
+        {
+          "id": "3112",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Choose a mythic",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Burst (vs squishy)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Burn (anti-tank)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Everfrost",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other options",
+      "items": [
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items (choose)",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example full build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example full build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example full build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting item (Choose)",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example frostfire",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example everfrost",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optional items",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1052",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic option",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "title": "Jax",
+  "associatedMaps": [],
+  "associatedChampions": [
+    24
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-ph45s-in-depth-guide-to-jax-the-grandmaster-503356",
+  "_author": "PH45",
+  "blocks": [
+    {
+      "type": "Corrupting Start",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Long Sword Start (Read notes)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Dshield start",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic of choice",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots options (read notes)",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "2nd item choices",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive options",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive options",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example (Read notes)",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Follow up items",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive items",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

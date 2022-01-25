@@ -1,0 +1,66 @@
+{
+  "title": "Pyke",
+  "associatedMaps": [],
+  "associatedChampions": [
+    555
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-bizzleberrys-season-11-support-guide-restabbed-531348",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "First purchases",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3854",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "After laning phase",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "End Build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3857",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

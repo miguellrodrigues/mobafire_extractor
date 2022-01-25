@@ -1,0 +1,120 @@
+{
+  "title": "Heimerdinger",
+  "associatedMaps": [],
+  "associatedChampions": [
+    74
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/new-12-2-season-12-master-tier-19000-game-guide-no-519454",
+  "_author": "RezoneVerified",
+  "blocks": [
+    {
+      "type": "First Buy",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mid Game Core",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Season 12 Full Build",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mid Game",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Aggressive Standard Pen Build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

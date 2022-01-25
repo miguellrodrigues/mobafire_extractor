@@ -1,0 +1,349 @@
+{
+  "title": "Trundle",
+  "associatedMaps": [],
+  "associatedChampions": [
+    48
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/actual-trundle-build-best-trundle-build-guide-in-the-world-586622",
+  "_author": "RedNBlue",
+  "blocks": [
+    {
+      "type": "Start #1",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start #2",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back - depends on build",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "3051",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boot Choices",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Item's Over All Builds",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Item Choices",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank/Bruiser Item Options ",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Special Build - Read Description",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Healing Build ",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Juggernaut-ish",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Crappy ADC Problem",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Very Big Trundle Build",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Pentakill Trundle Build ",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Long Games",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

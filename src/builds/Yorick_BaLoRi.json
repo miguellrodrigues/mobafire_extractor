@@ -1,0 +1,169 @@
+{
+  "title": "Yorick",
+  "associatedMaps": [],
+  "associatedChampions": [
+    83
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-fleet-conqueror-yorick-monstrous-build-528679",
+  "_author": "BaLoRi",
+  "blocks": [
+    {
+      "type": "Start Items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back items",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Item Build Version 1",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Item Build Version 2",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Item Build Version 3",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Item Build Version 4",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "2140",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

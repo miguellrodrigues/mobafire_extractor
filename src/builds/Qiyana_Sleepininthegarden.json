@@ -1,0 +1,330 @@
+{
+  "title": "Qiyana",
+  "associatedMaps": [],
+  "associatedChampions": [
+    246
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/empress-of-the-8-bit-jungle-574695",
+  "_author": "Sleepininthegarden",
+  "blocks": [
+    {
+      "type": "Starting Items #1 ",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items #2",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Don't Forget",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Current Meta Build",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vision Control",
+      "items": [
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mobility ",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Survivability ",
+      "items": [
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. Armor ",
+      "items": [
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. Shields",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. Healing ",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. AD ",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs. Magic Burst",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other Boot Options",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard ",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Alternate ",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Armor Stacking",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Healing",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Focused",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

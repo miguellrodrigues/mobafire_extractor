@@ -1,0 +1,1021 @@
+{
+  "title": "Sion",
+  "associatedMaps": [],
+  "associatedChampions": [
+    14
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/quot-slay-the-strong-trample-the-weak-quot-sion-guide-554696",
+  "_author": "Stinkee",
+  "blocks": [
+    {
+      "type": "Standard Start",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Poke (Teemo, Jayce, etc)",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rushing Winter's Approach",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against AD",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against AP/Heavy CC",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against auto attacker",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Slow on basic attack",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage and Tanky",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Initiator",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Team Utility",
+      "items": [
+        {
+          "id": "3001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Juggernaut",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vanguard",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Warden",
+      "items": [
+        {
+          "id": "3001",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fighter",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Split Pusher",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Crit Dmg",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Healing",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mana and Att Speed Slow",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Team Damage",
+      "items": [
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Movespeed",
+      "items": [
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ability Haste and Shield Size",
+      "items": [
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Protect the Carry",
+      "items": [
+        {
+          "id": "3109",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boost Ally Damage",
+      "items": [
+        {
+          "id": "3050",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Aoe Heal and Damage",
+      "items": [
+        {
+          "id": "3107",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Cleanse CC for Ally",
+      "items": [
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Health + Mana",
+      "items": [
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Armor + MR and GIANT shield",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Health and Regen",
+      "items": [
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs. Fed Hypercarry/Splitpusher",
+      "items": [
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Auto Attack Damage",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage and Armor",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage and Shield",
+      "items": [
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush",
+      "items": [
+        {
+          "id": "3181",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs. Ranged",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Aggressive",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "High Damage and Dash",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Dash + Slow",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive vs. AD",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive Vs. AP/CC",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Speed / Anti Slow",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ability Haste",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "1v1 and Splitpush",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "team fighting",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Great) Movespeed",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Great) Anti Shield ",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Great) Ult CD",
+      "items": [
+        {
+          "id": "6696",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Good) Burst and Execute",
+      "items": [
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Okay) De-ward",
+      "items": [
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Okay) Spell Shield",
+      "items": [
+        {
+          "id": "3814",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Health and Damage Cleave",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Burst",
+      "items": [
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush",
+      "items": [
+        {
+          "id": "3181",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Tank and Slow",
+      "items": [
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against AD Teams",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Revive",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Default) Tanky",
+      "items": [
+        {
+          "id": "3854",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "3862",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Armor",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MR and Tenacity",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Speed",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ability Haste",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Roam",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Team Damage",
+      "items": [
+        {
+          "id": "3001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Slow",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Initiator",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Shield the team",
+      "items": [
+        {
+          "id": "3190",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buy Many Control Wards",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Protector",
+      "items": [
+        {
+          "id": "3001",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Great) Protect Your Carry",
+      "items": [
+        {
+          "id": "3109",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Good) Give Carry Damage",
+      "items": [
+        {
+          "id": "3050",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Good) Cleanse Carry",
+      "items": [
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Okay) Heal/True Damage",
+      "items": [
+        {
+          "id": "3107",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Grevious Wounds",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Slow",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mana and Debuff",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs. Fed Hypercarry",
+      "items": [
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boost Ally Damage",
+      "items": [
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Movespeed",
+      "items": [
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Health and Regen",
+      "items": [
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items (read notes)",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots (read notes)",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "REFER TO TANK SION/BRUISER/AD SION BUILD TABS FOR FULL BUILD OPTIONS",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3001",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Hecarim",
+  "associatedMaps": [],
+  "associatedChampions": [
+    120
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/hecarim-jungle-guide-for-preseason-12-patch-11-23-513159",
+  "_author": "DjapeFromSerbia",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example of full build",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

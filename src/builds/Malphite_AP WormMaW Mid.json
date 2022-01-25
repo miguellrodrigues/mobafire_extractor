@@ -1,0 +1,184 @@
+{
+  "title": "Malphite",
+  "associatedMaps": [],
+  "associatedChampions": [
+    54
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-wormmaws-guide-for-malphite-519862",
+  "_author": "AP WormMaW Mid",
+  "blocks": [
+    {
+      "type": "First shop",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic items options",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Options for boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Armor options",
+      "items": [
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Magic resistance options",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mandatory item",
+      "items": [
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "All-around build example",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against AD heavy",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against AP heavy",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

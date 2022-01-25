@@ -1,0 +1,160 @@
+{
+  "title": "Gwen",
+  "associatedMaps": [],
+  "associatedChampions": [
+    887
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-menace-to-lol-gwen-598867",
+  "_author": "King Turtle",
+  "blocks": [
+    {
+      "type": "Jungle Starting Items",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Top Starting Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Buy + Boots",
+      "items": [
+        {
+          "id": "1043",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early Back",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic + Boots",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Legendaries",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Alternative 6th Items",
+      "items": [
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other Situational Items",
+      "items": [
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

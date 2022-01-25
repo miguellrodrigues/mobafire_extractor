@@ -1,0 +1,125 @@
+{
+  "title": "Jayce",
+  "associatedMaps": [],
+  "associatedChampions": [
+    126
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/sanuns-diamond-jayce-guide-top-amp-mid-544239",
+  "_author": "sanun",
+  "blocks": [
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early buys",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "3044",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good options",
+      "items": [
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

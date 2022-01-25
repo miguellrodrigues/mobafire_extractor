@@ -1,0 +1,190 @@
+{
+  "title": "Volibear",
+  "associatedMaps": [],
+  "associatedChampions": [
+    106
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-immortal-volibear-build-574081",
+  "_author": "BaLoRi",
+  "blocks": [
+    {
+      "type": "Start items",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start Jungle Items",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back (1250/1650 Gold)",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build Version 2",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build Version 3",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Build vs Heavy AP",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

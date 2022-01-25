@@ -1,0 +1,74 @@
+{
+  "title": "Blitzcrank",
+  "associatedMaps": [],
+  "associatedChampions": [
+    53
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-bizzleberrys-blitzcrank-season-11-support-guide-530095",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3854",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mid Game",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Final Build",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Ivern",
+  "associatedMaps": [],
+  "associatedChampions": [
+    427
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s11-challenger-contryxs-rank-1-ivern-guide-590093",
+  "_author": "Contryx",
+  "blocks": [
+    {
+      "type": "STARTING ITEMS",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CORE BUILD",
+      "items": [
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MID/LATEGAME (Situational)",
+      "items": [
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE FULL BUILD #1",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE FULL BUILD #2",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

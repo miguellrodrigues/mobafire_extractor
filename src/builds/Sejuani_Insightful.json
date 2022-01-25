@@ -1,0 +1,124 @@
+{
+  "title": "Sejuani",
+  "associatedMaps": [],
+  "associatedChampions": [
+    113
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-18-challenger-na-amp-euw-in-depth-sejuani-guide-tan-597926",
+  "_author": "Insightful",
+  "blocks": [
+    {
+      "type": "Start items",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early game",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "most common full build",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

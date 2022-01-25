@@ -1,0 +1,99 @@
+{
+  "title": "Yuumi",
+  "associatedMaps": [],
+  "associatedChampions": [
+    350
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-bizzleberrys-season-11-yuumi-guide-ap-and-enchante-551050",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "Laning Phase",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "After Laning (Enchanter)",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Endgame",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AP Yuumi",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

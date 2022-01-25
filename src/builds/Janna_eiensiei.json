@@ -1,0 +1,173 @@
+{
+  "title": "Janna",
+  "associatedMaps": [],
+  "associatedChampions": [
+    40
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-eiensieis-guide-to-janna-support-566687",
+  "_author": "eiensiei",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Extra",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Possible Items",
+      "items": [
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive full build example",
+      "items": [
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

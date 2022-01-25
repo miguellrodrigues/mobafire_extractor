@@ -1,0 +1,139 @@
+{
+  "title": "Graves",
+  "associatedMaps": [],
+  "associatedChampions": [
+    104
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-kami-challenger-graves-jungle-guide-530114",
+  "_author": "KamiKZ",
+  "blocks": [
+    {
+      "type": "Starting items ",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "mythic item ",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "second item ",
+      "items": [
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Third item ",
+      "items": [
+        {
+          "id": "3094",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Forth item/powerspike",
+      "items": [
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic item",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Second item",
+      "items": [
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Third item/Powerspike",
+      "items": [
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Last item for 100% crit",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Rakan",
+  "associatedMaps": [],
+  "associatedChampions": [
+    497
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s-12-oneshot-almost-everyone-full-ap-rakan-mid-593104",
+  "_author": "Bughans",
+  "blocks": [
+    {
+      "type": "Start",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back (1675 gold)",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Damage mythic",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive mythic",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boot options",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "After mythic and boots",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Last item",
+      "items": [
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy builds a LOT of MR (replaces lb)",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has lots of heals (replaces lb)",
+      "items": [
+        {
+          "id": "3011",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

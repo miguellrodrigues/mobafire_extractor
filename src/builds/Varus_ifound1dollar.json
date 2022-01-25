@@ -1,0 +1,163 @@
+{
+  "title": "Varus",
+  "associatedMaps": [],
+  "associatedChampions": [
+    110
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/varus-the-hybrid-king-patch-10-24-preseason-wip-540810",
+  "_author": "ifound1dollar",
+  "blocks": [
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back (<1300g)",
+      "items": [
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "first back (1300g+)",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "standard mythic",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "second/third item",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "standard on-hit build",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "standard crit build",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "situational items",
+      "items": [
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

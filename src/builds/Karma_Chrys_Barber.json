@@ -1,0 +1,319 @@
+{
+  "title": "Karma",
+  "associatedMaps": [],
+  "associatedChampions": [
+    43
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/never-fear-change-invincible-top-lane-karma-516987",
+  "_author": "Chrys_Barber",
+  "blocks": [
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items 2",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back options",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3057",
+          "count": 1
+        },
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "4642",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Must buy",
+      "items": [
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Gauntlet Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Sunfire Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Sunderer Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Mandate Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Renewer Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Samira",
+  "associatedMaps": [],
+  "associatedChampions": [
+    360
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-ikeepittacos-grandmaster-samira-guide-season-12-581065",
+  "_author": "IKeepItTaco",
+  "blocks": [
+    {
+      "type": "Starting items ",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items vs squishy comp",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items vs tanky comp ",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Can replace IE with BT (notes)",
+      "items": [
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

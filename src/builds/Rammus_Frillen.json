@@ -1,0 +1,240 @@
+{
+  "title": "Rammus",
+  "associatedMaps": [],
+  "associatedChampions": [
+    33
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/tips-for-jungling-543638",
+  "_author": "Frillen",
+  "blocks": [
+    {
+      "type": "Starters",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First backs",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "My favorites",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3066",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Durable, weak vs kite",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Smurfing with on-hit?",
+      "items": [
+        {
+          "id": "1018",
+          "count": 1
+        },
+        {
+          "id": "6677",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Balanced",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "On-hit (big balls required if not smurfing)",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS full AD",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS full AP",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tank options",
+      "items": [
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Engage",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Teamfighting",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "On-hit options (big balls required if not smurfing)",
+      "items": [
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

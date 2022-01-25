@@ -1,0 +1,396 @@
+{
+  "title": "Tryndamere",
+  "associatedMaps": [],
+  "associatedChampions": [
+    23
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/in-depth-rank-1-challenger-tryndamere-by-yasukeh-539890",
+  "_author": "Yasukeh",
+  "blocks": [
+    {
+      "type": "Dorans Standard (Recommended)",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive start",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Refill Pot Long Sword",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rejuv start",
+      "items": [
+        {
+          "id": "1006",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Yasukeh's Challenger start ",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1006",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "General Core Items ",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard full build (Situational last 2 items)",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items ",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": " First back items ",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3086",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3086",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items (Phantom Dancer standard)",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example full build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First items",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Last 2 items situational",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options ",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

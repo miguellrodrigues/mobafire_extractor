@@ -1,0 +1,123 @@
+{
+  "title": "Nidalee",
+  "associatedMaps": [],
+  "associatedChampions": [
+    76
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-24-nidalee-jungle-1v9-545075",
+  "_author": "Pyroen",
+  "blocks": [
+    {
+      "type": "Starting",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early-Mid game",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3057",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "3191",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Carry pants/split push",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Team fighter/Healer/Peeler/bruiser",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

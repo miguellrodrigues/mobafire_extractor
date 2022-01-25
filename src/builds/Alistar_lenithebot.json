@@ -1,0 +1,191 @@
+{
+  "title": "Alistar",
+  "associatedMaps": [],
+  "associatedChampions": [
+    12
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/how-to-destroy-as-support-alistar-alistar-season-11-guide-592424",
+  "_author": "lenithebot",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal First Back",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Options",
+      "items": [
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boot Options",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Non Mythic Support Items",
+      "items": [
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Support Build Example",
+      "items": [
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard tank Example",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Engage Build Example",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3050",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

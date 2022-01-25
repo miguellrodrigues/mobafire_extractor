@@ -1,0 +1,129 @@
+{
+  "title": "Lillia",
+  "associatedMaps": [],
+  "associatedChampions": [
+    876
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-doubtfulls-challenger-lillia-guide-581881",
+  "_author": "Doubtfull",
+  "blocks": [
+    {
+      "type": "Standard Completed Build",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "1035",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive Options",
+      "items": [
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive Options",
+      "items": [
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

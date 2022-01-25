@@ -1,0 +1,162 @@
+{
+  "title": "Riven",
+  "associatedMaps": [],
+  "associatedChampions": [
+    92
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-become-a-riven-god-404727",
+  "_author": "Seth346",
+  "blocks": [
+    {
+      "type": "Battle of Attrition",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Got to be quicker than that",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Component Order",
+      "items": [
+        {
+          "id": "6029",
+          "count": 1
+        },
+        {
+          "id": "3044",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Meta Build (Vs AD)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Meta Build (Vs AP)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Meta Build (No Resistances)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Psychopath Build (Testing)",
+      "items": [
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

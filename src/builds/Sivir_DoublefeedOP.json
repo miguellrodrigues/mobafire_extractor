@@ -1,0 +1,157 @@
+{
+  "title": "Sivir",
+  "associatedMaps": [],
+  "associatedChampions": [
+    15
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-12-the-ultimate-s11-grandmaster-sivir-guide-584719",
+  "_author": "DoublefeedOP",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Options",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "6675",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build Example (Lethal Tempo",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Lethality Example build (Dark Harvest) (Personal Favorite)",
+      "items": [
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "title": "Xerath",
+  "associatedMaps": [],
+  "associatedChampions": [
+    101
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-climb-responsibly-with-xerath-social-distance-mage-570556",
+  "_author": "crabbix",
+  "blocks": [
+    {
+      "type": "Buy these when the game loads",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal first back",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you can't stay til 1300g",
+      "items": [
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Optimal Mythic",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard midgame",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "The overconfidence special",
+      "items": [
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AP assassins",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other mythic options",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AD assassins",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "PLEASE BUY THESE",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Full Build",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

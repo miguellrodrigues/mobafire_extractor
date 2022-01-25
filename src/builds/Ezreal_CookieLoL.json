@@ -1,0 +1,299 @@
+{
+  "title": "Ezreal",
+  "associatedMaps": [],
+  "associatedChampions": [
+    81
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-challenger-ezreal-build-amp-guide-by-cookielol-605212",
+  "_author": "CookieLoL",
+  "blocks": [
+    {
+      "type": "If lane is really hard and you need to Q to CS ",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Caitlyn &Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Lucidity boots are absolutely amazing on Ezreal, no other Boots are necessary ",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "I'm a firm believer that rushing Manamune is always better if you're building Trinity Force or Divine Sunderer",
+      "items": [
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's for the new S12 Crown Build that's actually really good right now even after the nerfs to Crown in 11.24!",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Default Mythic, Build this if the other 2 don't fit",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good into 2-3+ HP/ARMOR Stackers such as Ornn, Hecarim, Lee Sin, etc",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build Manamune second if you bought Essence Reaver first and you're doing the Crown Build! ",
+      "items": [
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "S12 NEW META! It's getting nerfed in 11.24 but It's still good into Burst/Dive Champions such as Zed, Qiyana, Hecarim, etc",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this if the enemy has some armor items +/ mountain drakes, the slow is also amazing for Ezreal as it allows you to land skillshots easier",
+      "items": [
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this if the enemy has a lot of AD damage, even better if they rely on attack speed",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good 1st/2nd Item with the new Crown build",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "S12 Item, Crown's REALLY good even after the 11.24 Nerfs. Great item if the enemy has a lot of Burst/Dive Characters such as Hecarim, Zed, Talon, Qiyana, etc",
+      "items": [
+        {
+          "id": "4644",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core 3rd / 4th Item for Ezreal, especially good if enemy has a bunch of AD attackers that utilities attack speed",
+      "items": [
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core item for Ezreal, extremely good 5th or 6th Item option and I build this every game",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Crown works better IMO but Zhonya's still good into Zed/Karthus & Assassins in general",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this ONLY if your team DOESN'T have anti-healing and enemy team has healing you need to reduce",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this ONLY if enemy has a Malzahar, Skarner, Warwick or Mordekaiser and you need to remove their ulti",
+      "items": [
+        {
+          "id": "6035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kinda meh, but not bad if the enemy has 75%+ AP Damage",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kinda meh, but not bad if the enemy has 75%+ AP Damage",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Default Build (Do this if the other 2 don't fit)",
+      "items": [
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Into Dive/Burst Champions (Zed, Qiyana, Talon, etc)",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Into 2+ HP/ARMOR Stackers (Dr. Mundo, Lee Sin, Xin Zhao, etc)",
+      "items": [
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

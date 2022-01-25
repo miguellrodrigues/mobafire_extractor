@@ -1,0 +1,287 @@
+{
+  "title": "Akali",
+  "associatedMaps": [],
+  "associatedChampions": [
+    84
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-1-the-ultimate-guide-to-akali-the-rogue-assassin-fr-en-587802",
+  "_author": "iwontdominatelol",
+  "blocks": [
+    {
+      "type": "Starting items ",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early Items",
+      "items": [
+        {
+          "id": "3145",
+          "count": 1
+        },
+        {
+          "id": "4635",
+          "count": 1
+        },
+        {
+          "id": "3191",
+          "count": 1
+        },
+        {
+          "id": "4632",
+          "count": 1
+        },
+        {
+          "id": "3155",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythics",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core/Semi-core Items",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3140",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Build",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against tankier comps (conq)",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Electrocute AP one shot build",
+      "items": [
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against heavy healing + tanks/bruisers (conq)",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

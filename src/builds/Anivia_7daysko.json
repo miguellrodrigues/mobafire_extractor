@@ -1,0 +1,449 @@
+{
+  "title": "Anivia",
+  "associatedMaps": [],
+  "associatedChampions": [
+    34
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-12-think-beyond-one-lifetime-in-depth-matchups-513176",
+  "_author": "7daysko",
+  "blocks": [
+    {
+      "type": "Start #1 ",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start #2",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start #3",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early Game Picks ",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Picks",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Not Enough Gold for an Item?",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Offensive Items",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Defensive Items",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Consumables & Trinkets",
+      "items": [
+        {
+          "id": "2139",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Final Build (Liandry's)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Final Build (Everfrost)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3363",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Item Options",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Press F to Pay Respects",
+      "items": [
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "1027",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        },
+        {
+          "id": "1026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example ARAM Build",
+      "items": [
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Feeling Brave?",
+      "items": [
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Early Buys",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1056",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

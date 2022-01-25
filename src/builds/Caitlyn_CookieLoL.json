@@ -1,0 +1,266 @@
+{
+  "title": "Caitlyn",
+  "associatedMaps": [],
+  "associatedChampions": [
+    51
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-challenger-caitlyn-build-amp-guide-by-cookielol-604083",
+  "_author": "CookieLoL",
+  "blocks": [
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Varus & Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal First Recall (Gives ATKS to Stack Headshots faster & MS to Kite, escape ganks & move around map with",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you're going Eclipse this item is REALLY good",
+      "items": [
+        {
+          "id": "3134",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's never worth to buy any boots but Berserkers on most ADCs right now",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If I need Mobility, for example vs Bard/Ornn R",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "I'll build Eclipse if I don't need the mobility that Galeforce offers",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Eclipse does a better job against Tanks ",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's not worth after nerfs",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Default, build this if the others don't fit",
+      "items": [
+        {
+          "id": "3095",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has 0 champions that can stack HP/ARMOR Items AND you're ahead",
+      "items": [
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has 2+ HP/ARMOR stackers such as Lee Sin, Xin Zhao, Ornn, etc ",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ONLY COMBINED WITH KRAKEN, into 3+ HEAVY HP/ARMOR STACKERS",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this now if you built Galeforce first ",
+      "items": [
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you built Eclipse first go LDR here",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you're going Eclipse Build buy Infinity Edge now",
+      "items": [
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buy it 4th if you don't have it already",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good into long range champions especially in synergy with the Headshot",
+      "items": [
+        {
+          "id": "3094",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good into Poke, Burst & DOTS such as Syndra, Viego, Teemo",
+      "items": [
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good into AD Assassins such as Zed, Talon, Qiyana, etc",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Don't buy if enemy doesn't have Warwick, Mordekaiser, Malzahar or Skarner and you need to remove their ulti",
+      "items": [
+        {
+          "id": "3139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Cookie Cutter Galeforce Build",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Cookie Cutter Eclipse Build ",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3094",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

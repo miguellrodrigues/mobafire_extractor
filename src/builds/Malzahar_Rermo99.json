@@ -1,0 +1,274 @@
+{
+  "title": "Malzahar",
+  "associatedMaps": [],
+  "associatedChampions": [
+    90
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/mortality-is-weakness-choose-your-style-malzahar-guide-516210",
+  "_author": "Rermo99",
+  "blocks": [
+    {
+      "type": "Best Start for most",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "More Damage",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Support? Yes",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back (goal)",
+      "items": [
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back (less than 1100g)",
+      "items": [
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1027",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Item",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core against Squish Champion",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Against Solid Champion",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Third Item (Choose 1)",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fourth(Choose depending on your opponent)",
+      "items": [
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fifth(Choosedepending on your opponent",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MORE DAMAGE",
+      "items": [
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "More sustain/CC",
+      "items": [
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "My personnal favourite",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kinda Tank Malzahar",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

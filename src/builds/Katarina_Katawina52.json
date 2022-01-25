@@ -1,0 +1,482 @@
+{
+  "title": "Katarina",
+  "associatedMaps": [],
+  "associatedChampions": [
+    55
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s11-katawinas-challenger-euw-katarina-guide-588850",
+  "_author": "Katawina52",
+  "blocks": [
+    {
+      "type": "Bork first item or aggressive 1st item with conq",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "the game looks snowbally and u want the extra 3 pots that u can only get with sword, but u need AP",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ap path, but good stats 1st item for conq ot playing aggro, but care only 1 pot.",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vs hard/poke matchups (survive lane)",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mercs if they have heavy cc",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Steelcaps if full ad enemy (conqueror path only)",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sorcerer shoes with any path if u dont need the merc/tabi",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational after rift",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "NEW S12 BUILD IM GOING (Sunderer > nashor or wits end > shadowflame if vs shields) > situational",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "My favorite build [Best with elec, but conq also fine] (Situational after proto)",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you need zhonya 2nd vs zed/fizz etc (situational after zhonya) TAKE INGENIOUS HUNTER!",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Dark Harvest fun ap path",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Best ad Build (can also go sunderer 1st into wits)",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ad build 2 (situational after trinity)",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Sunderer tank Kata (vs full ad)",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fun ad build + still not bad (tank stats after wits/guinsoo)",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If they have shields this item is broken 2nd or 3rd",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SEEKERS RUSH VS AD MID ALWAYS!",
+      "items": [
+        {
+          "id": "3191",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs ap mid+jgl get this 1st ALWAYS (AP path proto/rift)",
+      "items": [
+        {
+          "id": "4632",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "vs ap bursts (later on)",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good late game item for big teamfight won me tons of games in late game.",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Go this 1st item rush vs ap mid/jg if u go ad path (sunderer 2nd)",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If they stack MR (get this after core items if they STACK MR)",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If u have 700-800 gold in your first back",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational after Death's Dance",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full tank after these 3 items ",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's really important to know that u should find ur OWN personal build path as well, a lot of times u can swap the items for example with full ap u can go nashor/full dmg/defensive after proto, same goes for the conqueror path, cuz s11 Katarina has so much variety that it's hard to tell which build u prefer the most and which playstyle fits you the most.",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

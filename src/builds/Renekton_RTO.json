@@ -1,0 +1,125 @@
+{
+  "title": "Renekton",
+  "associatedMaps": [],
+  "associatedChampions": [
+    58
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-15-rtos-6-000-game-challenger-croc-guide-530190",
+  "_author": "RTO",
+  "blocks": [
+    {
+      "type": "Standard Start",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ideal Final Build (In Order)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

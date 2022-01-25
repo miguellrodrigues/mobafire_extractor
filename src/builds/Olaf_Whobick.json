@@ -1,0 +1,219 @@
+{
+  "title": "Olaf",
+  "associatedMaps": [],
+  "associatedChampions": [
+    2
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/11-4-whobicks-detailed-olaf-top-jungle-guide-422678",
+  "_author": "Whobick",
+  "blocks": [
+    {
+      "type": "Starting Items",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "Warding Totem Removed",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "Frozen Mallet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "Ninja Tabi",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Ward!!!",
+      "items": [
+        {
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "Sweeping Lens",
+          "count": 1
+        },
+        {
+          "id": "Warding Totem Removed",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive Items",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Defensive Items",
+      "items": [
+        {
+          "id": "Frozen Mallet",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build 1",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "Frozen Mallet",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build 2",
+      "items": [
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "Frozen Mallet",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "Ninja Tabi",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
