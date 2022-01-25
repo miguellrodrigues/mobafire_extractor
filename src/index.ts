@@ -19,7 +19,6 @@ for (const url of urls) {
 
 import fs from 'fs';
 import { get_champion_builds_from_mobafire } from './services/mobafire';
-import { generate_lol_build_file_from_url } from "./build_extractor";
 
 const champions = JSON.parse(fs.readFileSync('src/data/champions.json', 'utf8'));
 

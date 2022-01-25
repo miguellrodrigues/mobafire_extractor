@@ -15,7 +15,7 @@ async function extract_build_items_from_mobafire(url: string) {
  
   const champion_name = build[0]
                         .replace('\n', '')
-                        .replace('\nBuild', '');
+                        .replace('\nBuild', '').replace('\'', '');
 
   // find all divs with class 'view-guide__items'
   $('.view-guide__items').each((i, el) => {
@@ -50,6 +50,7 @@ async function extract_build_items_from_mobafire(url: string) {
 async function get_champion_builds_from_mobafire(champions: Array<{name: string, id: string}>) {
   const url = 'https://www.mobafire.com/league-of-legends/champion/'
   
+  var i = 1;
   for (const champion of champions) {
     console.log(champion.name);
     const champion_url = url + champion.name.toLocaleLowerCase();
@@ -62,7 +63,6 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       const urls = Array<{href: string, likes: number}>();
 
       //get the most liked
-      //document.querySelector("#content > div > div.mf-responsive__wrap.mf-redesign.champ > div.mf-responsive__leftCol > div:nth-child(2) > div.mf-listings > a.mf-listings__item.player-master > div.mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1) > i")
 
       $('.mf-listings__item').each((i, el) => {
         const likes = $(el).find('a > .mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1)');
@@ -83,8 +83,10 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       const most_liked = urls[0];
 
       generate_lol_build_file_from_url(
-        `https://www.mobafire.com${most_liked.href}`
+        `https://www.mobafire.com${most_liked.href}`,
+        i
       );
+      i += 1;
     }catch(e){
     }
   }

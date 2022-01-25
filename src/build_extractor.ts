@@ -33,7 +33,7 @@ async function extract_items_name_and_id(items_raw: any) {
 }
 
 
-async function generate_lol_build_file_from_url(url: string) {
+async function generate_lol_build_file_from_url(url: string, index?: number) {
   const { blocks, author, champion_name } = await extract_build_items_from_mobafire(url);
 
   for (const block of blocks) {
@@ -47,12 +47,10 @@ async function generate_lol_build_file_from_url(url: string) {
       }
     }
   }
-
-  const champion_id = Number(
-    champions.find((champion: { name: string; id: string; }) => {
-      return champion.name.toLowerCase() === champion_name.toLocaleLowerCase();
-    }).id
-  );
+  
+  const champion_id = Number(champions.find((champion: { name: string }) => {
+    return champion.name.toLocaleLowerCase() === champion_name.toLocaleLowerCase();
+  }).id);
 
   const lol_build = {
     title: champion_name,
@@ -63,8 +61,13 @@ async function generate_lol_build_file_from_url(url: string) {
     blocks
   };
 
-  const lol_build_file_path = `src/builds/${champion_name}_${author}.json`;
   const lol_build_file = JSON.stringify(lol_build, null, 2);
+  var lol_build_file_path = `src/builds/${champion_name}_${author}.json`;
+
+  if (index) {
+    fs.mkdirSync(`src/builds/${champion_name}/Recommended`, { recursive: true });
+    lol_build_file_path = `src/builds/${champion_name}/Recommended/RIOT_ItemSet_${index}.json`;
+  }
 
   fs.writeFileSync(lol_build_file_path, lol_build_file);
 }
