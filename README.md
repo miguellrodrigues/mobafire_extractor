@@ -14,13 +14,13 @@ Projeto para extrair as builds de campeões do site mobafire
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/miguellrodrigues/mobafire_extractor.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd mobafire_extractor
 ```
 
 Instale as dependências
