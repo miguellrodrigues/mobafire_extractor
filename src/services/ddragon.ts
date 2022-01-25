@@ -7,7 +7,6 @@ const ddragon_api = axios.create({
   baseURL: url,
 });
 
-
 async function fetch_champions() {
   const champions_file_path = 'src/model/champions_enUS.json';
   const { data } = await ddragon_api.get(`/cdn/12.2.1/data/en_US/champion.json`);
@@ -22,9 +21,7 @@ async function fetch_champions() {
 async function fetch_items(language: string) {
   const response = await ddragon_api.get(`/cdn/12.2.1/data/en_US/${language}.json`);
   const data = response.data;
-
-  // print keys
-
+  
   const raw_items = data.data;
   const items = Array<Item>();
 
