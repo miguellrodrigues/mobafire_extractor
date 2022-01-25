@@ -56,7 +56,6 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
   }>();
 
   for (const champion of champions) {
-    console.log(champion.name);
     const champion_url = url + champion.name.toLocaleLowerCase();
 
     try{

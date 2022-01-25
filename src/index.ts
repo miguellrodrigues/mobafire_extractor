@@ -13,6 +13,7 @@ async function extract_all() {
     const { author, champion_name } = await generate_lol_build_file_from_url(
       `https://www.mobafire.com${url.href}`
     );
+    
     console.log(`${champion_name} by ${author}`);
   }
 }
