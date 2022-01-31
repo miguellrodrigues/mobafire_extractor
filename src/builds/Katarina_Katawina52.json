@@ -104,10 +104,14 @@
       ]
     },
     {
-      "type": "NEW S12 BUILD IM GOING (Sunderer > nashor or wits end > shadowflame if vs shields) > situational",
+      "type": "NEW S12 BUILD (Sunderer > nashor or wits end > shadowflame if vs shields) > situational",
       "items": [
         {
           "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3020",
           "count": 1
         },
         {
@@ -216,14 +220,14 @@
       ]
     },
     {
-      "type": "Best ad Build (can also go sunderer 1st into wits)",
+      "type": "Best ad Build",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "6632",
           "count": 1
         },
         {
-          "id": "6632",
+          "id": "3091",
           "count": 1
         },
         {
@@ -232,10 +236,6 @@
         },
         {
           "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3091",
           "count": 1
         },
         {

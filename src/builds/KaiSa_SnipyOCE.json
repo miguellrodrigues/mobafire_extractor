@@ -1,146 +1,170 @@
 {
-  "title": "Vladimir",
+  "title": "KaiSa",
   "associatedMaps": [],
   "associatedChampions": [
-    8
+    145
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/vladimir-guide-patch-12-2-mid-top-iron-to-diamond-524864",
-  "_author": "PlayCabex",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/snipys-diamond-ap-kaisa-guide-mid-bot-546307",
+  "_author": "SnipyOCE",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "STARTING ITEMS:",
       "items": [
         {
-          "id": "2003",
+          "id": "1036",
           "count": 1
         },
         {
-          "id": "1056",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Back (look notes)",
+      "type": "BUY AT LEAST A TEAR ON FIRST RECALL:",
       "items": [
         {
-          "id": "3145",
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Q EVO POWERSPIKE:",
+      "items": [
+        {
+          "id": "3004",
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "1037",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "W EVO POWERSPIKE:",
+      "items": [
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "1037",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "1026",
           "count": 1
         },
         {
           "id": "1052",
           "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
         }
       ]
     },
     {
-      "type": "Second back/third back (look notes)",
+      "type": "BOOTS CHOICES:",
       "items": [
         {
-          "id": "3152",
+          "id": "3158",
           "count": 1
         },
         {
           "id": "3020",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "MYTHIC CHOICES:",
+      "items": [
         {
-          "id": "3108",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "2003",
+          "id": "4644",
           "count": 1
         }
       ]
     },
     {
-      "type": "First items (LOOK NOTES)",
+      "type": "CORE BUILD:",
       "items": [
         {
-          "id": "3152",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3042",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LATEGAME ITEM OPTIONS:",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE FULL BUILD:",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
           "count": 1
         },
         {
           "id": "3089",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "5th item (read notes)",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
         },
         {
           "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3165",
           "count": 1
         }
       ]
     },
     {
-      "type": "6th item (READ NOTES)",
+      "type": "DEFENSIVE OPTIONS:",
       "items": [
         {
-          "id": "4637",
-          "count": 1
-        },
-        {
           "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3065",
           "count": 1
         },
         {
@@ -150,47 +174,31 @@
       ]
     },
     {
-      "type": "build i usully do (look notes)",
+      "type": "CORE BUILD:",
       "items": [
         {
-          "id": "3152",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3042",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "2139",
+          "id": "3115",
           "count": 1
         }
       ]
     },
     {
-      "type": "build against squishies (look notes)",
+      "type": "LATEGAME ITEM OPTIONS:",
       "items": [
         {
-          "id": "3152",
-          "count": 1
-        },
-        {
-          "id": "3020",
+          "id": "3157",
           "count": 1
         },
         {
@@ -198,7 +206,32 @@
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE FULL BUILD",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3115",
           "count": 1
         },
         {
@@ -206,11 +239,7 @@
           "count": 1
         },
         {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "2139",
+          "id": "3089",
           "count": 1
         }
       ]

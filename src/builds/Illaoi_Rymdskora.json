@@ -1,21 +1,17 @@
 {
-  "title": "Braum",
+  "title": "Illaoi",
   "associatedMaps": [],
   "associatedChampions": [
-    201
+    420
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/braum-12-2-support-guide-the-shepherd-of-adcs-486977",
-  "_author": "Loolez",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-1-rymdskoras-backwater-genius-guide-to-illaoi-590512",
+  "_author": "Rymdskora",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "3854",
-          "count": 1
-        },
-        {
-          "id": "2003",
+          "id": "2033",
           "count": 1
         },
         {
@@ -25,122 +21,56 @@
       ]
     },
     {
-      "type": "First back",
+      "type": "Mythic Choices",
       "items": [
         {
-          "id": "3855",
+          "id": "6630",
           "count": 1
         },
         {
-          "id": "3117",
+          "id": "6631",
           "count": 1
         },
         {
-          "id": "2055",
+          "id": "6632",
           "count": 1
         },
         {
-          "id": "3364",
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "6662",
           "count": 1
         }
       ]
     },
     {
-      "type": "Early game build",
+      "type": "General Mid/Late",
       "items": [
         {
-          "id": "3855",
+          "id": "3053",
           "count": 1
         },
         {
-          "id": "3117",
+          "id": "3193",
           "count": 1
         },
         {
-          "id": "3067",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3105",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "3065",
           "count": 1
         }
       ]
     },
     {
-      "type": "Mid game build",
+      "type": "Situational Armor",
       "items": [
-        {
-          "id": "3857",
-          "count": 1
-        },
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full end game build",
-      "items": [
-        {
-          "id": "3857",
-          "count": 1
-        },
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        },
-        {
-          "id": "3109",
-          "count": 1
-        },
         {
           "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Item swaps against heavy AD",
-      "items": [
-        {
-          "id": "3047",
           "count": 1
         },
         {
@@ -148,48 +78,99 @@
           "count": 1
         },
         {
+          "id": "3110",
+          "count": 1
+        },
+        {
           "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3068",
-          "count": 1
-        },
-        {
-          "id": "3193",
           "count": 1
         }
       ]
     },
     {
-      "type": "Item swaps against heavy AP",
+      "type": "Situational Magic Resist",
       "items": [
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
         {
           "id": "4401",
           "count": 1
         },
         {
-          "id": "6664",
+          "id": "6035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Standard Vs AP / AD threats.",
+      "items": [
+        {
+          "id": "6632",
           "count": 1
         },
         {
-          "id": "3068",
+          "id": "3053",
           "count": 1
         },
         {
           "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Grasp / Fimbul.",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Booties",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
           "count": 1
         }
       ]

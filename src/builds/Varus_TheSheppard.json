@@ -4,14 +4,14 @@
   "associatedChampions": [
     110
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/varus-the-hybrid-king-patch-10-24-preseason-wip-540810",
-  "_author": "ifound1dollar",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-sheppards-varus-mid-guide-ad-amp-ap-591977",
+  "_author": "TheSheppard",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "STARTING ITEMS - STANDARD",
       "items": [
         {
-          "id": "1055",
+          "id": "3070",
           "count": 1
         },
         {
@@ -21,140 +21,160 @@
       ]
     },
     {
-      "type": "First back (<1300g)",
+      "type": "First Back - Against a Squishy lane opponent",
       "items": [
         {
-          "id": "1042",
+          "id": "3134",
           "count": 1
         },
         {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "1001",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "first back (1300g+)",
+      "type": "Essential Items - Early Game",
       "items": [
         {
-          "id": "6670",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "standard mythic",
+      "type": "Essential Items - Mid Game",
       "items": [
         {
-          "id": "6673",
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "second/third item",
+      "type": "Example Full Build 1 - Hyper Carry ",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3042",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
           "count": 1
         }
       ]
     },
     {
-      "type": "standard on-hit build",
+      "type": "Example Full Build 2 - Tank Melter",
       "items": [
         {
-          "id": "6673",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
+          "id": "3042",
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "6695",
           "count": 1
         },
         {
-          "id": "3091",
+          "id": "6676",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3036",
           "count": 1
         }
       ]
     },
     {
-      "type": "standard crit build",
+      "type": "Example Full Build 3 - Against Heavy CC",
       "items": [
         {
-          "id": "6673",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "3046",
+          "id": "3042",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "3814",
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3142",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "6694",
           "count": 1
         }
       ]
     },
     {
-      "type": "situational items",
+      "type": "",
       "items": [
         {
-          "id": "3033",
+          "id": "3004",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3139",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3115",
+          "id": "4645",
           "count": 1
         },
         {
-          "id": "3165",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "3089",
           "count": 1
         }
       ]

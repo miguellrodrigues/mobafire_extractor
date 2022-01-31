@@ -1,5 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
+import { generate_lol_build_file_from_url } from '../build_extractor';
 import { Block, Item } from '../model/build';
 
 async function extract_build_items_from_mobafire(url: string) {
@@ -9,13 +10,11 @@ async function extract_build_items_from_mobafire(url: string) {
 
   const blocks = Array<Block>();
   const author = $('#scroll-follower-container > div.side-toc > div.side-toc__top > div > span.nickname').text();
-  const build = $('#content > div > div.mf-responsive__wrap.mf-redesign.view-guide > div.mf-responsive__topCol > div > div.view-guide__header__top > h1')
-  .text().split(' ');
- 
-  const champion_name = build[0]
-                        .replace('\n', '')
-                        .replace('\nBuild', '')
-                        .replace('\'', '');
+
+  const build = $('#content > div > div.mf-responsive__wrap.mf-redesign.view-guide > div.mf-responsive__rightCol > div.sidebar-module.sidebar-module__topBuilds.mf-redesign.self-clear > a').text();
+  const champion_name = build.split(' ')[1].replace('\'', '');
+
+  console.log(champion_name)
 
   // find all divs with class 'view-guide__items'
   $('.view-guide__items').each((i, el) => {
@@ -65,7 +64,7 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       const urls = Array<{href: string, likes: number}>();
 
       $('.mf-listings__item').each((_, el) => {
-        const rating = $(el).find('.mf-listings__item__rating__circle__inner > span').text();
+        // const rating = $(el).find('.mf-listings__item__rating__circle__inner > span').text();
 
         const likes = $(el).find('a > .mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1)');
         const likes_count = likes.text().trim();
@@ -83,6 +82,10 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
 
       // get the most liked
       const most_liked = urls[0];
+
+      await generate_lol_build_file_from_url(
+        `https://www.mobafire.com${most_liked.href}`
+      );
 
       builds_urls.push(most_liked);
     }catch(e){

@@ -1,0 +1,529 @@
+{
+  "title": "Zeri",
+  "associatedMaps": [],
+  "associatedChampions": [
+    221
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-challenger-zeri-build-amp-guide-by-cookielol-607824",
+  "_author": "CookieLoL",
+  "blocks": [
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Caitlyn & Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Recall",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Second Recall",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's a Sheen item and It gives a lot of good stats that Zeri likes ",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Possible best second item",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Enemy AP Threats",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "You stack it instantly with 1 Q",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Wave clear, provides health, works well with completed items",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has a lot of HP stackers then this is really good for shredding that ",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has a lot of AD damage, especially Crit damage",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has a lot of AP damage and you need MR ",
+      "items": [
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If your team cannot / will not build anti healing and enemy has a lot of healing ",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If enemy has a lot of AD damage and also healing and you team cant/wont bu anti-healing",
+      "items": [
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Caitlyn & Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Recall",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Second Recall",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Kraken feels good, more DPS than Shieldbow",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Shieldbow is nice to survive longer and extend fights but less DPS than Kraken",
+      "items": [
+        {
+          "id": "6673",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "IMO, most consistent boots out of all of them",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If enemy has 80%+ AD Damage",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Generally really good ",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Infinity Edge always 3rd Item here ",
+      "items": [
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Gives you a lot more AoE and DPS ",
+      "items": [
+        {
+          "id": "3085",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Reduces E CD by a lot so can spam ",
+      "items": [
+        {
+          "id": "6675",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Caitlyn & Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First/Second Recall (after 5th wave)",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First/Second Recall (after 7th wave)",
+      "items": [
+        {
+          "id": "1043",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "You build Recurve bow into Nashors Tooth",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Berserkers are still the best on Zeri cuz Penetration doesn't really work on her ",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's the best AP Mythic by far",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "You build Sheen into this, It gives a lot of damage and It's good ",
+      "items": [
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build this if you don't need the other 2 desperately",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has a lot of dive / burst / AD assassins ",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has AP threats and It's really good into Leona R, Karthus R, Nocturne R, etc",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy barely has any MR",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS Dive Support (Rell, Ali, etc)",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS 2x Ranged / Poke (Caitlyn & Karma, etc)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First/Second Recall (around after 5th wave)",
+      "items": [
+        {
+          "id": "3057",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First/Second (around after 7th wave)",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Trinity Force is still the best Mythic IMO",
+      "items": [
+        {
+          "id": "3078",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It gives you a lot more wave/camp clear and allows you to fight in waves easier",
+      "items": [
+        {
+          "id": "3077",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has 50+% AP Damage",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If enemy barely has AP damage and you don't need Wit's End",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you went Wit's End 2nd",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If you went Blade of the Ruined King 2nd ",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "It's good if enemies cannot build Serpents Fang ",
+      "items": [
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Finish Titanic Hydra from the Tiamat ",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemies have a lot of True &/ AD Damage ",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemies have a lot of Crit Champions especially Melee such as Tryndamere, Yone, Yasuo, etc",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemies have a LOT of AP Burst champions such as Diana, Katarina, Vex etc",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemies have a LOT of AP Ranged Characters such as Syndra, Cassiopeia",
+      "items": [
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -7,15 +7,7 @@ import { get_champion_builds_from_mobafire } from './services/mobafire';
 const champions = JSON.parse(fs.readFileSync('src/data/champions.json', 'utf8'));
 
 async function extract_all() {
- const urls = await get_champion_builds_from_mobafire([champions[0], champions[1]]);
-
-  for (const url of urls) {
-    const { author, champion_name } = await generate_lol_build_file_from_url(
-      `https://www.mobafire.com${url.href}`
-    );
-    
-    console.log(`${champion_name} by ${author}`);
-  }
+  await get_champion_builds_from_mobafire(champions);
 }
 
 extract_all();
@@ -26,4 +18,4 @@ extract_all();
   await generate_lol_build_file_from_url(url);
 }
 
-extract_one('https://www.mobafire.com/league-of-legends/build/12-01-desperate-nasus-challenger-nasus-mid-in-depth-guide-605021');*/
+extract_one('https://www.mobafire.com/league-of-legends/build/season-12-rank-1-kha-zix-jungle-guide-kamikhazix-challenger-528476');*/

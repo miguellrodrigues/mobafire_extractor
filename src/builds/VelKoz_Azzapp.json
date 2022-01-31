@@ -1,17 +1,17 @@
 {
-  "title": "Senna",
+  "title": "VelKoz",
   "associatedMaps": [],
   "associatedChampions": [
-    235
+    161
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-slipps-hypercarry-senna-support-571410",
-  "_author": "SlippStream",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-season-12-azzapps-guide-to-velkoz-mid-sup-528463",
+  "_author": "Azzapp",
   "blocks": [
     {
       "type": "Starting items",
       "items": [
         {
-          "id": "3862",
+          "id": "1056",
           "count": 1
         },
         {
@@ -21,263 +21,138 @@
       ]
     },
     {
-      "type": "Boot Options",
+      "type": "Core items",
       "items": [
         {
-          "id": "3009",
+          "id": "3802",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Back",
-      "items": [
-        {
-          "id": "3134",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3179",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Alt Core",
-      "items": [
-        {
-          "id": "6691",
-          "count": 1
-        },
-        {
-          "id": "3179",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational",
-      "items": [
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3094",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Build Example",
-      "items": [
-        {
-          "id": "3009",
-          "count": 1
-        },
-        {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "3864",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
-        {
-          "id": "3862",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Back",
+      "type": "Optional items",
       "items": [
         {
           "id": "3070",
           "count": 1
         },
         {
-          "id": "1036",
+          "id": "3916",
           "count": 1
         },
         {
-          "id": "2055",
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boot Options",
+      "type": "Example Full Build (Offesive)",
       "items": [
         {
-          "id": "3009",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core",
+      "type": "Example Full Build (Defensive)",
       "items": [
         {
-          "id": "3004",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "6692",
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]
     },
     {
-      "type": "Alt. Mythic",
+      "type": "Starting items",
       "items": [
         {
-          "id": "6672",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational",
-      "items": [
-        {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "6696",
-          "count": 1
-        },
-        {
-          "id": "3124",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build",
-      "items": [
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
-        {
-          "id": "3862",
+          "id": "3070",
           "count": 1
         },
         {
@@ -287,86 +162,67 @@
       ]
     },
     {
-      "type": "First Back",
+      "type": "Core items",
       "items": [
         {
-          "id": "4642",
+          "id": "3070",
           "count": 1
         },
         {
-          "id": "2055",
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boot Options",
+      "type": "Optional items",
       "items": [
         {
-          "id": "3047",
+          "id": "3916",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "3102",
           "count": 1
         },
         {
-          "id": "3158",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "6617",
+          "id": "3100",
           "count": 1
         },
         {
-          "id": "3504",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Alt. Core",
-      "items": [
-        {
-          "id": "3190",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3504",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational",
-      "items": [
-        {
-          "id": "6616",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "4643",
-          "count": 1
-        },
-        {
-          "id": "3107",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3124",
+          "id": "3041",
           "count": 1
         }
       ]
@@ -375,40 +231,69 @@
       "type": "Example Full Build",
       "items": [
         {
-          "id": "3047",
+          "id": "3003",
           "count": 1
         },
         {
-          "id": "3864",
+          "id": "4636",
           "count": 1
         },
         {
-          "id": "6617",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "4643",
+          "id": "4628",
           "count": 1
         },
         {
-          "id": "3504",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "3041",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "Core items",
       "items": [
         {
-          "id": "3862",
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "1056",
           "count": 1
         },
         {
@@ -418,10 +303,85 @@
       ]
     },
     {
-      "type": "First Back",
+      "type": "Optional items",
       "items": [
         {
-          "id": "3044",
+          "id": "3916",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Buy",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "1082",
           "count": 1
         },
         {
@@ -431,110 +391,131 @@
       ]
     },
     {
-      "type": "Boot Options",
+      "type": "Core Items",
       "items": [
         {
-          "id": "3111",
+          "id": "3117",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "4005",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "4628",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "3851",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core",
+      "type": "Example Full Build",
       "items": [
         {
-          "id": "6632",
+          "id": "3117",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]
     },
     {
-      "type": "Alt. Mythics",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "3190",
+          "id": "3850",
           "count": 1
         },
         {
-          "id": "6662",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Situational",
+      "type": "First Buy",
       "items": [
         {
-          "id": "3053",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "3109",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3031",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Full Build Example",
+      "type": "Core Items",
       "items": [
         {
-          "id": "3158",
+          "id": "3117",
           "count": 1
         },
         {
-          "id": "6632",
+          "id": "4636",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "4628",
           "count": 1
         },
         {
-          "id": "4643",
+          "id": "3851",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build",
+      "items": [
+        {
+          "id": "3117",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "4636",
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "4628",
           "count": 1
         },
         {
-          "id": "3364",
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]

@@ -1,112 +1,122 @@
 {
-  "title": "Tristana",
+  "title": "Galio",
   "associatedMaps": [],
   "associatedChampions": [
-    18
+    3
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/vapora-dark-in-depth-adc-tristana-guide-season-12-447328",
-  "_author": "Vapora Dark",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/sanuns-diamond-galio-guide-top-amp-mid-544388",
+  "_author": "sanun",
   "blocks": [
     {
       "type": "Starting Items",
       "items": [
         {
-          "id": "1055",
+          "id": "1056",
           "count": 1
         },
         {
           "id": "2003",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Items",
-      "items": [
+        },
         {
-          "id": "6672",
+          "id": "1054",
           "count": 1
         },
         {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3095",
-          "count": 1
-        },
-        {
-          "id": "3031",
+          "id": "1082",
           "count": 1
         }
       ]
     },
     {
-      "type": "Situational Items",
+      "type": "Early Buys",
       "items": [
         {
-          "id": "3094",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3139",
-          "count": 1
-        },
-        {
-          "id": "6676",
+          "id": "3067",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example Full Build",
+      "type": "Boots",
       "items": [
         {
-          "id": "6672",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Item",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Good options",
+      "items": [
+        {
+          "id": "3165",
           "count": 1
         },
         {
-          "id": "3095",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3094",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build Example",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         }
       ]

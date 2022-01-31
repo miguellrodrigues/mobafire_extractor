@@ -1,105 +1,119 @@
 {
-  "title": "Vladimir",
+  "title": "KogMaw",
   "associatedMaps": [],
   "associatedChampions": [
-    8
+    96
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/vladimir-guide-patch-12-2-mid-top-iron-to-diamond-524864",
-  "_author": "PlayCabex",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-wormmaws-guide-for-ap-kogmaw-512820",
+  "_author": "AP WormMaW Mid",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "Start",
       "items": [
         {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "1056",
+          "id": "2033",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Back (look notes)",
+      "type": "Second shop (vs AP)",
       "items": [
         {
-          "id": "3145",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "1052",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "2055",
+          "id": "3070",
           "count": 1
         }
       ]
     },
     {
-      "type": "Second back/third back (look notes)",
+      "type": "Second shop (vs AD)",
       "items": [
         {
-          "id": "3152",
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "3191",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Followup items",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3070",
           "count": 1
         },
         {
           "id": "3020",
           "count": 1
-        },
-        {
-          "id": "3108",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
         }
       ]
     },
     {
-      "type": "First items (LOOK NOTES)",
+      "type": "Main Core",
       "items": [
-        {
-          "id": "3152",
-          "count": 1
-        },
         {
           "id": "3020",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Hypercarry build",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3003",
           "count": 1
         },
         {
           "id": "3089",
           "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
         }
       ]
     },
     {
-      "type": "5th item (read notes)",
+      "type": "Against heavy-AP opponents/many CC champions",
       "items": [
         {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4637",
+          "id": "3020",
           "count": 1
         },
         {
@@ -107,65 +121,28 @@
           "count": 1
         },
         {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "6th item (READ NOTES)",
-      "items": [
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3065",
+          "id": "3003",
           "count": 1
         },
         {
           "id": "3102",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "build i usully do (look notes)",
-      "items": [
-        {
-          "id": "3152",
-          "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4629",
+          "id": "6655",
           "count": 1
         },
         {
           "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Heavy AD opponents",
+      "items": [
+        {
+          "id": "3020",
           "count": 1
         },
         {
@@ -173,44 +150,83 @@
           "count": 1
         },
         {
+          "id": "3003",
+          "count": 1
+        },
+        {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "2139",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "build against squishies (look notes)",
-      "items": [
-        {
-          "id": "3152",
-          "count": 1
-        },
-        {
-          "id": "3020",
+          "id": "6655",
           "count": 1
         },
         {
           "id": "3089",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Starting shop",
+      "items": [
         {
-          "id": "4629",
+          "id": "1054",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First item",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "3085",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Final build example",
+      "items": [
+        {
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "2139",
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6671",
           "count": 1
         }
       ]

@@ -1,21 +1,21 @@
 {
-  "title": "Braum",
+  "title": "ChoGath",
   "associatedMaps": [],
   "associatedChampions": [
-    201
+    31
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/braum-12-2-support-guide-the-shepherd-of-adcs-486977",
-  "_author": "Loolez",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/full-magic-penetration-build-by-top-1-chogath-in-the-world-470949",
+  "_author": "BaLoRi",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "Start Items #1",
       "items": [
         {
-          "id": "3854",
+          "id": "2003",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "1056",
           "count": 1
         },
         {
@@ -25,171 +25,172 @@
       ]
     },
     {
-      "type": "First back",
+      "type": "Start Items #2",
       "items": [
         {
-          "id": "3855",
+          "id": "2031",
           "count": 1
         },
         {
-          "id": "3117",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "Early game build",
+      "type": "First Back Items (Ring start) #1",
       "items": [
         {
-          "id": "3855",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3067",
-          "count": 1
-        },
-        {
-          "id": "3105",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "1056",
           "count": 1
         }
       ]
     },
     {
-      "type": "Mid game build",
+      "type": "First Back Items (Seal start) #2",
       "items": [
         {
-          "id": "3857",
-          "count": 1
-        },
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "1056",
           "count": 1
         }
       ]
     },
     {
-      "type": "Full end game build",
+      "type": "Full Magic Pen Build",
       "items": [
         {
-          "id": "3857",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3117",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3190",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3050",
+          "id": "4637",
           "count": 1
         },
         {
-          "id": "3109",
+          "id": "3083",
           "count": 1
         },
         {
-          "id": "3075",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3364",
+          "id": "2139",
           "count": 1
         }
       ]
     },
     {
-      "type": "Item swaps against heavy AD",
+      "type": "Full Magic Pen Build Version 2",
       "items": [
         {
-          "id": "3047",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3143",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3742",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "6662",
+          "id": "4637",
           "count": 1
         },
         {
-          "id": "3068",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3193",
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "2139",
           "count": 1
         }
       ]
     },
     {
-      "type": "Item swaps against heavy AP",
+      "type": "Full Magic Pen Build Version 3",
       "items": [
         {
-          "id": "3111",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "4401",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "6664",
+          "id": "4637",
           "count": 1
         },
         {
-          "id": "3068",
+          "id": "3165",
           "count": 1
         },
         {
-          "id": "3193",
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Magic Pen Build Version 4",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4628",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "2139",
           "count": 1
         }
       ]
