@@ -18,4 +18,4 @@ extract_all();
   await generate_lol_build_file_from_url(url);
 }
 
-extract_one('https://www.mobafire.com/league-of-legends/build/season-12-rank-1-kha-zix-jungle-guide-kamikhazix-challenger-528476');*/
+extract_one('https://www.mobafire.com/league-of-legends/build/12-2-complete-guide-to-yi-runes-pathing-builds-etc-602700');*/

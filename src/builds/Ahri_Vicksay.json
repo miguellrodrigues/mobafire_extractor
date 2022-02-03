@@ -4,7 +4,7 @@
   "associatedChampions": [
     103
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/pre-season-wip-vicksys-master-ahri-guide-for-season-11-553313",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/vicksys-master-reworked-ahri-guide-for-season-11-553313",
   "_author": "Vicksay",
   "blocks": [
     {
@@ -115,7 +115,7 @@
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "4645",
           "count": 1
         },
         {
@@ -150,10 +150,10 @@
       ]
     },
     {
-      "type": "Example build #1",
+      "type": "Example rework build #1",
       "items": [
         {
-          "id": "6655",
+          "id": "6653",
           "count": 1
         },
         {
@@ -161,11 +161,11 @@
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3100",
           "count": 1
         },
         {
@@ -173,7 +173,7 @@
           "count": 1
         },
         {
-          "id": "4637",
+          "id": "3157",
           "count": 1
         }
       ]
@@ -202,7 +202,7 @@
           "count": 1
         },
         {
-          "id": "3102",
+          "id": "3100",
           "count": 1
         }
       ]
@@ -219,7 +219,7 @@
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "3102",
           "count": 1
         },
         {
@@ -231,7 +231,7 @@
           "count": 1
         },
         {
-          "id": "3102",
+          "id": "4629",
           "count": 1
         }
       ]
@@ -261,6 +261,35 @@
         },
         {
           "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example build #4 vs squishy",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
           "count": 1
         }
       ]

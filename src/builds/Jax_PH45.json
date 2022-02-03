@@ -4,7 +4,7 @@
   "associatedChampions": [
     24
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-ph45s-in-depth-guide-to-jax-the-grandmaster-503356",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-ph45s-in-depth-guide-to-jax-the-grandmaster-503356",
   "_author": "PH45",
   "blocks": [
     {
@@ -89,6 +89,10 @@
       "items": [
         {
           "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -195,7 +199,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {

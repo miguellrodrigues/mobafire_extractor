@@ -1,93 +1,55 @@
 {
-  "title": "Quinn",
+  "title": "MasterYi",
   "associatedMaps": [],
   "associatedChampions": [
-    133
+    11
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-quinnads-season-12-grandmaster-quinn-guide-568972",
-  "_author": "quinn adc",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-complete-guide-to-yi-runes-pathing-builds-etc-602700",
+  "_author": "Da Mastah",
   "blocks": [
     {
-      "type": "STANDARD BUILD",
+      "type": "Starting Items for On-Hit & Tank Builds",
       "items": [
         {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS OPTION #1",
-      "items": [
-        {
-          "id": "1036",
+          "id": "1035",
           "count": 1
         },
         {
           "id": "2031",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS OPTION #2",
-      "items": [
-        {
-          "id": "1055",
-          "count": 1
         },
         {
-          "id": "2003",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE IF YOU NEED DASH",
+      "type": "Starting Items for Critical & Lethality Builds",
       "items": [
         {
-          "id": "6671",
+          "id": "1039",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "2031",
           "count": 1
         },
         {
-          "id": "3095",
-          "count": 1
-        },
-        {
-          "id": "3031",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE AGASINST ASSASSINS",
+      "type": "On Hit Yi",
       "items": [
         {
-          "id": "6673",
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         },
         {
@@ -95,198 +57,57 @@
           "count": 1
         },
         {
-          "id": "3095",
+          "id": "3124",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE AGAINST TANKS",
+      "type": "Bruiser Yi",
       "items": [
         {
           "id": "6672",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3036",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "6333",
           "count": 1
         }
       ]
     },
     {
-      "type": "BUILD TO 1V9 TEAMFIGHTS",
+      "type": "ON-Hit YI & Bruiser Yi Situational Items(Taken after CORE ITEMS)",
       "items": [
         {
-          "id": "6673",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DAMAGE/UTILITY",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "AGAINST SQUISHY TEAMS",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3095",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STRONG TEAMFIGHT",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "PERMA HARRIERS",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "SITUATIONAL",
-      "items": [
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        },
-        {
-          "id": "6676",
+          "id": "3065",
           "count": 1
         },
         {
@@ -294,7 +115,11 @@
           "count": 1
         },
         {
-          "id": "6695",
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3071",
           "count": 1
         },
         {
@@ -302,45 +127,36 @@
           "count": 1
         },
         {
-          "id": "3156",
+          "id": "6035",
           "count": 1
         },
         {
-          "id": "3139",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3193",
           "count": 1
         }
       ]
     },
     {
-      "type": "STARTING ITEMS",
+      "type": "Boot Options",
       "items": [
         {
-          "id": "1055",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CRIT-THALITY",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "6676",
+          "id": "3111",
           "count": 1
         },
         {
@@ -348,24 +164,20 @@
           "count": 1
         },
         {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3814",
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "FULL LETHALITY",
+      "type": "Eclipse Yi",
       "items": [
         {
-          "id": "6693",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "1001",
           "count": 1
         },
         {
@@ -373,50 +185,265 @@
           "count": 1
         },
         {
-          "id": "3142",
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Eclipse Yi Situational Items",
+      "items": [
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         },
         {
           "id": "3814",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
+        },
         {
-          "id": "1036",
+          "id": "6695",
           "count": 1
         },
         {
-          "id": "2031",
+          "id": "3053",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "Duskblade Yi",
       "items": [
         {
-          "id": "1083",
+          "id": "6691",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "Duskblade Yi Situational Items",
       "items": [
         {
-          "id": "1055",
+          "id": "3036",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Galeforce Yi",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ON HIT YI VS FULL AP TEAM",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "TANK YI",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "TANK YI Situational Items",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Korean Yi Build ",
+      "items": [
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Korean Yi Build Situational Items",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mawyu's Build",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3193",
           "count": 1
         }
       ]

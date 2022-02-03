@@ -1,14 +1,14 @@
 {
-  "title": "Gwen",
+  "title": "Shaco",
   "associatedMaps": [],
   "associatedChampions": [
-    887
+    35
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-menace-to-lol-gwen-598867",
-  "_author": "King Turtle",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s-11-white-crows-sexy-diamond-guide-to-shaco-327054",
+  "_author": "White Cr0w",
   "blocks": [
     {
-      "type": "Jungle Starting Items",
+      "type": "Starting Items",
       "items": [
         {
           "id": "1035",
@@ -21,116 +21,139 @@
       ]
     },
     {
-      "type": "Top Starting Items",
+      "type": "Core Items",
       "items": [
         {
-          "id": "1055",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Buy + Boots",
+      "type": "Common Full Build",
       "items": [
         {
-          "id": "1043",
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items",
+      "items": [
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1039",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "6655",
           "count": 1
         },
         {
           "id": "1001",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Early Back",
-      "items": [
+        },
         {
-          "id": "1026",
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "Mythic + Boots",
+      "type": "Common Full Build",
       "items": [
         {
-          "id": "4633",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3047",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Legendaries",
-      "items": [
-        {
-          "id": "3115",
+          "id": "4636",
           "count": 1
         },
-        {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Build",
-      "items": [
-        {
-          "id": "3115",
-          "count": 1
-        },
-        {
-          "id": "4633",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Alternative 6th Items",
-      "items": [
         {
           "id": "4629",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3100",
           "count": 1
         },
         {
-          "id": "3143",
+          "id": "3135",
           "count": 1
         },
         {
@@ -140,18 +163,18 @@
       ]
     },
     {
-      "type": "Other Situational Items",
+      "type": "Situational items",
       "items": [
-        {
-          "id": "3100",
-          "count": 1
-        },
         {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "4645",
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3102",
           "count": 1
         }
       ]

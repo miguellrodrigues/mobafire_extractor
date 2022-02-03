@@ -1,96 +1,97 @@
 {
-  "title": "Yuumi",
+  "title": "Skarner",
   "associatedMaps": [],
   "associatedChampions": [
-    350
+    72
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-bizzleberrys-season-11-yuumi-guide-ap-and-enchante-551050",
-  "_author": "Terroronyou",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/skarner-the-jungling-vanguard-patch-12-2-197862",
+  "_author": "sp00fz",
   "blocks": [
     {
-      "type": "Laning Phase",
+      "type": "Starter Items",
       "items": [
         {
-          "id": "3850",
+          "id": "1039",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "After Laning (Enchanter)",
+      "type": "Mythic + Core Items",
       "items": [
         {
-          "id": "3853",
+          "id": "6664",
           "count": 1
         },
         {
-          "id": "6617",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3011",
+          "id": "3742",
           "count": 1
         }
       ]
     },
     {
-      "type": "Endgame",
+      "type": "Possible Build",
       "items": [
         {
-          "id": "3853",
+          "id": "6664",
           "count": 1
         },
         {
-          "id": "6617",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3011",
+          "id": "3742",
           "count": 1
         },
         {
-          "id": "3107",
+          "id": "4401",
           "count": 1
         },
         {
-          "id": "4643",
+          "id": "3143",
           "count": 1
         },
         {
-          "id": "3222",
+          "id": "8001",
           "count": 1
         }
       ]
     },
     {
-      "type": "AP Yuumi",
+      "type": "Great alternative items",
       "items": [
         {
-          "id": "3853",
+          "id": "3065",
           "count": 1
         },
         {
-          "id": "6655",
+          "id": "3119",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "3110",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3075",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Get. These.",
+      "items": [
         {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4643",
+          "id": "2055",
           "count": 1
         }
       ]

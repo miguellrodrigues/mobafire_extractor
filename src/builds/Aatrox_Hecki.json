@@ -1,46 +1,67 @@
 {
-  "title": "Quinn",
+  "title": "Aatrox",
   "associatedMaps": [],
   "associatedChampions": [
-    133
+    266
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-quinnads-season-12-grandmaster-quinn-guide-568972",
-  "_author": "quinn adc",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-become-the-world-ender-grandmasters-aatrox-guide-601245",
+  "_author": "Hecki",
   "blocks": [
     {
-      "type": "STANDARD BUILD",
+      "type": "START (READ NOTES)",
       "items": [
         {
-          "id": "6673",
+          "id": "1054",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "2003",
           "count": 1
         },
         {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6676",
+          "id": "1055",
           "count": 1
         }
       ]
     },
     {
-      "type": "STARTING ITEMS OPTION #1",
+      "type": "FIRST BACK (IF BEHIND)",
       "items": [
         {
           "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        },
+        {
+          "id": "1033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK (IF AHEAD)",
+      "items": [
+        {
+          "id": "6029",
           "count": 1
         },
         {
@@ -50,44 +71,52 @@
       ]
     },
     {
-      "type": "STARTING ITEMS OPTION #2",
+      "type": "BOOTS (READ NOTES)",
       "items": [
         {
-          "id": "1055",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE IF YOU NEED DASH",
+      "type": "STANDARD BRUISER BUILD",
       "items": [
         {
-          "id": "6671",
+          "id": "6630",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "3095",
+          "id": "3053",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE AGASINST ASSASSINS",
+      "type": "FULL AD ENEMY TEAM ",
       "items": [
         {
-          "id": "6673",
+          "id": "6630",
           "count": 1
         },
         {
@@ -95,177 +124,73 @@
           "count": 1
         },
         {
-          "id": "3095",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE AGAINST TANKS",
+      "type": "FULL AP ENEMY TEAM",
       "items": [
         {
-          "id": "6672",
+          "id": "6630",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3036",
+          "id": "3156",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6694",
           "count": 1
         }
       ]
     },
     {
-      "type": "BUILD TO 1V9 TEAMFIGHTS",
+      "type": "HIGHER DAMAGE BRUISER (READ NOTES)",
       "items": [
         {
-          "id": "6673",
+          "id": "6630",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "6694",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DAMAGE/UTILITY",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "AGAINST SQUISHY TEAMS",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3095",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STRONG TEAMFIGHT",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "PERMA HARRIERS",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        },
-        {
-          "id": "3072",
+          "id": "3074",
           "count": 1
         }
       ]
@@ -274,27 +199,20 @@
       "type": "SITUATIONAL",
       "items": [
         {
-          "id": "3508",
+          "id": "3076",
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3123",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "OPTIONIAL 5/6 ITEM CHOICES (READ NOTES)",
+      "items": [
         {
-          "id": "6675",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "6695",
+          "id": "3193",
           "count": 1
         },
         {
@@ -302,91 +220,100 @@
           "count": 1
         },
         {
-          "id": "3156",
+          "id": "6609",
           "count": 1
         },
         {
-          "id": "3139",
+          "id": "3075",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "8001",
           "count": 1
         }
       ]
     },
     {
-      "type": "STARTING ITEMS",
+      "type": "500G POTIONS",
       "items": [
         {
-          "id": "1055",
+          "id": "2140",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "uhm",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "START (READ NOTES)",
+      "items": [
+        {
+          "id": "1054",
           "count": 1
         },
         {
           "id": "2003",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CRIT-THALITY",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
         },
         {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3814",
+          "id": "1055",
           "count": 1
         }
       ]
     },
     {
-      "type": "FULL LETHALITY",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
+      "type": "FIRST BACK (IF BEHIND)",
       "items": [
         {
           "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        },
+        {
+          "id": "1033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK (IF AHEAD)",
+      "items": [
+        {
+          "id": "6029",
           "count": 1
         },
         {
@@ -396,27 +323,110 @@
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "BOOTS (READ NOTES)",
       "items": [
         {
-          "id": "1083",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "STANDARD SLOW BUILD",
       "items": [
         {
-          "id": "1055",
+          "id": "6631",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "UTILITY TANK BUILD",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "GLACIAL ASSASSIN (TESTING)",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONAL",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3123",
           "count": 1
         }
       ]

@@ -4,7 +4,7 @@
   "associatedChampions": [
     19
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/warwick-top-season-12-534515",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/warwick-top-season-12-updated-new-items-534515",
   "_author": "ScottTheTeemo",
   "blocks": [
     {
@@ -34,23 +34,6 @@
       ]
     },
     {
-      "type": "Starting Items Option 2",
-      "items": [
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "1056",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Mythic Core Options",
       "items": [
         {
@@ -64,38 +47,14 @@
       ]
     },
     {
-      "type": "Tank Warwick Core Options (explanation below)",
+      "type": "Hullbreaker Vs Sterak's Explained in further chapters",
       "items": [
         {
-          "id": "6630",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3143",
+          "id": "3181",
           "count": 1
         },
         {
           "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3109",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3075",
           "count": 1
         }
       ]
@@ -108,7 +67,7 @@
           "count": 1
         },
         {
-          "id": "6333",
+          "id": "3748",
           "count": 1
         },
         {
@@ -116,7 +75,7 @@
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
+          "id": "3181",
           "count": 1
         },
         {
@@ -141,7 +100,7 @@
           "count": 1
         },
         {
-          "id": "3091",
+          "id": "3748",
           "count": 1
         },
         {

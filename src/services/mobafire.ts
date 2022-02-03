@@ -12,9 +12,22 @@ async function extract_build_items_from_mobafire(url: string) {
   const author = $('#scroll-follower-container > div.side-toc > div.side-toc__top > div > span.nickname').text();
 
   const build = $('#content > div > div.mf-responsive__wrap.mf-redesign.view-guide > div.mf-responsive__rightCol > div.sidebar-module.sidebar-module__topBuilds.mf-redesign.self-clear > a').text();
-  const champion_name = build.split(' ')[1].replace('\'', '');
 
-  console.log(champion_name)
+  const _build = build.split(' ').slice(1, -1);
+  let champion_name = _build[0].trim();
+
+  if (_build.length !== 1) {
+    const _champion_name = _build.reduce((acc, curr, i) => {
+      if (i % 2 === 0) {
+        acc.push(`${curr}${_build[i + 1]}`);
+      }
+      return acc;
+    }, [] as string[]);
+
+    champion_name = _champion_name.join();
+  }
+
+  console.log(champion_name);
 
   // find all divs with class 'view-guide__items'
   $('.view-guide__items').each((i, el) => {
@@ -61,23 +74,24 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
       const { data } = await axios(champion_url);
       const $ = cheerio.load(data);
       
-      const urls = Array<{href: string, likes: number}>();
+      const urls = Array<{href: string, likes: number, rating: number}>();
 
       $('.mf-listings__item').each((_, el) => {
-        // const rating = $(el).find('.mf-listings__item__rating__circle__inner > span').text();
+        const rating = $(el).find('.mf-listings__item__rating__circle__inner > span').text();
 
         const likes = $(el).find('a > .mf-listings__item__rating > div.mf-listings__item__rating__info > div:nth-child(1)');
         const likes_count = likes.text().trim();
 
         urls.push({
           href: el.attribs.href,
-          likes: Number(likes_count)
+          likes: Number(likes_count),
+          rating: Number(rating)
         });
       });
 
       // sort by likes
       urls.sort((a, b) => {
-        return b.likes - a.likes;
+        return (b.likes + b.rating) - (a.likes + a.rating);
       });
 
       // get the most liked

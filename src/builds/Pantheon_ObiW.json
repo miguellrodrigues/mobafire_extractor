@@ -4,7 +4,7 @@
   "associatedChampions": [
     80
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-all-possible-builds-546404",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-best-pantheon-guide-from-a-to-z-546404",
   "_author": "ObiW",
   "blocks": [
     {
@@ -49,19 +49,19 @@
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
+          "id": "3142",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "3814",
           "count": 1
         },
         {
-          "id": "6333",
+          "id": "3026",
           "count": 1
         },
         {
-          "id": "6609",
+          "id": "3156",
           "count": 1
         }
       ]
@@ -136,15 +136,15 @@
           "count": 1
         },
         {
-          "id": "6676",
-          "count": 1
-        },
-        {
           "id": "3142",
           "count": 1
         },
         {
           "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6676",
           "count": 1
         },
         {
@@ -165,19 +165,19 @@
           "count": 1
         },
         {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
           "id": "6333",
           "count": 1
         },
         {
-          "id": "3742",
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3156",
           "count": 1
         }
       ]
@@ -243,7 +243,7 @@
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3158",
           "count": 1
         },
         {
@@ -255,11 +255,11 @@
           "count": 1
         },
         {
-          "id": "6676",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "3179",
+          "id": "3026",
           "count": 1
         }
       ]
