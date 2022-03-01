@@ -1,17 +1,21 @@
 {
-  "title": "Pantheon",
+  "title": "Nautilus",
   "associatedMaps": [],
   "associatedChampions": [
-    80
+    111
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-best-pantheon-guide-from-a-to-z-546404",
-  "_author": "ObiW",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-immortal-nautilus-build-all-lanes-top-mid-jungle-bot-576285",
+  "_author": "BaLoRi",
   "blocks": [
     {
-      "type": "Default Start",
+      "type": "Start Items",
       "items": [
         {
-          "id": "2033",
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
           "count": 1
         },
         {
@@ -21,225 +25,31 @@
       ]
     },
     {
-      "type": "Fast Entrance",
+      "type": "First Back (1100-1650 Gold)",
       "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
         {
           "id": "2031",
           "count": 1
         },
         {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "3340",
+          "id": "3070",
           "count": 1
         }
       ]
     },
     {
-      "type": "Recommended Build",
+      "type": "Immortal Nautilus Build",
       "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Bruiser Build",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Brawler Build",
-      "items": [
-        {
-          "id": "6630",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Assassin Build",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Tankeon Build",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
         {
           "id": "3068",
           "count": 1
         },
         {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Items",
-      "items": [
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Suggested JUNG Build",
-      "items": [
-        {
-          "id": "3078",
+          "id": "3075",
           "count": 1
         },
         {
@@ -247,48 +57,280 @@
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
+          "id": "3119",
           "count": 1
         },
         {
-          "id": "3814",
+          "id": "3065",
           "count": 1
         },
         {
-          "id": "6333",
+          "id": "3083",
           "count": 1
         },
         {
-          "id": "6676",
+          "id": "2138",
           "count": 1
         }
       ]
     },
     {
-      "type": "SUP",
+      "type": "Immortal Nautilus Build Version 2",
       "items": [
         {
-          "id": "3854",
+          "id": "3068",
           "count": 1
         },
         {
-          "id": "6692",
+          "id": "3075",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3179",
+          "id": "3119",
           "count": 1
         },
         {
-          "id": "3814",
+          "id": "3065",
           "count": 1
         },
         {
-          "id": "3156",
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Nautilus Build Version 3",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Nautilus Build Version 4",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Immortal Nautilus Build vs Heavy AP",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start Support Items",
+      "items": [
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tenacity-Immortal Nautilus Support Build",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tenacity-Immortal Nautilus Support Build Version 2",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tenacity-Mobility Nautilus Support Build",
+      "items": [
+        {
+          "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "2138",
           "count": 1
         }
       ]

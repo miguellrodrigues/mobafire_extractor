@@ -4,7 +4,7 @@
   "associatedChampions": [
     131
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-updating-jungle-disastrous-diana-going-offensive-or-de-303837",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-jungle-disastrous-diana-going-offensive-or-defensive-303837",
   "_author": "Njoror",
   "blocks": [
     {
@@ -23,7 +23,7 @@
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "3364",
           "count": 1
         }
       ]
@@ -221,31 +221,6 @@
         },
         {
           "id": "3020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Tank Build",
-      "items": [
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        },
-        {
-          "id": "3111",
           "count": 1
         }
       ]

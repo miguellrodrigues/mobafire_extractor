@@ -1,21 +1,21 @@
 {
-  "title": "Shaco",
+  "title": "Sona",
   "associatedMaps": [],
   "associatedChampions": [
-    35
+    37
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-destroy-season-12-soloq-with-ap-shaco-3x-chally-518774",
-  "_author": "Eagzey",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-actioners-sona-support-guide-550095",
+  "_author": "Actioner",
   "blocks": [
     {
       "type": "Starting Items",
       "items": [
         {
-          "id": "2031",
+          "id": "3850",
           "count": 1
         },
         {
-          "id": "1039",
+          "id": "2003",
           "count": 1
         },
         {
@@ -25,76 +25,72 @@
       ]
     },
     {
-      "type": "Early Buys",
+      "type": "First Buy",
       "items": [
         {
+          "id": "3850",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Build",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
           "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "1082",
           "count": 1
         },
         {
           "id": "2055",
           "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Core",
+      "type": "Final Build",
       "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
         {
           "id": "3158",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "3003",
           "count": 1
         },
         {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Final Buys",
-      "items": [
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3070",
+          "id": "3107",
           "count": 1
         }
       ]

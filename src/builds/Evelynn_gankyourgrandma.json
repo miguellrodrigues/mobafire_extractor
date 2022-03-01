@@ -1,166 +1,29 @@
 {
-  "title": "Anivia",
+  "title": "Evelynn",
   "associatedMaps": [],
   "associatedChampions": [
-    34
+    28
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/11-12-think-beyond-one-lifetime-in-depth-matchups-513176",
-  "_author": "7daysko",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-max-depth-challenger-evelynn-guide-595337",
+  "_author": "gankyourgrandma",
   "blocks": [
     {
-      "type": "Start #1 ",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "1056",
+          "id": "1039",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Start #2",
-      "items": [
-        {
-          "id": "1082",
+          "id": "1035",
           "count": 1
         },
         {
           "id": "2031",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Start #3",
-      "items": [
-        {
-          "id": "2033",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Early Game Picks ",
-      "items": [
-        {
-          "id": "3070",
-          "count": 1
         },
         {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mythic Picks",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3003",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Not Enough Gold for an Item?",
-      "items": [
-        {
-          "id": "1056",
-          "count": 1
-        },
-        {
-          "id": "3916",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Offensive Items",
-      "items": [
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Defensive Items",
-      "items": [
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Consumables & Trinkets",
-      "items": [
-        {
-          "id": "2139",
-          "count": 1
-        },
-        {
-          "id": "2138",
-          "count": 1
-        },
-        {
-          "id": "3363",
+          "id": "3340",
           "count": 1
         },
         {
@@ -170,47 +33,73 @@
       ]
     },
     {
-      "type": "Example Final Build (Liandry's)",
+      "type": "First Back (Less than 850G)",
       "items": [
         {
-          "id": "3020",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "Slightly Magical Boots",
           "count": 1
         },
         {
-          "id": "3040",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3363",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example Final Build (Everfrost)",
+      "type": "First Back (850G+)",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "Slightly Magical Boots",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back (1200G+)",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "Slightly Magical Boots",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rocketbelt Mid-Game Core",
       "items": [
         {
           "id": "3020",
           "count": 1
         },
         {
-          "id": "6656",
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3100",
           "count": 1
         },
         {
@@ -218,70 +107,62 @@
           "count": 1
         },
         {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3040",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3363",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "Night Harvester Mid-Game Core",
       "items": [
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3003",
-          "count": 1
-        },
         {
           "id": "3020",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Item Options",
+      "type": "Late Game Purchases",
       "items": [
         {
           "id": "3135",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "2139",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONAL",
+      "items": [
+        {
+          "id": "3157",
           "count": 1
         },
         {
@@ -289,53 +170,62 @@
           "count": 1
         },
         {
-          "id": "3157",
-          "count": 1
-        },
-        {
           "id": "3102",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Press F to Pay Respects",
-      "items": [
+        },
         {
-          "id": "3041",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "1027",
+          "id": "3140",
           "count": 1
         },
         {
-          "id": "1028",
-          "count": 1
-        },
-        {
-          "id": "1026",
+          "id": "3011",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example ARAM Build",
+      "type": "Mythics",
       "items": [
         {
-          "id": "3040",
+          "id": "4636",
           "count": 1
         },
+        {
+          "id": "3152",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Other Core Items",
+      "items": [
         {
           "id": "3020",
           "count": 1
         },
         {
-          "id": "4637",
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD WITHOUT MEJAIS (Hextech)",
+      "items": [
+        {
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3100",
           "count": 1
         },
         {
@@ -345,102 +235,154 @@
         {
           "id": "3089",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Feeling Brave?",
-      "items": [
-        {
-          "id": "3042",
-          "count": 1
         },
         {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3094",
-          "count": 1
-        },
-        {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3006",
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "BUILD VS HEAVY AD (Hextech)",
       "items": [
         {
-          "id": "3850",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Early Buys",
-      "items": [
-        {
-          "id": "3070",
+          "id": "3152",
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "3100",
           "count": 1
         },
         {
-          "id": "1056",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "3003",
+          "id": "3041",
           "count": 1
         },
-        {
-          "id": "3107",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Items",
-      "items": [
         {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "3040",
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD VS HEAVY AP (Hextech)",
+      "items": [
+        {
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "3152",
           "count": 1
         },
         {
-          "id": "6656",
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD VS SQUISHY AD (Night Harvester)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD VS SQUISHY AP (Night Harvester)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD W/O MEJAIS (Night Harvester)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         }
       ]

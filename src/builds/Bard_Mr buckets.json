@@ -4,14 +4,18 @@
   "associatedChampions": [
     432
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/lathyrus-11-22-euw-challenger-guide-not-updated-guide-mo-544216",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/lathyrus-12-4-euw-challenger-guide-updated-544216",
   "_author": "Mr buckets",
   "blocks": [
     {
-      "type": "Guardian Setup - Best in High Elo",
+      "type": "Guardian Setup - Best in Current Meta",
       "items": [
         {
           "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         },
         {
@@ -19,7 +23,40 @@
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core build",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "3047",
           "count": 1
         },
         {
@@ -31,15 +68,15 @@
           "count": 1
         },
         {
-          "id": "8001",
-          "count": 1
-        },
-        {
           "id": "3110",
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3109",
           "count": 1
         },
         {
@@ -48,6 +85,27 @@
         },
         {
           "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Alternative Items (See item notes below)",
+      "items": [
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3001",
+          "count": 1
+        },
+        {
+          "id": "6656",
           "count": 1
         }
       ]
@@ -64,11 +122,11 @@
           "count": 1
         },
         {
-          "id": "2065",
+          "id": "3190",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "4637",
           "count": 1
         },
         {
@@ -76,7 +134,7 @@
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "4401",
           "count": 1
         },
         {
@@ -101,11 +159,11 @@
           "count": 1
         },
         {
-          "id": "4636",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "4637",
           "count": 1
         },
         {
@@ -113,7 +171,7 @@
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "4401",
           "count": 1
         },
         {
@@ -138,11 +196,11 @@
           "count": 1
         },
         {
-          "id": "2065",
+          "id": "3190",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "4637",
           "count": 1
         },
         {
@@ -150,7 +208,7 @@
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "4401",
           "count": 1
         },
         {
@@ -175,48 +233,11 @@
           "count": 1
         },
         {
-          "id": "4636",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Hail of Blades Setup - For Fun",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "8001",
+          "id": "4637",
           "count": 1
         },
         {
@@ -224,44 +245,7 @@
           "count": 1
         },
         {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Prototype: Omnistone Setup - For Fun",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "8001",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "8020",
+          "id": "4401",
           "count": 1
         },
         {

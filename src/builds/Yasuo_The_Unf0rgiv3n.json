@@ -4,7 +4,7 @@
   "associatedChampions": [
     157
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-3-rank-1-euw-yasuo-mp-in-depth-guide-top-mid-529530",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-new-hullbrkeaker-yasuo-build-in-depth-guide-top-529530",
   "_author": "The_Unf0rgiv3n",
   "blocks": [
     {
@@ -15,15 +15,15 @@
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "3033",
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3031",
           "count": 1
         }
       ]
@@ -58,7 +58,7 @@
       "type": "On your first back",
       "items": [
         {
-          "id": "1053",
+          "id": "1001",
           "count": 1
         },
         {
@@ -66,7 +66,7 @@
           "count": 1
         },
         {
-          "id": "2031",
+          "id": "2003",
           "count": 1
         }
       ]
@@ -75,57 +75,15 @@
       "type": "On your first back #2",
       "items": [
         {
+          "id": "3006",
+          "count": 1
+        },
+        {
           "id": "1042",
           "count": 1
         },
         {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Kraken build rush with lifesteal",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "1053",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Kraken build rush with crit",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "1018",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "2003",
           "count": 1
         }
       ]
@@ -134,11 +92,19 @@
       "type": "Rush vs 3+ tanks",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         }
       ]
@@ -153,14 +119,26 @@
         {
           "id": "3006",
           "count": 1
+        },
+        {
+          "id": "3086",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Full build example (no antiburst item)",
+      "type": "Kraken build vs tanks and mages",
       "items": [
         {
-          "id": "3047",
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6672",
           "count": 1
         },
         {
@@ -168,7 +146,61 @@
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example #2",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         },
         {
@@ -180,36 +212,7 @@
           "count": 1
         },
         {
-          "id": "3075",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full build example #2",
-      "items": [
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
           "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3075",
           "count": 1
         }
       ]
@@ -247,27 +250,27 @@
       "type": "Full build example #4",
       "items": [
         {
-          "id": "3047",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "6673",
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3033",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3075",
+          "id": "3143",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3026",
           "count": 1
         }
       ]
@@ -280,23 +283,15 @@
           "count": 1
         },
         {
-          "id": "3156",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3143",
+          "id": "4401",
           "count": 1
         },
         {
           "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3065",
           "count": 1
         }
       ]
@@ -331,10 +326,10 @@
       ]
     },
     {
-      "type": "Vs Full AD team",
+      "type": "Hullbreaker build",
       "items": [
         {
-          "id": "3047",
+          "id": "3006",
           "count": 1
         },
         {
@@ -346,15 +341,15 @@
           "count": 1
         },
         {
+          "id": "3181",
+          "count": 1
+        },
+        {
           "id": "3033",
           "count": 1
         },
         {
           "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3143",
           "count": 1
         }
       ]
@@ -376,14 +371,6 @@
         },
         {
           "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3078",
           "count": 1
         }
       ]
@@ -464,11 +451,7 @@
           "count": 1
         },
         {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3072",
+          "id": "3086",
           "count": 1
         }
       ]
@@ -485,11 +468,7 @@
           "count": 1
         },
         {
-          "id": "1053",
-          "count": 1
-        },
-        {
-          "id": "3031",
+          "id": "3086",
           "count": 1
         }
       ]
@@ -506,7 +485,7 @@
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3033",
           "count": 1
         },
         {
@@ -514,11 +493,11 @@
           "count": 1
         },
         {
-          "id": "3075",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3026",
           "count": 1
         }
       ]
@@ -539,11 +518,11 @@
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3033",
           "count": 1
         },
         {
-          "id": "6333",
+          "id": "3072",
           "count": 1
         },
         {
@@ -556,19 +535,11 @@
       "type": "Anti-tank full build",
       "items": [
         {
-          "id": "3047",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3072",
+          "id": "6673",
           "count": 1
         },
         {
@@ -577,6 +548,14 @@
         },
         {
           "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]
@@ -610,40 +589,15 @@
       "type": "Build vs full AD team",
       "items": [
         {
-          "id": "3047",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "6673",
           "count": 1
         },
         {
           "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Triforce build example",
-      "items": [
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3078",
           "count": 1
         },
         {
@@ -651,15 +605,11 @@
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3143",
           "count": 1
         },
         {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "3075",
           "count": 1
         }
       ]

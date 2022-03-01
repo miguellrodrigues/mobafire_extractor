@@ -216,18 +216,18 @@
       ]
     },
     {
-      "type": "New season 12 build",
+      "type": "Current Meta Build",
       "items": [
         {
-          "id": "4644",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3100",
           "count": 1
         },
         {
           "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "4629",
           "count": 1
         },
         {

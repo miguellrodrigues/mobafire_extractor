@@ -1,166 +1,149 @@
 {
-  "title": "Skarner",
+  "title": "Kennen",
   "associatedMaps": [],
   "associatedChampions": [
-    72
+    85
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/challenger-skarner-guide-for-season-11-my-way-586338",
-  "_author": "metalhydra273",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-ap-ad-kennen-all-roles-575084",
+  "_author": "Jungl",
   "blocks": [
     {
-      "type": "Start + first back",
+      "type": "Starting Item (Read Notes)",
       "items": [
         {
-          "id": "1039",
+          "id": "1055",
           "count": 1
         },
         {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "1001",
+          "id": "1056",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core",
+      "type": "Reccomended Build",
       "items": [
         {
-          "id": "6632",
+          "id": "3152",
           "count": 1
         },
         {
-          "id": "3742",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "4401",
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boots",
+      "type": "If you wanna do lots of burst with Q",
       "items": [
         {
-          "id": "3158",
+          "id": "4636",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "Good Mid Game Choices",
+      "type": "Very Tanky Team",
       "items": [
         {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "6035",
-          "count": 1
-        },
-        {
-          "id": "8001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Late Game Utility",
-      "items": [
-        {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "6035",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3083",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3748",
+          "id": "4633",
           "count": 1
         },
         {
           "id": "4637",
           "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Average Build Enjoyer",
+      "type": "AD Items",
       "items": [
         {
-          "id": "6632",
+          "id": "6672",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "3742",
+          "id": "3085",
           "count": 1
         },
         {
-          "id": "3110",
+          "id": "3124",
           "count": 1
         },
         {
-          "id": "3193",
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3006",
           "count": 1
         }
       ]

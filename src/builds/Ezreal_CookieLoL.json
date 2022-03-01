@@ -4,22 +4,9 @@
   "associatedChampions": [
     81
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-challenger-ezreal-build-amp-guide-by-cookielol-605212",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-challenger-ezreal-build-amp-guide-by-cookielol-605212",
   "_author": "CookieLoL",
   "blocks": [
-    {
-      "type": "If lane is really hard and you need to Q to CS ",
-      "items": [
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
     {
       "type": "VS Dive Support (Rell, Ali, etc)",
       "items": [
@@ -47,6 +34,15 @@
       ]
     },
     {
+      "type": "First Recall make sure to buy Tear and preferably Sheen",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Lucidity boots are absolutely amazing on Ezreal, no other Boots are necessary ",
       "items": [
         {
@@ -56,16 +52,7 @@
       ]
     },
     {
-      "type": "I'm a firm believer that rushing Manamune is always better if you're building Trinity Force or Divine Sunderer",
-      "items": [
-        {
-          "id": "3004",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "It's for the new S12 Crown Build that's actually really good right now even after the nerfs to Crown in 11.24!",
+      "type": "It's always the best to rush ER on Ezreal right now (12.3)",
       "items": [
         {
           "id": "3508",
@@ -74,25 +61,7 @@
       ]
     },
     {
-      "type": "Default Mythic, Build this if the other 2 don't fit",
-      "items": [
-        {
-          "id": "3078",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Good into 2-3+ HP/ARMOR Stackers such as Ornn, Hecarim, Lee Sin, etc",
-      "items": [
-        {
-          "id": "6632",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Build Manamune second if you bought Essence Reaver first and you're doing the Crown Build! ",
+      "type": "You build Manamune after ",
       "items": [
         {
           "id": "3004",
@@ -101,7 +70,7 @@
       ]
     },
     {
-      "type": "S12 NEW META! It's getting nerfed in 11.24 but It's still good into Burst/Dive Champions such as Zed, Qiyana, Hecarim, etc",
+      "type": "Build this if the enemy has a lot of Dive Champions such as Hecarim, Qiyana, Talon and they don't have long-range abilities that can break it",
       "items": [
         {
           "id": "4644",
@@ -123,6 +92,15 @@
       "items": [
         {
           "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Maw is good after the 12.3 Buffs and I always build this if enemy has a lot of AP damage ",
+      "items": [
+        {
+          "id": "3156",
           "count": 1
         }
       ]
@@ -186,24 +164,6 @@
       "items": [
         {
           "id": "6035",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Kinda meh, but not bad if the enemy has 75%+ AP Damage",
-      "items": [
-        {
-          "id": "3091",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Kinda meh, but not bad if the enemy has 75%+ AP Damage",
-      "items": [
-        {
-          "id": "3156",
           "count": 1
         }
       ]

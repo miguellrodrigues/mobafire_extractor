@@ -4,7 +4,7 @@
   "associatedChampions": [
     40
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-eiensieis-guide-to-janna-support-566687",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-eiensieis-guide-to-janna-support-566687",
   "_author": "eiensiei",
   "blocks": [
     {
@@ -66,11 +66,11 @@
       "type": "Possible Items",
       "items": [
         {
-          "id": "2065",
+          "id": "6617",
           "count": 1
         },
         {
-          "id": "6617",
+          "id": "2065",
           "count": 1
         },
         {
@@ -111,39 +111,6 @@
           "count": 1
         },
         {
-          "id": "2065",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "4643",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Defensive full build example",
-      "items": [
-        {
-          "id": "3860",
-          "count": 1
-        },
-        {
           "id": "6617",
           "count": 1
         },
@@ -152,11 +119,11 @@
           "count": 1
         },
         {
-          "id": "3504",
+          "id": "3011",
           "count": 1
         },
         {
-          "id": "3222",
+          "id": "3107",
           "count": 1
         },
         {

@@ -4,7 +4,7 @@
   "associatedChampions": [
     875
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-na-challenger-sett-top-lane-guide-594328",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-na-challenger-sett-top-lane-guide-594328",
   "_author": "BoilTheOil",
   "blocks": [
     {
@@ -36,6 +36,10 @@
           "count": 1
         },
         {
+          "id": "6632",
+          "count": 1
+        },
+        {
           "id": "6662",
           "count": 1
         },
@@ -53,7 +57,11 @@
       "type": "Legendary Items",
       "items": [
         {
-          "id": "3053",
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -61,7 +69,7 @@
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "4401",
           "count": 1
         },
         {
@@ -69,7 +77,11 @@
           "count": 1
         },
         {
-          "id": "8020",
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3742",
           "count": 1
         },
         {
@@ -81,19 +93,11 @@
           "count": 1
         },
         {
+          "id": "8020",
+          "count": 1
+        },
+        {
           "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -139,32 +143,7 @@
           "count": 1
         },
         {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "When you need to stick onto the opponent very hard",
-      "items": [
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "3071",
           "count": 1
         },
         {
@@ -182,18 +161,10 @@
       ]
     },
     {
-      "type": "MEAT",
+      "type": "When you need to stick onto the opponent very hard",
       "items": [
         {
-          "id": "6630",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "6631",
           "count": 1
         },
         {
@@ -201,7 +172,48 @@
           "count": 1
         },
         {
-          "id": "6609",
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Into Bruisers / Tanks",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
           "count": 1
         }
       ]
@@ -257,7 +269,7 @@
       ]
     },
     {
-      "type": "B U R S T",
+      "type": "3AM SETT",
       "items": [
         {
           "id": "6693",
@@ -268,15 +280,15 @@
           "count": 1
         },
         {
-          "id": "3814",
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         },
         {
           "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3036",
           "count": 1
         }
       ]

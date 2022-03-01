@@ -37,7 +37,7 @@ async function extract_build_items_from_mobafire(url: string) {
     let content = $(el).find('.view-guide__items__content');
 
     // find all items in the content
-    content.find('a').each((i, el) => {
+    content.find('a').each((_, el) => {
       let item_name = $(el).find('span').text();
 
       items.push({

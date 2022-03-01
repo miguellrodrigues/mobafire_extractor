@@ -4,7 +4,7 @@
   "associatedChampions": [
     24
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-ph45s-in-depth-guide-to-jax-the-grandmaster-503356",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-ph45s-in-depth-guide-to-jax-the-grandmaster-503356",
   "_author": "PH45",
   "blocks": [
     {
@@ -55,10 +55,14 @@
       ]
     },
     {
-      "type": "Mythic of choice",
+      "type": "First item choices",
       "items": [
         {
           "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         }
       ]
@@ -97,10 +101,6 @@
         },
         {
           "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3143",
           "count": 1
         },
         {
@@ -159,6 +159,10 @@
         {
           "id": "8001",
           "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
         }
       ]
     },
@@ -187,19 +191,11 @@
       "type": "Full build example (Read notes)",
       "items": [
         {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
           "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "6333",
           "count": 1
         },
         {
@@ -207,7 +203,15 @@
           "count": 1
         },
         {
-          "id": "3110",
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3156",
           "count": 1
         }
       ]

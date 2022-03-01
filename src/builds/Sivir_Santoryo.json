@@ -1,49 +1,36 @@
 {
-  "title": "Qiyana",
+  "title": "Sivir",
   "associatedMaps": [],
   "associatedChampions": [
-    246
+    15
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/empress-of-the-8-bit-jungle-574695",
-  "_author": "Sleepininthegarden",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-santoryos-guide-for-sivir-lethality-and-crit-603277",
+  "_author": "Santoryo",
   "blocks": [
     {
-      "type": "Starting Items #1 ",
+      "type": "START",
       "items": [
         {
-          "id": "1039",
+          "id": "3070",
           "count": 1
         },
         {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items #2",
+      "type": "FIRST BACK (1000 GOLD)",
       "items": [
         {
-          "id": "1035",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "2031",
+          "id": "1036",
           "count": 1
         },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Don't Forget",
-      "items": [
         {
           "id": "2055",
           "count": 1
@@ -51,141 +38,99 @@
       ]
     },
     {
-      "type": "Example Current Meta Build",
+      "type": "First item",
       "items": [
+        {
+          "id": "3004",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythics",
+      "items": [
+        {
+          "id": "6691",
+          "count": 1
+        },
         {
           "id": "6693",
           "count": 1
         },
         {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
           "id": "3158",
           "count": 1
         },
         {
-          "id": "3142",
+          "id": "3009",
           "count": 1
         },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Fourth Item",
+      "items": [
         {
           "id": "6694",
           "count": 1
         },
         {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "6695",
+          "id": "3036",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core Items",
+      "type": "Other situational items",
       "items": [
         {
-          "id": "6693",
+          "id": "3142",
           "count": 1
         },
-        {
-          "id": "3158",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Vision Control",
-      "items": [
         {
           "id": "3179",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mobility ",
-      "items": [
-        {
-          "id": "3142",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Survivability ",
-      "items": [
-        {
-          "id": "3814",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "vs. Armor ",
-      "items": [
-        {
-          "id": "6694",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "vs. Shields",
-      "items": [
+        },
         {
           "id": "6695",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "vs. Healing ",
-      "items": [
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
         {
           "id": "6609",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "vs. AD ",
-      "items": [
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
         {
           "id": "3026",
           "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
         }
       ]
     },
     {
-      "type": "vs. Magic Burst",
+      "type": "Standard Full Build",
       "items": [
         {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Other Boot Options",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard ",
-      "items": [
-        {
-          "id": "6693",
+          "id": "3042",
           "count": 1
         },
         {
@@ -193,11 +138,11 @@
           "count": 1
         },
         {
-          "id": "6695",
+          "id": "6691",
           "count": 1
         },
         {
-          "id": "3814",
+          "id": "6694",
           "count": 1
         },
         {
@@ -205,16 +150,16 @@
           "count": 1
         },
         {
-          "id": "6694",
+          "id": "3026",
           "count": 1
         }
       ]
     },
     {
-      "type": "Alternate ",
+      "type": "Example build against tanks",
       "items": [
         {
-          "id": "3142",
+          "id": "3042",
           "count": 1
         },
         {
@@ -222,11 +167,7 @@
           "count": 1
         },
         {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "6693",
+          "id": "6692",
           "count": 1
         },
         {
@@ -234,90 +175,164 @@
           "count": 1
         },
         {
-          "id": "3814",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Armor Stacking",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3814",
+          "id": "3071",
           "count": 1
         },
         {
           "id": "6609",
           "count": 1
+        }
+      ]
+    },
+    {
+      "type": "START",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
         },
         {
-          "id": "6333",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Healing",
+      "type": "FIRST BACK (1000 GOLD)",
       "items": [
         {
-          "id": "6693",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "1036",
           "count": 1
         },
         {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "6694",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Focused",
+      "type": "MYTHIC",
       "items": [
         {
-          "id": "6693",
+          "id": "6671",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SECOND ITEM",
+      "items": [
+        {
+          "id": "3508",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "THIRD ITEM OPTIONS",
+      "items": [
+        {
+          "id": "3036",
           "count": 1
         },
         {
-          "id": "3814",
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VIABLE ITEMS",
+      "items": [
+        {
+          "id": "3072",
           "count": 1
         },
         {
-          "id": "6695",
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3033",
           "count": 1
         },
         {
           "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE FULL BUILD",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD AGAINST TANKS",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
           "count": 1
         },
         {

@@ -4,7 +4,7 @@
   "associatedChampions": [
     19
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/warwick-top-season-12-updated-new-items-534515",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/warwick-top-season-12-534515",
   "_author": "ScottTheTeemo",
   "blocks": [
     {
@@ -43,18 +43,18 @@
         {
           "id": "6632",
           "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Hullbreaker Vs Sterak's Explained in further chapters",
+      "type": "Hullbreaker in Split games",
       "items": [
         {
           "id": "3181",
-          "count": 1
-        },
-        {
-          "id": "3053",
           "count": 1
         }
       ]
@@ -79,7 +79,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {
@@ -108,7 +108,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {

@@ -63,52 +63,10 @@
       ]
     },
     {
-      "type": "Season 11 items",
-      "items": [
-        {
-          "id": "4644",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Old Veigar core (still works)",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Ideal end game",
       "items": [
         {
-          "id": "6655",
+          "id": "6656",
           "count": 1
         },
         {
@@ -134,39 +92,10 @@
       ]
     },
     {
-      "type": "Ideal end game",
-      "items": [
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Situational items",
       "items": [
         {
-          "id": "3152",
+          "id": "3193",
           "count": 1
         },
         {
@@ -195,6 +124,10 @@
         },
         {
           "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "8001",
           "count": 1
         }
       ]

@@ -62,7 +62,7 @@
       "type": "Defensive Core AFTERSHOCK",
       "items": [
         {
-          "id": "3001",
+          "id": "3068",
           "count": 1
         },
         {
@@ -83,15 +83,15 @@
           "count": 1
         },
         {
-          "id": "4637",
-          "count": 1
-        },
-        {
           "id": "3076",
           "count": 1
         },
         {
           "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4637",
           "count": 1
         }
       ]
@@ -106,10 +106,6 @@
         {
           "id": "3143",
           "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
         }
       ]
     },
@@ -118,10 +114,6 @@
       "items": [
         {
           "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3193",
           "count": 1
         },
         {
@@ -181,71 +173,73 @@
       ]
     },
     {
-      "type": "Anti-Tank Mythic CONQUEROR",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Perma CC Mythic ELECTROCUTE",
+      "type": "Core ELECTROCUTE",
       "items": [
         {
           "id": "6656",
           "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Offensive Favorites",
+      "type": "Defensive, Into AP Threat(s)",
+      "items": [
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Snowballing",
       "items": [
         {
           "id": "3041",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Burst Damage / Magic Pen",
+      "items": [
+        {
+          "id": "4645",
           "count": 1
         },
         {
           "id": "3135",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Generally Good",
+      "items": [
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Into healing",
+      "items": [
         {
           "id": "3165",
           "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
         }
       ]
     },
     {
-      "type": "Defensive Favorites vs. [AD/AP/AP]",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Ex. Build Anti-Tank CONQUEROR",
+      "type": "AP Example",
       "items": [
         {
           "id": "6653",

@@ -4,7 +4,7 @@
   "associatedChampions": [
     92
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-become-a-riven-god-404727",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-become-a-riven-god-404727",
   "_author": "Seth346",
   "blocks": [
     {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "type": "Meta Build (Vs AD)",
+      "type": "Safe Bet (Vs AD)",
       "items": [
         {
           "id": "3158",
@@ -54,11 +54,11 @@
           "count": 1
         },
         {
-          "id": "6333",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "6333",
           "count": 1
         },
         {
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "type": "Meta Build (Vs AP)",
+      "type": "Safe Bet (Vs AP)",
       "items": [
         {
           "id": "3158",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "type": "Meta Build (No Resistances)",
+      "type": "Safe Bet (No Resistances)",
       "items": [
         {
           "id": "3158",
@@ -130,10 +130,51 @@
       ]
     },
     {
-      "type": "Psychopath Build (Testing)",
+      "type": "Hyper carry (Testing)",
       "items": [
         {
-          "id": "6691",
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Hyper Carry Finishers (choose 2)",
+      "items": [
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3193",
           "count": 1
         },
         {
@@ -141,19 +182,7 @@
           "count": 1
         },
         {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "6696",
-          "count": 1
-        },
-        {
-          "id": "6333",
+          "id": "3031",
           "count": 1
         }
       ]

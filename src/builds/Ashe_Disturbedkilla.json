@@ -1,245 +1,238 @@
 {
-  "title": "KaiSa",
+  "title": "Ashe",
   "associatedMaps": [],
   "associatedChampions": [
-    145
+    22
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/snipys-diamond-ap-kaisa-guide-mid-bot-546307",
-  "_author": "SnipyOCE",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/the-royal-machine-gun-of-death-and-destruction-393353",
+  "_author": "Disturbedkilla",
   "blocks": [
     {
-      "type": "STARTING ITEMS:",
+      "type": "Starting",
       "items": [
         {
-          "id": "1036",
+          "id": "1055",
           "count": 1
         },
         {
-          "id": "2031",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "BUY AT LEAST A TEAR ON FIRST RECALL:",
+      "type": "Starting 2",
       "items": [
         {
-          "id": "3070",
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Q EVO POWERSPIKE:",
+      "type": "Anti tank",
       "items": [
         {
-          "id": "3004",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "1037",
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3071",
           "count": 1
         }
       ]
     },
     {
-      "type": "W EVO POWERSPIKE:",
+      "type": "Anti burst",
       "items": [
         {
-          "id": "3004",
+          "id": "6673",
           "count": 1
         },
         {
-          "id": "1037",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "1026",
-          "count": 1
-        },
-        {
-          "id": "1052",
+          "id": "3156",
           "count": 1
         }
       ]
     },
     {
-      "type": "BOOTS CHOICES:",
+      "type": "Core Items",
       "items": [
         {
-          "id": "3158",
+          "id": "6672",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3006",
           "count": 1
         }
       ]
     },
     {
-      "type": "MYTHIC CHOICES:",
+      "type": "Offensive Items",
       "items": [
         {
-          "id": "6655",
+          "id": "3072",
           "count": 1
         },
         {
-          "id": "4644",
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3033",
           "count": 1
         }
       ]
     },
     {
-      "type": "CORE BUILD:",
+      "type": "Defensive items",
       "items": [
         {
-          "id": "3158",
+          "id": "3026",
           "count": 1
         },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build Example 1",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build Example 2",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3085",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mana Build",
+      "items": [
         {
           "id": "3042",
           "count": 1
         },
         {
-          "id": "6655",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "4645",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "LATEGAME ITEM OPTIONS:",
-      "items": [
-        {
-          "id": "3089",
+          "id": "6693",
           "count": 1
         },
         {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXAMPLE FULL BUILD:",
-      "items": [
-        {
-          "id": "3158",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "3042",
+          "id": "6676",
           "count": 1
         },
         {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DEFENSIVE OPTIONS:",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CORE BUILD:",
-      "items": [
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3115",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "LATEGAME ITEM OPTIONS:",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXAMPLE FULL BUILD",
-      "items": [
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3115",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3089",
+          "id": "3031",
           "count": 1
         }
       ]

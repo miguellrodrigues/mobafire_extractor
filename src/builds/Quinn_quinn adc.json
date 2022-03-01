@@ -4,22 +4,22 @@
   "associatedChampions": [
     133
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-quinnads-season-12-grandmaster-quinn-guide-568972",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-quinnads-season-12-challenger-quinn-guide-568972",
   "_author": "quinn adc",
   "blocks": [
     {
-      "type": "STANDARD BUILD",
+      "type": "STANDARD BUILD- Meta",
       "items": [
         {
           "id": "6673",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3091",
+          "id": "3006",
           "count": 1
         },
         {
@@ -37,6 +37,64 @@
       ]
     },
     {
+      "type": "BUILD #2 - Never Die",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD #3 - Best Carry Build",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "STARTING ITEMS OPTION #1",
       "items": [
         {
@@ -45,19 +103,6 @@
         },
         {
           "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS OPTION #2",
-      "items": [
-        {
-          "id": "1055",
-          "count": 1
-        },
-        {
-          "id": "2003",
           "count": 1
         }
       ]
@@ -84,10 +129,14 @@
       ]
     },
     {
-      "type": "CORE AGASINST ASSASSINS",
+      "type": "CORE AGAINST ASSASSINS",
       "items": [
         {
           "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3091",
           "count": 1
         },
         {
@@ -96,10 +145,6 @@
         },
         {
           "id": "3095",
-          "count": 1
-        },
-        {
-          "id": "3031",
           "count": 1
         }
       ]
@@ -112,6 +157,10 @@
           "count": 1
         },
         {
+          "id": "3091",
+          "count": 1
+        },
+        {
           "id": "3006",
           "count": 1
         },
@@ -121,122 +170,6 @@
         },
         {
           "id": "3031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BUILD TO 1V9 TEAMFIGHTS",
-      "items": [
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DAMAGE/UTILITY",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "AGAINST SQUISHY TEAMS",
-      "items": [
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3095",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STRONG TEAMFIGHT",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "6675",
           "count": 1
         }
       ]
@@ -319,73 +252,6 @@
       "type": "STARTING ITEMS",
       "items": [
         {
-          "id": "1055",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CRIT-THALITY",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FULL LETHALITY",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
-        {
           "id": "1036",
           "count": 1
         },
@@ -396,27 +262,55 @@
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "STANDARD CRITTHALITY",
       "items": [
         {
-          "id": "1083",
+          "id": "3508",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting Items",
+      "type": "STANDARD ONE SHOT",
       "items": [
         {
-          "id": "1055",
+          "id": "6693",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3036",
           "count": 1
         }
       ]

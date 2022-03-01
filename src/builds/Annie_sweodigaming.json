@@ -1,14 +1,27 @@
 {
-  "title": "VelKoz",
+  "title": "Annie",
   "associatedMaps": [],
   "associatedChampions": [
-    161
+    1
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-2-season-12-azzapps-guide-to-velkoz-mid-sup-528463",
-  "_author": "Azzapp",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/10-23-the-dark-child-all-viable-roles-and-runes-521111",
+  "_author": "sweodigaming",
   "blocks": [
     {
-      "type": "Starting items",
+      "type": "STARTING ITEMS #1",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STARTING ITEMS #2",
       "items": [
         {
           "id": "1056",
@@ -21,55 +34,158 @@
       ]
     },
     {
-      "type": "Core items",
+      "type": "STARTING ITEMS #3",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "GOOD SMALL ITEMS TO BUY",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        },
+        {
+          "id": "1033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK",
       "items": [
         {
           "id": "3802",
           "count": 1
         },
         {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3089",
+          "id": "1001",
           "count": 1
         }
       ]
     },
     {
-      "type": "Optional items",
+      "type": "FIRST ITEM: PICK ONE",
       "items": [
         {
-          "id": "3070",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3916",
+          "id": "6653",
           "count": 1
         },
         {
-          "id": "3003",
+          "id": "3152",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SECOND ITEMS",
+      "items": [
+        {
+          "id": "4629",
           "count": 1
         },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LATE GAME ITEMS",
+      "items": [
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AGAINST HEAVY AP",
+      "items": [
         {
           "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MY PREFERRED BUILDS",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         },
         {
@@ -81,140 +197,7 @@
           "count": 1
         },
         {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build (Offesive)",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
           "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build (Defensive)",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting items",
-      "items": [
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core items",
-      "items": [
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "4636",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Optional items",
-      "items": [
-        {
-          "id": "3916",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3100",
-          "count": 1
-        },
-        {
-          "id": "4629",
           "count": 1
         },
         {
@@ -222,20 +205,42 @@
           "count": 1
         },
         {
-          "id": "3041",
+          "id": "3020",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example Full Build",
+      "type": "EXPERIMENTAL ITEMS",
       "items": [
         {
           "id": "3003",
           "count": 1
         },
         {
-          "id": "4636",
+          "id": "3041",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STARTING ITEMS ",
+      "items": [
+        {
+          "id": "Hunter's Talisman",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3158",
           "count": 1
         },
         {
@@ -243,24 +248,37 @@
           "count": 1
         },
         {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3041",
+          "id": "3009",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core items",
+      "type": "FIRST BACK",
       "items": [
         {
-          "id": "1082",
+          "id": "Stalker's Blade",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "RUSH THESE IN ORDER",
+      "items": [
+        {
+          "id": "Stalker's Blade - Runic Echoes",
+          "count": 1
+        },
+        {
+          "id": "3152",
           "count": 1
         },
         {
@@ -272,25 +290,160 @@
           "count": 1
         },
         {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "4628",
+          "id": "3135",
           "count": 1
         },
         {
           "id": "3089",
           "count": 1
+        }
+      ]
+    },
+    {
+      "type": "",
+      "items": [
+        {
+          "id": "3850",
+          "count": 1
         },
         {
-          "id": "4629",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting items",
+      "type": "CHOOSE ONE",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        },
+        {
+          "id": "Eye of the Watchers",
+          "count": 1
+        },
+        {
+          "id": "Eye of Frost",
+          "count": 1
+        },
+        {
+          "id": "3851",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AGRESSIVE",
+      "items": [
+        {
+          "id": "Twin Shadows",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "DEFENSIVE",
+      "items": [
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "PERSONAL BUILD",
+      "items": [
+        {
+          "id": "Eye of the Watchers",
+          "count": 1
+        },
+        {
+          "id": "Twin Shadows",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "",
+      "items": [
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "Spellbinder",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STARTING ITEMS #1",
       "items": [
         {
           "id": "1056",
@@ -303,14 +456,22 @@
       ]
     },
     {
-      "type": "Optional items",
+      "type": "RUSH THESE [SEE NOTES]",
       "items": [
         {
-          "id": "3916",
+          "id": "Rod of Ages",
           "count": 1
         },
         {
-          "id": "3102",
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "6662",
           "count": 1
         },
         {
@@ -318,204 +479,11 @@
           "count": 1
         },
         {
-          "id": "3041",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3116",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting items",
-      "items": [
-        {
-          "id": "3850",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Buy",
-      "items": [
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Items",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "4005",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3851",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "4005",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
-        {
-          "id": "3850",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Buy",
-      "items": [
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Items",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "4636",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3851",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "4636",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3089",
+          "id": "Ninja Tabi",
           "count": 1
         }
       ]

@@ -1,196 +1,192 @@
 {
-  "title": "ChoGath",
+  "title": "Wukong",
   "associatedMaps": [],
   "associatedChampions": [
-    31
+    62
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/full-magic-penetration-build-by-top-1-chogath-in-the-world-470949",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/my-full-lethality-armor-penetration-amp-pta-wukong-build-489742",
   "_author": "BaLoRi",
   "blocks": [
     {
-      "type": "Start Items #1",
+      "type": "Start Items!",
       "items": [
         {
           "id": "2003",
           "count": 1
         },
         {
-          "id": "1056",
-          "count": 1
-        },
-        {
-          "id": "3340",
+          "id": "1054",
           "count": 1
         }
       ]
     },
     {
-      "type": "Start Items #2",
+      "type": "First Back",
       "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
         {
           "id": "2031",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Final Build",
+      "items": [
         {
-          "id": "1082",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "3340",
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "2140",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Back Items (Ring start) #1",
+      "type": "Final Build V2",
       "items": [
         {
-          "id": "1082",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "1056",
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "2140",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Back Items (Seal start) #2",
+      "type": "Final Build v3",
       "items": [
         {
-          "id": "1056",
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3117",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "2140",
           "count": 1
         }
       ]
     },
     {
-      "type": "Full Magic Pen Build",
+      "type": "PTA Start item (Full Pen as well)",
       "items": [
         {
-          "id": "6655",
+          "id": "2003",
           "count": 1
         },
         {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3083",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "2139",
+          "id": "1054",
           "count": 1
         }
       ]
     },
     {
-      "type": "Full Magic Pen Build Version 2",
+      "type": "PTA First Back",
       "items": [
         {
-          "id": "6655",
+          "id": "1055",
           "count": 1
         },
         {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "2139",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Full Magic Pen Build Version 3",
+      "type": "Pta On-Hit Build",
       "items": [
         {
-          "id": "6655",
+          "id": "3078",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "4637",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "3165",
+          "id": "3124",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3036",
           "count": 1
         },
         {
-          "id": "2139",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Magic Pen Build Version 4",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "2139",
+          "id": "2140",
           "count": 1
         }
       ]

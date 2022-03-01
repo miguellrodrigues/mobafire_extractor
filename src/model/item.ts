@@ -17,21 +17,13 @@ interface Gold {
 
 interface Item {
   id: string;
-
   name: string;
-
   description: string;
-
   colloq: string;
-
   plaintext: string;
-
   from: string[];
-
   into: string[];
-
   image: Image;
-
   gold: Gold;
 
   tags: string[];

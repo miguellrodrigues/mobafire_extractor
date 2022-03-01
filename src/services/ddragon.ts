@@ -7,39 +7,40 @@ const ddragon_api = axios.create({
   baseURL: url,
 });
 
-async function fetch_champions() {
-  const champions_file_path = 'src/model/champions_enUS.json';
-  const { data } = await ddragon_api.get(`/cdn/12.2.1/data/en_US/champion.json`);
+async function fetch_champions(language: string, version: string) {
+  const champions_file_path = `src/data/champions_${language}.json`;
+  const { data } = await ddragon_api.get(`/cdn/${version}/data/${language}/champion.json`);
 
-  const champions = data.data;
+  const raw_champions = data.data;
+  const champions = Array<Champion>();
+
+  for (const name in raw_champions) {
+    const champion = raw_champions[name];
+
+    champions.push({
+      ...champion
+    });
+  }
 
   const champions_file = JSON.stringify(champions, null, 2);
 
   fs.writeFileSync(champions_file_path, champions_file);
+
+  return champions;
 }
 
-async function fetch_items(language: string) {
-  const response = await ddragon_api.get(`/cdn/12.2.1/data/en_US/${language}.json`);
+async function fetch_items(language: string, version: string) {
+  const response = await ddragon_api.get(`/cdn/${version}/data/${language}/item.json`);
   const data = response.data;
   
   const raw_items = data.data;
-  const items = Array<Item>();
 
-  for (const key in raw_items) {
-    let item = {
-      id: key,
-      ...raw_items[key]
-    };
-
-    items.push(item);
-  }
-
-  // write items file
-
-  const items_file = JSON.stringify(items, null, 2);
-  const items_file_path = 'src/model/items_enUS.json';
+  const items_file = JSON.stringify(raw_items, null, 2);
+  const items_file_path = `src/data/items_${language}.json`;
 
   fs.writeFileSync(items_file_path, items_file);
+
+  return raw_items;
 }
 
 export { fetch_champions, fetch_items };

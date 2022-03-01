@@ -47,27 +47,10 @@
       ]
     },
     {
-      "type": "Rejuv start",
-      "items": [
-        {
-          "id": "1006",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Yasukeh's Challenger start ",
+      "type": "Boots start",
       "items": [
         {
           "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "1006",
           "count": 1
         },
         {
@@ -181,7 +164,7 @@
       "type": " First back items ",
       "items": [
         {
-          "id": "3006",
+          "id": "3158",
           "count": 1
         },
         {
@@ -202,7 +185,7 @@
           "count": 1
         },
         {
-          "id": "3086",
+          "id": "6671",
           "count": 1
         }
       ]
@@ -219,11 +202,11 @@
           "count": 1
         },
         {
-          "id": "3086",
+          "id": "6671",
           "count": 1
         },
         {
-          "id": "6631",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -254,7 +237,7 @@
       ]
     },
     {
-      "type": "Example full build",
+      "type": "Example full build(Typical)",
       "items": [
         {
           "id": "3158",
@@ -265,15 +248,15 @@
           "count": 1
         },
         {
-          "id": "6631",
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
           "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3046",
           "count": 1
         },
         {

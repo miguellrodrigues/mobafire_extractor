@@ -4,11 +4,11 @@
   "associatedChampions": [
     114
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/11-14-rank-1-fiora-na-challenger-fiora-main-guide-upd-541054",
-  "_author": "ForgottenProject",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-fiora-handbook-top-mid-match-up-guide-570006",
+  "_author": "Anoying bro5",
   "blocks": [
     {
-      "type": "Start #1",
+      "type": "Start if looking to farm/ trade",
       "items": [
         {
           "id": "1055",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "type": "Start #2",
+      "type": "Best Starting Item to farm/ vs early ranged",
       "items": [
         {
           "id": "1054",
@@ -34,59 +34,7 @@
       ]
     },
     {
-      "type": "First Few Backs",
-      "items": [
-        {
-          "id": "3057",
-          "count": 1
-        },
-        {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "vs Healers",
-      "items": [
-        {
-          "id": "3123",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Build vs Tanks/Bruisers",
-      "items": [
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Build vs Ranged",
-      "items": [
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "3074",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Boot Options",
+      "type": "Boots (Read Notes)",
       "items": [
         {
           "id": "3111",
@@ -99,25 +47,41 @@
         {
           "id": "3158",
           "count": 1
+        },
+        {
+          "id": "3009",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Vision Control",
+      "type": "Anti-healing (Notes)",
       "items": [
         {
-          "id": "3363",
+          "id": "3123",
           "count": 1
         },
         {
-          "id": "2055",
+          "id": "3076",
           "count": 1
         }
       ]
     },
     {
-      "type": "Late-Game Options",
+      "type": "🎇Bruiser Build🎇(Notes)",
       "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
         {
           "id": "6333",
           "count": 1
@@ -129,38 +93,22 @@
         {
           "id": "3026",
           "count": 1
-        },
-        {
-          "id": "3139",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "6035",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
         }
       ]
     },
     {
-      "type": "Recommended Build",
+      "type": "PTA/ Assassin Build",
       "items": [
         {
-          "id": "6632",
+          "id": "6631",
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -168,7 +116,32 @@
           "count": 1
         },
         {
-          "id": "3181",
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
@@ -176,16 +149,60 @@
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4401",
           "count": 1
         }
       ]
     },
     {
-      "type": "Personal Preference Items",
+      "type": "Vision (read notes for explanation)",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "3363",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]

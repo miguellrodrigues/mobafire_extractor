@@ -4,7 +4,7 @@
   "associatedChampions": [
     25
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-bizzleberrys-season-11-morgana-guide-new-build-529560",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-bizzleberrys-season-12-morgana-guide-new-build-529560",
   "_author": "Terroronyou",
   "blocks": [
     {
@@ -45,6 +45,15 @@
         },
         {
           "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "When you need anti-heal",
+      "items": [
+        {
+          "id": "3165",
           "count": 1
         }
       ]

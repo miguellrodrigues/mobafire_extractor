@@ -1,55 +1,25 @@
 {
-  "title": "Blitzcrank",
+  "title": "Poppy",
   "associatedMaps": [],
   "associatedChampions": [
-    53
+    78
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-bizzleberrys-blitzcrank-season-12-support-guide-530095",
-  "_author": "Terroronyou",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-tacticians-challenger-top-amp-jungle-poppy-guide-565991",
+  "_author": "YoungTact",
   "blocks": [
     {
-      "type": "Starting Items",
+      "type": "Poppy Top",
       "items": [
         {
-          "id": "3854",
+          "id": "3068",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mid Game",
-      "items": [
-        {
-          "id": "3117",
+          "id": "4401",
           "count": 1
         },
         {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3076",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Final Build",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3190",
+          "id": "3143",
           "count": 1
         },
         {
@@ -57,15 +27,40 @@
           "count": 1
         },
         {
-          "id": "4643",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
           "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Poppy Jungle",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         }
       ]

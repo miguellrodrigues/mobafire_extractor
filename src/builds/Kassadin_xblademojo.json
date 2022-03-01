@@ -4,7 +4,7 @@
   "associatedChampions": [
     38
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-2-rank-1-kassadin-complete-guide-by-xblademojo-602685",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-rank-1-kassadin-complete-guide-by-xblademojo-602685",
   "_author": "xblademojo",
   "blocks": [
     {
@@ -139,36 +139,7 @@
       ]
     },
     {
-      "type": "Example Build #1 Scaling",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3040",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Build #2 vs Heavy Burst Scaling",
+      "type": "Example Build #1 vs Assasins & Tanks",
       "items": [
         {
           "id": "4644",
@@ -197,7 +168,36 @@
       ]
     },
     {
-      "type": "Example Build #3 Fastest Impact",
+      "type": "Example Build #2 Scaling vs Squishy",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Build #3 vs Squishy Enemy",
       "items": [
         {
           "id": "6655",

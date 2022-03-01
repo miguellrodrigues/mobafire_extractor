@@ -1,34 +1,17 @@
 {
-  "title": "Ashe",
+  "title": "Karma",
   "associatedMaps": [],
   "associatedChampions": [
-    22
+    43
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/ultimate-ashe-new-meta-guide-season-11-598968",
-  "_author": "VuKing",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/by-force-of-will-season-12-karma-sup-amp-mid-guide-552217",
+  "_author": "IAmMakattack",
   "blocks": [
     {
-      "type": "",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "1055",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "",
-      "items": [
-        {
-          "id": "1036",
+          "id": "3850",
           "count": 1
         },
         {
@@ -38,18 +21,48 @@
       ]
     },
     {
-      "type": "Mythic Iteams",
+      "type": "First Back",
       "items": [
         {
-          "id": "6673",
+          "id": "2055",
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "6671",
+          "id": "1082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Vision",
+      "items": [
+        {
+          "id": "3851",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic Options",
+      "items": [
+        {
+          "id": "2065",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "4005",
           "count": 1
         }
       ]
@@ -58,264 +71,240 @@
       "type": "Boots",
       "items": [
         {
-          "id": "3006",
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         },
         {
           "id": "3047",
           "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Utility Options",
+      "items": [
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build Example",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
         },
         {
           "id": "3158",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Iteam",
-      "items": [
+        },
         {
-          "id": "3091",
+          "id": "2065",
           "count": 1
         },
         {
-          "id": "6673",
+          "id": "3011",
           "count": 1
         },
         {
-          "id": "3124",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "SITUATIONAL Iteams",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
+          "id": "6616",
           "count": 1
         },
         {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3139",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "3508",
+          "id": "4643",
           "count": 1
         }
       ]
     },
     {
-      "type": "",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "3006",
+          "id": "1056",
           "count": 1
         },
         {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3033",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Aoe Build",
+      "type": "Early Items",
       "items": [
         {
-          "id": "3006",
+          "id": "1082",
           "count": 1
         },
         {
-          "id": "6672",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "2031",
           "count": 1
         },
         {
-          "id": "3074",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "",
+      "type": "Core",
       "items": [
         {
-          "id": "6671",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3085",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3036",
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "",
+      "type": "Other Mythics",
       "items": [
         {
-          "id": "6672",
+          "id": "6653",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "4644",
           "count": 1
         },
         {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3036",
+          "id": "2065",
           "count": 1
         }
       ]
     },
     {
-      "type": "Tier 3 - 2%",
+      "type": "Situational Items ",
       "items": [
         {
-          "id": "3006",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "6673",
+          "id": "3011",
           "count": 1
         },
         {
-          "id": "3091",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3102",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "3041",
           "count": 1
         },
         {
-          "id": "3046",
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3065",
           "count": 1
         }
       ]
     },
     {
-      "type": "Tier 2 - 6%",
+      "type": "Standard Build",
       "items": [
         {
-          "id": "3091",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "6673",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3085",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3036",
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3363",
           "count": 1
         }
       ]
     },
     {
-      "type": "Tier 1 - 43%",
+      "type": "DFM Ceros Build",
       "items": [
         {
-          "id": "3091",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "2065",
           "count": 1
         },
         {
-          "id": "6673",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3011",
           "count": 1
         },
         {
-          "id": "3033",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3036",
+          "id": "3041",
           "count": 1
         }
       ]

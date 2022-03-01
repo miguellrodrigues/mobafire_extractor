@@ -1,50 +1,21 @@
 {
-  "title": "Lux",
+  "title": "Qiyana",
   "associatedMaps": [],
   "associatedChampions": [
-    99
+    246
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-porcelain-lux-mid-light-em-up-im-on-fiyaa-lux-460573",
-  "_author": "LuxTheGreyWarden",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/carry-with-qiyana-mid-jg-top-s12-guide-590371",
+  "_author": "Johnny Fast",
   "blocks": [
     {
-      "type": "Starting Item",
+      "type": "Starting Items",
       "items": [
         {
-          "id": "1056",
+          "id": "3340",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Back",
-      "items": [
-        {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "4632",
-          "count": 1
-        },
-        {
-          "id": "3191",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2055",
+          "id": "1036",
           "count": 1
         },
         {
@@ -54,31 +25,116 @@
       ]
     },
     {
-      "type": "Mythic Item (Choose 1)",
+      "type": "First recall",
       "items": [
         {
-          "id": "6655",
+          "id": "3134",
           "count": 1
         },
         {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "4644",
+          "id": "1001",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boots (Choose 1)",
+      "type": "Prowler's Claw is broken",
       "items": [
         {
-          "id": "3020",
+          "id": "6693",
           "count": 1
         },
         {
           "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Get only 1",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Always Grudge 3rd",
+      "items": [
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Scientist",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Exemple of Final Build",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3047",
           "count": 1
         },
         {
@@ -86,194 +142,141 @@
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core Legendary Items",
+      "type": "Starting Item",
       "items": [
         {
-          "id": "3089",
+          "id": "1035",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Situational Items",
+      "type": "First Recall",
       "items": [
         {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3140",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Don't Forget!",
-      "items": [
-        {
-          "id": "2139",
-          "count": 1
-        },
-        {
-          "id": "3363",
+          "id": "3134",
           "count": 1
         },
         {
           "id": "2055",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard Burst Lux Build",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "3135",
+          "id": "3364",
           "count": 1
         }
       ]
     },
     {
-      "type": "Defensive Build",
+      "type": "Prowler's Rush",
       "items": [
         {
-          "id": "4644",
+          "id": "6693",
           "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
+          "id": "3158",
           "count": 1
         }
       ]
     },
     {
-      "type": "High Healing Comps",
+      "type": "Core",
       "items": [
         {
-          "id": "6655",
+          "id": "3142",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "6694",
           "count": 1
         },
         {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
+          "id": "6695",
           "count": 1
         }
       ]
     },
     {
-      "type": "Healthy/Tanky Comps",
+      "type": "Full Build Example",
       "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
         {
           "id": "3158",
           "count": 1
         },
         {
-          "id": "6653",
+          "id": "3142",
           "count": 1
         },
         {
-          "id": "3003",
+          "id": "6694",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "3156",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational",
+      "items": [
+        {
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]

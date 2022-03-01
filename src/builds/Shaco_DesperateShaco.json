@@ -4,8 +4,8 @@
   "associatedChampions": [
     35
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s-11-white-crows-sexy-diamond-guide-to-shaco-327054",
-  "_author": "White Cr0w",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-literally-freelo-with-ad-ap-shaco-by-desperate-shac-560652",
+  "_author": "DesperateShaco",
   "blocks": [
     {
       "type": "Starting Items",
@@ -21,37 +21,63 @@
       ]
     },
     {
-      "type": "Core Items",
+      "type": "First Back",
       "items": [
         {
-          "id": "6692",
+          "id": "3134",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "2055",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Common Full Build",
+      "type": "Rush This",
       "items": [
         {
-          "id": "6692",
+          "id": "3142",
           "count": 1
         },
         {
           "id": "3006",
           "count": 1
         },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items (After Core)",
+      "items": [
         {
           "id": "3508",
           "count": 1
@@ -65,38 +91,54 @@
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3091",
           "count": 1
         }
       ]
     },
     {
-      "type": "Situational Items",
+      "type": "Example Full Build",
       "items": [
         {
-          "id": "6691",
+          "id": "3142",
           "count": 1
         },
         {
-          "id": "6695",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6692",
+          "id": "6672",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3036",
           "count": 1
         },
         {
-          "id": "3046",
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "6333",
           "count": 1
         }
       ]
     },
     {
-      "type": "Starting items",
+      "type": "Starting Items",
       "items": [
         {
           "id": "2031",
@@ -105,9 +147,18 @@
         {
           "id": "1039",
           "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush This",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
         },
         {
-          "id": "3340",
+          "id": "6653",
           "count": 1
         }
       ]
@@ -116,40 +167,57 @@
       "type": "Core Items",
       "items": [
         {
-          "id": "4636",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "6655",
+          "id": "6653",
           "count": 1
         },
         {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "4629",
+          "id": "4637",
           "count": 1
         }
       ]
     },
     {
-      "type": "Common Full Build",
+      "type": "Situational",
       "items": [
         {
-          "id": "3020",
+          "id": "3165",
           "count": 1
         },
         {
-          "id": "4636",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3100",
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
           "count": 1
         },
         {
@@ -158,23 +226,6 @@
         },
         {
           "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational items",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3102",
           "count": 1
         }
       ]

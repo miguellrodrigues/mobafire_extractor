@@ -4,7 +4,7 @@
   "associatedChampions": [
     120
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/hecarim-jungle-guide-for-preseason-12-patch-11-23-513159",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/hecarim-jungle-guide-for-season-12-patch-12-4-513159",
   "_author": "DjapeFromSerbia",
   "blocks": [
     {
@@ -12,6 +12,10 @@
       "items": [
         {
           "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1039",
           "count": 1
         }
       ]
@@ -24,7 +28,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {
@@ -41,7 +45,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6333",
           "count": 1
         },
         {
@@ -57,7 +61,7 @@
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3053",
           "count": 1
         }
       ]
@@ -66,7 +70,11 @@
       "type": "Situational Items",
       "items": [
         {
-          "id": "3142",
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "4401",
           "count": 1
         },
         {
@@ -74,7 +82,7 @@
           "count": 1
         },
         {
-          "id": "3078",
+          "id": "3142",
           "count": 1
         },
         {
@@ -83,10 +91,6 @@
         },
         {
           "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "4401",
           "count": 1
         },
         {

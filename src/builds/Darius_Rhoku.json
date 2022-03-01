@@ -50,7 +50,7 @@
       ]
     },
     {
-      "type": "Conq Mythics",
+      "type": "Conqueror Mythics",
       "items": [
         {
           "id": "3078",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "type": "Lethal Mythics",
+      "type": "Lethal Tempo Mythics",
       "items": [
         {
           "id": "6630",
@@ -84,6 +84,10 @@
       "items": [
         {
           "id": "6664",
+          "count": 1
+        },
+        {
+          "id": "6662",
           "count": 1
         }
       ]
@@ -129,15 +133,15 @@
       "type": "Best Legendary Items/Almost Every Game",
       "items": [
         {
-          "id": "3193",
-          "count": 1
-        },
-        {
           "id": "3053",
           "count": 1
         },
         {
-          "id": "3121",
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "6333",
           "count": 1
         },
         {
@@ -155,14 +159,6 @@
         },
         {
           "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6333",
           "count": 1
         },
         {
@@ -184,10 +180,6 @@
         },
         {
           "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3083",
           "count": 1
         },
         {
@@ -226,10 +218,10 @@
       ]
     },
     {
-      "type": "Shield Focus Build - Raging Demon",
+      "type": "Fed 1v9 Build",
       "items": [
         {
-          "id": "6630",
+          "id": "3078",
           "count": 1
         },
         {
@@ -237,7 +229,7 @@
           "count": 1
         },
         {
-          "id": "3121",
+          "id": "6333",
           "count": 1
         },
         {
@@ -245,17 +237,17 @@
           "count": 1
         },
         {
-          "id": "3193",
+          "id": "3065",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3193",
           "count": 1
         }
       ]
     },
     {
-      "type": "Anti Tank Build",
+      "type": "Anti Tank/Frontline Build",
       "items": [
         {
           "id": "6632",
@@ -400,7 +392,7 @@
       ]
     },
     {
-      "type": "Tank Build From Behind",
+      "type": "Standard Tank Mythic Build",
       "items": [
         {
           "id": "6664",
@@ -412,10 +404,6 @@
         },
         {
           "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3105",
           "count": 1
         },
         {
@@ -433,18 +421,18 @@
       ]
     },
     {
-      "type": "Full Magic Resist Build",
+      "type": "Frostfire Standard Build",
       "items": [
         {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "3111",
+          "id": "6662",
           "count": 1
         },
         {
           "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         },
         {
@@ -456,7 +444,7 @@
           "count": 1
         },
         {
-          "id": "6035",
+          "id": "3193",
           "count": 1
         }
       ]

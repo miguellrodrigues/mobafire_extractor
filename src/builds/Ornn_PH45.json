@@ -4,7 +4,7 @@
   "associatedChampions": [
     516
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/11-22-ph45s-in-depth-top-lane-guide-to-ornn-the-demigod-512751",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-ph45s-in-depth-top-lane-guide-to-ornn-the-demigod-512751",
   "_author": "PH45",
   "blocks": [
     {
@@ -51,10 +51,6 @@
         },
         {
           "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "6664",
           "count": 1
         }
       ]
@@ -127,7 +123,7 @@
       "type": "Full build example",
       "items": [
         {
-          "id": "3068",
+          "id": "6662",
           "count": 1
         },
         {
