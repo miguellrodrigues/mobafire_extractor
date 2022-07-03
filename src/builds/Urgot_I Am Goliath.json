@@ -21,7 +21,7 @@
       ]
     },
     {
-      "type": "Starting Items Vs Ranged lanes",
+      "type": "Starting Items Vs some ranged lanes",
       "items": [
         {
           "id": "1054",
@@ -37,7 +37,7 @@
       "type": "Core Items",
       "items": [
         {
-          "id": "3181",
+          "id": "3071",
           "count": 1
         },
         {
@@ -50,7 +50,7 @@
       "type": "Main Juggernaut Build",
       "items": [
         {
-          "id": "3181",
+          "id": "3071",
           "count": 1
         },
         {
@@ -62,15 +62,73 @@
           "count": 1
         },
         {
-          "id": "3053",
-          "count": 1
-        },
-        {
           "id": "6662",
           "count": 1
         },
         {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "armor pen build into tankier team comps",
+      "items": [
+        {
           "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Lethality build into squishy ranged team comps",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3053",
           "count": 1
         }
       ]
@@ -78,6 +136,22 @@
     {
       "type": "Situational Items",
       "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6664",
+          "count": 1
+        },
         {
           "id": "3075",
           "count": 1
@@ -104,26 +178,6 @@
         },
         {
           "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3068",
-          "count": 1
-        },
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "6630",
           "count": 1
         },
         {

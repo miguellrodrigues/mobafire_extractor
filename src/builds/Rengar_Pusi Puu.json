@@ -4,7 +4,7 @@
   "associatedChampions": [
     107
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-3-multiseason-challenger-pusipuu-guide-in-depth-589480",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-multiseason-challenger-pusipuu-guide-in-depth-rework-589480",
   "_author": "Pusi Puu",
   "blocks": [
     {
@@ -42,39 +42,10 @@
       ]
     },
     {
-      "type": "Best Build",
+      "type": "Bruiser GOAT",
       "items": [
         {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "GOAT",
-      "items": [
-        {
-          "id": "3134",
+          "id": "6632",
           "count": 1
         },
         {
@@ -82,40 +53,32 @@
           "count": 1
         },
         {
-          "id": "6691",
-          "count": 1
-        },
-        {
-          "id": "3035",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
           "id": "6333",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3071",
           "count": 1
         }
       ]
     },
     {
-      "type": "Bruiser Sustain with damage",
+      "type": "Eclipse shred tanks",
       "items": [
         {
-          "id": "6692",
+          "id": "1001",
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "6692",
           "count": 1
         },
         {
@@ -137,6 +100,68 @@
       ]
     },
     {
+      "type": "FULL ASSASSINE",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6691",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "NEW EARLY SPIKE BUILD + RUNES",
+      "items": [
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Standard Bruiser",
       "items": [
         {
@@ -148,7 +173,28 @@
           "count": 1
         },
         {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
           "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Goredrinker",
+      "items": [
+        {
+          "id": "6630",
           "count": 1
         },
         {
@@ -160,7 +206,7 @@
           "count": 1
         },
         {
-          "id": "6609",
+          "id": "3026",
           "count": 1
         }
       ]

@@ -59,24 +59,7 @@
       ]
     },
     {
-      "type": "Defensive Core AFTERSHOCK",
-      "items": [
-        {
-          "id": "3068",
-          "count": 1
-        },
-        {
-          "id": "3076",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Offensive Core CONQUEROR",
+      "type": "Offensive Core ",
       "items": [
         {
           "id": "3068",
@@ -173,7 +156,7 @@
       ]
     },
     {
-      "type": "Core ELECTROCUTE",
+      "type": "Core",
       "items": [
         {
           "id": "6656",

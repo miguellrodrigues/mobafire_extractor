@@ -21,4 +21,4 @@ extract_all();
 //   await generate_lol_build_file_from_url(url);
 // }
 
-// extract_one('https://www.mobafire.com/league-of-legends/build/s12-wormmaws-guide-for-dr-mundo-520441');
+// extract_one('https://www.mobafire.com/league-of-legends/build/season-12-ap-ad-kennen-all-roles-575084');

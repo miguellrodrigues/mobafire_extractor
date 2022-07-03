@@ -4,7 +4,7 @@
   "associatedChampions": [
     202
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-ikeepittacos-grandmaster-jhin-guide-season-12-569038",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-ikeepittacos-grandmaster-jhin-guide-season-12-569038",
   "_author": "IKeepItTaco",
   "blocks": [
     {
@@ -16,23 +16,6 @@
         },
         {
           "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Crit Build - Burst (META)",
-      "items": [
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3094",
           "count": 1
         }
       ]
@@ -50,6 +33,23 @@
         },
         {
           "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Crit Build - Range Outplay",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3094",
           "count": 1
         }
       ]
@@ -127,11 +127,11 @@
           "count": 1
         },
         {
-          "id": "3094",
+          "id": "3031",
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "3094",
           "count": 1
         },
         {

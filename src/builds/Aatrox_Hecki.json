@@ -1,72 +1,54 @@
 {
-  "title": "Annie",
+  "title": "Aatrox",
   "associatedMaps": [],
   "associatedChampions": [
-    1
+    266
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/10-23-the-dark-child-all-viable-roles-and-runes-521111",
-  "_author": "sweodigaming",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-become-the-world-ender-grand-masters-aatrox-guide-601245",
+  "_author": "Hecki",
   "blocks": [
     {
-      "type": "STARTING ITEMS #1",
+      "type": "START (READ NOTES)",
       "items": [
         {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS #2",
-      "items": [
-        {
-          "id": "1056",
+          "id": "1054",
           "count": 1
         },
         {
           "id": "2003",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS #3",
-      "items": [
+        },
         {
-          "id": "2033",
+          "id": "1055",
           "count": 1
         }
       ]
     },
     {
-      "type": "GOOD SMALL ITEMS TO BUY",
+      "type": "FIRST BACK (IF BEHIND)",
       "items": [
         {
-          "id": "1001",
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        },
+        {
+          "id": "3057",
+          "count": 1
+        },
+        {
+          "id": "1083",
           "count": 1
         },
         {
           "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "2033",
-          "count": 1
-        },
-        {
-          "id": "1052",
-          "count": 1
-        },
-        {
-          "id": "1082",
           "count": 1
         },
         {
@@ -80,154 +62,18 @@
       ]
     },
     {
-      "type": "BOOTS",
+      "type": "FIRST BACK (IF AHEAD)",
       "items": [
         {
-          "id": "3158",
+          "id": "6029",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3134",
           "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FIRST BACK",
-      "items": [
-        {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FIRST ITEM: PICK ONE",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3152",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "SECOND ITEMS",
-      "items": [
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3116",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "LATE GAME ITEMS",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "AGAINST HEAVY AP",
-      "items": [
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "MY PREFERRED BUILDS",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXPERIMENTAL ITEMS",
-      "items": [
-        {
-          "id": "3003",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS ",
-      "items": [
-        {
-          "id": "Hunter's Talisman",
+          "id": "3133",
           "count": 1
         },
         {
@@ -237,245 +83,10 @@
       ]
     },
     {
-      "type": "BOOTS",
+      "type": "BOOTS (READ NOTES)",
       "items": [
         {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FIRST BACK",
-      "items": [
-        {
-          "id": "Stalker's Blade",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "RUSH THESE IN ORDER",
-      "items": [
-        {
-          "id": "Stalker's Blade - Runic Echoes",
-          "count": 1
-        },
-        {
-          "id": "3152",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "",
-      "items": [
-        {
-          "id": "3850",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CHOOSE ONE",
-      "items": [
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "Eye of the Watchers",
-          "count": 1
-        },
-        {
-          "id": "Eye of Frost",
-          "count": 1
-        },
-        {
-          "id": "3851",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "AGRESSIVE",
-      "items": [
-        {
-          "id": "Twin Shadows",
-          "count": 1
-        },
-        {
-          "id": "6655",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DEFENSIVE",
-      "items": [
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3107",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "PERSONAL BUILD",
-      "items": [
-        {
-          "id": "Eye of the Watchers",
-          "count": 1
-        },
-        {
-          "id": "Twin Shadows",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6655",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BOOTS",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "",
-      "items": [
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "Spellbinder",
-          "count": 1
-        },
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STARTING ITEMS #1",
-      "items": [
-        {
-          "id": "1056",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "RUSH THESE [SEE NOTES]",
-      "items": [
-        {
-          "id": "Rod of Ages",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3157",
+          "id": "3047",
           "count": 1
         },
         {
@@ -483,7 +94,389 @@
           "count": 1
         },
         {
-          "id": "Ninja Tabi",
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STANDARD BRUISER BUILD",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL AD ENEMY TEAM ",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3082",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "HIGHER DAMAGE BRUISER (READ NOTES)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL AP ENEMY TEAM",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "DURABILITY MYTHICS",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONAL",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3123",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "OPTIONIAL 5/6 ITEM CHOICES (READ NOTES)",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "500G POTIONS",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        },
+        {
+          "id": "2138",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LETHALITY",
+      "items": [
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "uhm",
+      "items": [
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "START (READ NOTES)",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK (IF BEHIND)",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "1028",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1029",
+          "count": 1
+        },
+        {
+          "id": "1033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FIRST BACK (IF AHEAD)",
+      "items": [
+        {
+          "id": "6029",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS (READ NOTES)",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STANDARD SLOW BUILD",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "UTILITY TANK BUILD",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "GLACIAL ASSASSIN (TESTING)",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "6696",
+          "count": 1
+        },
+        {
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SITUATIONAL",
+      "items": [
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3123",
           "count": 1
         }
       ]

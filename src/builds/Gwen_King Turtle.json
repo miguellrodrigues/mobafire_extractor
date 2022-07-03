@@ -4,7 +4,7 @@
   "associatedChampions": [
     887
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-menace-to-lol-gwen-598867",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-menace-to-lol-gwen-598867",
   "_author": "King Turtle",
   "blocks": [
     {
@@ -25,6 +25,14 @@
       "items": [
         {
           "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "1054",
           "count": 1
         },
         {
@@ -84,7 +92,7 @@
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "4629",
           "count": 1
         }
       ]
@@ -113,7 +121,7 @@
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "4629",
           "count": 1
         }
       ]
@@ -122,7 +130,7 @@
       "type": "Alternative 6th Items",
       "items": [
         {
-          "id": "4629",
+          "id": "3135",
           "count": 1
         },
         {

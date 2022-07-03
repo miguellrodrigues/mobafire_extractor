@@ -4,72 +4,87 @@
   "associatedChampions": [
     245
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-updated-diamond-1-ekko-jungle-guide-for-carrying-re-560790",
-  "_author": "keepfarming",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-ap-ekko-mid-lane-guide-short-but-detailed-512604",
+  "_author": "Ekko Rush B Guides",
   "blocks": [
     {
-      "type": "Level 1 start",
+      "type": "Starting Items #1",
       "items": [
         {
-          "id": "2031",
+          "id": "1056",
           "count": 1
         },
         {
-          "id": "1035",
-          "count": 1
-        },
-        {
-          "id": "1039",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "First back",
+      "type": "Starting Items #2",
       "items": [
         {
           "id": "1082",
           "count": 1
         },
         {
-          "id": "1052",
-          "count": 1
-        },
-        {
-          "id": "3145",
-          "count": 1
-        },
-        {
-          "id": "1026",
+          "id": "2031",
           "count": 1
         }
       ]
     },
     {
-      "type": "Item Pool ",
+      "type": "Starting Items #3",
       "items": [
         {
-          "id": "3100",
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First Back",
+      "items": [
+        {
+          "id": "1052",
           "count": 1
         },
         {
-          "id": "3165",
+          "id": "1001",
           "count": 1
         },
+        {
+          "id": "2031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core Items",
+      "items": [
         {
           "id": "3152",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "3115",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full Build",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         },
         {
@@ -77,28 +92,20 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "3041",
+          "id": "3020",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example full build",
+      "type": "Defensive Option",
       "items": [
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3100",
+          "id": "8020",
           "count": 1
         },
         {
@@ -106,11 +113,15 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3102",
           "count": 1
         },
         {
-          "id": "3152",
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
           "count": 1
         }
       ]

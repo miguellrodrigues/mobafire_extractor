@@ -68,6 +68,19 @@
       ]
     },
     {
+      "type": "Tank Thresh Core Item choice",
+      "items": [
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Tank Thresh Mythic",
       "items": [
         {
@@ -85,17 +98,12 @@
       ]
     },
     {
-      "type": "Tank Thresh Core Item",
-      "items": [
-        {
-          "id": "3748",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Tank Thresh Boots",
       "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
         {
           "id": "3047",
           "count": 1
@@ -103,13 +111,34 @@
         {
           "id": "3111",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Standard Thresh Top Tank - On-hit scaling",
+      "items": [
         {
-          "id": "3158",
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "8020",
           "count": 1
         }
       ]
@@ -209,7 +238,7 @@
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3031",
           "count": 1
         },
         {

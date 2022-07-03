@@ -4,7 +4,7 @@
   "associatedChampions": [
     240
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-the-ultimate-s12-challenger-kled-guide-564240",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-10-the-ultimate-s12-challenger-kled-guide-564240",
   "_author": "Feedaboi",
   "blocks": [
     {
@@ -45,10 +45,6 @@
       "type": "Standard Build",
       "items": [
         {
-          "id": "3142",
-          "count": 1
-        },
-        {
           "id": "6630",
           "count": 1
         },
@@ -57,7 +53,7 @@
           "count": 1
         },
         {
-          "id": "3181",
+          "id": "3156",
           "count": 1
         },
         {
@@ -65,7 +61,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3026",
           "count": 1
         }
       ]
@@ -103,10 +99,6 @@
       "type": "VS AD Squishy Comps",
       "items": [
         {
-          "id": "3142",
-          "count": 1
-        },
-        {
           "id": "6691",
           "count": 1
         },
@@ -123,7 +115,7 @@
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3142",
           "count": 1
         }
       ]
@@ -166,10 +158,6 @@
       "items": [
         {
           "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3053",
           "count": 1
         },
         {

@@ -4,7 +4,7 @@
   "associatedChampions": [
     44
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-surfs-up-taric-support-guide-498036",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-surfs-up-master-taric-support-guide-498036",
   "_author": "L3gislacerator",
   "blocks": [
     {
@@ -17,65 +17,22 @@
         {
           "id": "2003",
           "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
         }
       ]
     },
     {
-      "type": "First Back",
+      "type": "Mana Options",
       "items": [
         {
           "id": "3070",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core Items",
-      "items": [
-        {
-          "id": "3190",
-          "count": 1
         },
         {
-          "id": "3121",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Good Secondary Items",
-      "items": [
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Other Mythic Options",
-      "items": [
-        {
-          "id": "2065",
-          "count": 1
-        },
-        {
-          "id": "6617",
-          "count": 1
-        },
-        {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3001",
+          "id": "3024",
           "count": 1
         }
       ]
@@ -84,49 +41,41 @@
       "type": "Boots",
       "items": [
         {
+          "id": "3158",
+          "count": 1
+        },
+        {
           "id": "3047",
           "count": 1
         },
         {
           "id": "3111",
           "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
         }
       ]
     },
     {
-      "type": "Survivability",
+      "type": "Mythic Item (Pick One)",
       "items": [
         {
-          "id": "3109",
+          "id": "3190",
           "count": 1
         },
         {
-          "id": "3143",
+          "id": "2065",
           "count": 1
         },
         {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3065",
+          "id": "6662",
           "count": 1
         }
       ]
     },
     {
-      "type": "Healing & Utility",
+      "type": "Core Item Options",
       "items": [
         {
           "id": "3107",
-          "count": 1
-        },
-        {
-          "id": "3504",
           "count": 1
         },
         {
@@ -134,28 +83,24 @@
           "count": 1
         },
         {
-          "id": "3222",
+          "id": "3110",
           "count": 1
         },
         {
-          "id": "6616",
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3504",
           "count": 1
         }
       ]
     },
     {
-      "type": "Situational",
+      "type": "Tank Items",
       "items": [
         {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3083",
-          "count": 1
-        },
-        {
-          "id": "3193",
+          "id": "3121",
           "count": 1
         },
         {
@@ -165,14 +110,9 @@
         {
           "id": "8001",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Wardstone",
-      "items": [
+        },
         {
-          "id": "4643",
+          "id": "3075",
           "count": 1
         }
       ]
@@ -187,47 +127,18 @@
         {
           "id": "3364",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build (Tanky)",
-      "items": [
-        {
-          "id": "3047",
-          "count": 1
         },
         {
-          "id": "3860",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3121",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3050",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "4643",
           "count": 1
         }
       ]
     },
     {
-      "type": "Example Full Build 2 (Enchanter)",
+      "type": "Example Full Build",
       "items": [
         {
-          "id": "3111",
+          "id": "3158",
           "count": 1
         },
         {
@@ -239,19 +150,118 @@
           "count": 1
         },
         {
-          "id": "3050",
-          "count": 1
-        },
-        {
           "id": "3107",
           "count": 1
         },
         {
-          "id": "3504",
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "4643",
           "count": 1
         },
         {
           "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build (Defensive / Tankier)",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3109",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Full Build (Frontline / Tankiest)",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3860",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "",
+      "items": [
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3222",
+          "count": 1
+        },
+        {
+          "id": "3003",
           "count": 1
         }
       ]

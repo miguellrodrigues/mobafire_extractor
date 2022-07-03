@@ -4,7 +4,7 @@
   "associatedChampions": [
     55
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s11-katawinas-challenger-euw-katarina-guide-588850",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-katawinas-challenger-euw-katarina-guide-588850",
   "_author": "Katawina52",
   "blocks": [
     {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "type": "Situational after rift",
+      "type": "Situational after rift (full ap)",
       "items": [
         {
           "id": "3115",
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "type": "NEW S12 BUILD (Sunderer > nashor or wits end > shadowflame if vs shields) > situational",
+      "type": "NEW S12 BUILD (Sunderer >nashor OR shadowflame if vs shields) > situational",
       "items": [
         {
           "id": "6632",
@@ -119,11 +119,15 @@
           "count": 1
         },
         {
+          "id": "4645",
+          "count": 1
+        },
+        {
           "id": "3091",
           "count": 1
         },
         {
-          "id": "4645",
+          "id": "3157",
           "count": 1
         }
       ]
@@ -220,8 +224,12 @@
       ]
     },
     {
-      "type": "Best ad Build",
+      "type": "Best ad Build (situational after sunderer 2nd)",
       "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
         {
           "id": "6632",
           "count": 1
@@ -231,37 +239,17 @@
           "count": 1
         },
         {
-          "id": "3074",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3053",
+          "id": "3156",
           "count": 1
         },
         {
           "id": "6333",
           "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
         }
       ]
     },
     {
-      "type": "ad build 2 (situational after trinity)",
+      "type": "ad build 2 fun (situational after trinity)",
       "items": [
         {
           "id": "3078",
@@ -315,7 +303,7 @@
       ]
     },
     {
-      "type": "Fun ad build + still not bad (tank stats after wits/guinsoo)",
+      "type": "Fun ad build",
       "items": [
         {
           "id": "6673",
@@ -348,6 +336,15 @@
       ]
     },
     {
+      "type": "Tankier option than Wits end, but less damage",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "If they have shields this item is broken 2nd or 3rd",
       "items": [
         {
@@ -357,7 +354,7 @@
       ]
     },
     {
-      "type": "SEEKERS RUSH VS AD MID ALWAYS!",
+      "type": "SEEKERS RUSH if vs ad mid/jgl possible",
       "items": [
         {
           "id": "3191",
@@ -366,7 +363,7 @@
       ]
     },
     {
-      "type": "vs ap mid+jgl get this 1st ALWAYS (AP path proto/rift)",
+      "type": "vs ap mid+jgl u can get this first item ",
       "items": [
         {
           "id": "4632",
@@ -393,7 +390,7 @@
       ]
     },
     {
-      "type": "Go this 1st item rush vs ap mid/jg if u go ad path (sunderer 2nd)",
+      "type": "good item if they have a lot of ap, higher damage version of MAW but less defensive",
       "items": [
         {
           "id": "3091",

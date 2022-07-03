@@ -4,7 +4,7 @@
   "associatedChampions": [
     498
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-ph45s-detailed-guide-to-xayah-the-rebel-504210",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-ph45s-detailed-guide-to-xayah-the-rebel-504210",
   "_author": "PH45",
   "blocks": [
     {
@@ -47,7 +47,20 @@
       ]
     },
     {
-      "type": "Core items",
+      "type": "Mythic choices",
+      "items": [
+        {
+          "id": "6671",
+          "count": 1
+        },
+        {
+          "id": "6672",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items example",
       "items": [
         {
           "id": "6671",
@@ -58,7 +71,7 @@
           "count": 1
         },
         {
-          "id": "3508",
+          "id": "3046",
           "count": 1
         },
         {
@@ -79,15 +92,15 @@
           "count": 1
         },
         {
-          "id": "3508",
-          "count": 1
-        },
-        {
           "id": "3046",
           "count": 1
         },
         {
           "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3508",
           "count": 1
         },
         {
@@ -137,10 +150,6 @@
         },
         {
           "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "6672",
           "count": 1
         }
       ]

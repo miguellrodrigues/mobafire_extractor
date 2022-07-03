@@ -1,19 +1,45 @@
 {
-  "title": "Darius",
+  "title": "Kayle",
   "associatedMaps": [],
   "associatedChampions": [
-    122
+    10
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-updated-strength-is-absolute-rhokus-darius-guide-533056",
-  "_author": "Rhoku",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/complete-kayle-guide-by-dixon-12-12-576852",
+  "_author": "DixonTheGuideMaker",
   "blocks": [
     {
-      "type": "Starting Items",
+      "type": "Starting items v1",
       "items": [
         {
-          "id": "1055",
+          "id": "2033",
           "count": 1
         },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v2",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v3",
+      "items": [
         {
           "id": "1054",
           "count": 1
@@ -21,14 +47,165 @@
         {
           "id": "2003",
           "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
         }
       ]
     },
     {
-      "type": "Remember",
+      "type": "Starting items v4",
       "items": [
         {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v1",
+      "items": [
+        {
+          "id": "1043",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
           "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v2",
+      "items": [
+        {
+          "id": "1026",
+          "count": 1
+        },
+        {
+          "id": "1052",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v1",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v2",
+      "items": [
+        {
+          "id": "1036",
           "count": 1
         },
         {
@@ -38,471 +215,31 @@
         {
           "id": "3340",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "First back",
+      "items": [
         {
-          "id": "2138",
+          "id": "6670",
           "count": 1
         },
         {
-          "id": "2140",
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "Conqueror Mythics",
+      "type": "Core items v1",
       "items": [
         {
-          "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "6631",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Lethal Tempo Mythics",
-      "items": [
-        {
-          "id": "6630",
-          "count": 1
-        },
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "6631",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Also Buildable",
-      "items": [
-        {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Epic Items to Rush",
-      "items": [
-        {
-          "id": "3051",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3123",
-          "count": 1
-        },
-        {
-          "id": "3140",
-          "count": 1
-        },
-        {
-          "id": "1057",
-          "count": 1
-        },
-        {
-          "id": "3076",
-          "count": 1
-        },
-        {
-          "id": "3070",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Best Legendary Items/Almost Every Game",
-      "items": [
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Usable Bruiser Legendary Items",
-      "items": [
-        {
-          "id": "6035",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3181",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Usable Tank Legendary Items",
-      "items": [
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "8001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard Build",
-      "items": [
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Fed 1v9 Build",
-      "items": [
-        {
-          "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Anti Tank/Frontline Build",
-      "items": [
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3121",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Anti Carry Build",
-      "items": [
-        {
-          "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "8001",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Magic Resist Build",
-      "items": [
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Stride into Tank",
-      "items": [
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Fed Tank Build - PANZER DARIUS",
-      "items": [
-        {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "3121",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard Tank Mythic Build",
-      "items": [
-        {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Frostfire Standard Build",
-      "items": [
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Off Meta Starts",
-      "items": [
-        {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "1028",
-          "count": 1
-        },
-        {
-          "id": "1029",
-          "count": 1
-        },
-        {
-          "id": "2033",
-          "count": 1
-        },
-        {
-          "id": "3854",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VERY Situational/Inefficient items.",
-      "items": [
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3139",
-          "count": 1
-        },
-        {
-          "id": "1083",
+          "id": "6672",
           "count": 1
         },
         {
@@ -510,47 +247,28 @@
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "6694",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items v2 (crit build)",
+      "items": [
+        {
+          "id": "6672",
           "count": 1
         },
         {
-          "id": "3117",
+          "id": "6673",
           "count": 1
         },
         {
-          "id": "6691",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "3155",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3109",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3004",
+          "id": "3006",
           "count": 1
         },
         {
@@ -558,15 +276,57 @@
           "count": 1
         },
         {
-          "id": "3074",
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "3031",
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "3026",
           "count": 1
         },
         {
-          "id": "3142",
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "6672",
+          "count": 1
+        },
+        {
+          "id": "3006",
           "count": 1
         },
         {
@@ -574,16 +334,322 @@
           "count": 1
         },
         {
-          "id": "3068",
+          "id": "6694",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]
     },
     {
-      "type": "My BLUE BALL DARIUS Build",
+      "type": "Starting items",
       "items": [
         {
-          "id": "3071",
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back",
+      "items": [
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational items",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Full build example",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v1",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v2",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v3",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v4",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Starting items v5",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "3340",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v1 (AD build)",
+      "items": [
+        {
+          "id": "6670",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v2 (AD and AP)",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v3 (AD and AP)",
+      "items": [
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back v4 (AP build)",
+      "items": [
+        {
+          "id": "1043",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Core items (AD build)",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
           "count": 1
         },
         {
@@ -591,115 +657,53 @@
           "count": 1
         },
         {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "3156",
+          "id": "3124",
           "count": 1
         }
       ]
     },
     {
-      "type": "Bork Darius",
+      "type": "Core items and full AP On-Hit build",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "3115",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3004",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "4633",
           "count": 1
         },
         {
-          "id": "3143",
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3091",
           "count": 1
         }
       ]
     },
     {
-      "type": "Crit Darius",
+      "type": "Situational items (AD build)",
       "items": [
         {
-          "id": "3078",
+          "id": "3091",
           "count": 1
         },
         {
-          "id": "3046",
+          "id": "6694",
           "count": 1
         },
         {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3508",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "ASSASSIN DARIUS",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3142",
-          "count": 1
-        },
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "OB Special",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3033",
+          "id": "3026",
           "count": 1
         }
       ]

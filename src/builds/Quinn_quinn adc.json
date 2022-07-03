@@ -4,69 +4,11 @@
   "associatedChampions": [
     133
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-quinnads-season-12-challenger-quinn-guide-568972",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-quinnads-season-12-challenger-quinn-guide-568972",
   "_author": "quinn adc",
   "blocks": [
     {
       "type": "STANDARD BUILD- Meta",
-      "items": [
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BUILD #2 - Never Die",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BUILD #3 - Best Carry Build",
       "items": [
         {
           "id": "6672",
@@ -77,7 +19,65 @@
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LIFESTEAL BUILD",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BUILD #3 - High Damage Build",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6672",
           "count": 1
         },
         {
@@ -89,7 +89,7 @@
           "count": 1
         },
         {
-          "id": "3072",
+          "id": "3026",
           "count": 1
         }
       ]
@@ -282,6 +282,10 @@
         },
         {
           "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3814",
           "count": 1
         }
       ]

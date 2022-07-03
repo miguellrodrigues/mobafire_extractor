@@ -1,34 +1,34 @@
 {
-  "title": "Karthus",
+  "title": "Azir",
   "associatedMaps": [],
   "associatedChampions": [
-    30
+    268
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-challenger-na-amp-euw-rank-1-karthus-world-in-depth-guide-on-how-play-karthus-jungle-588437",
-  "_author": "Insightful",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/arise-aggressive-azir-patch-12-2-all-matchups-519759",
+  "_author": "Tehqo",
   "blocks": [
     {
-      "type": "Jungle start",
+      "type": "Start",
       "items": [
         {
-          "id": "1039",
+          "id": "1056",
           "count": 1
         },
         {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "3340",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core items",
+      "type": "Example Full Build",
       "items": [
         {
-          "id": "6653",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
           "count": 1
         },
         {
@@ -36,15 +36,15 @@
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "1082",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3363",
+          "id": "3006",
           "count": 1
         }
       ]
@@ -53,27 +53,23 @@
       "type": "Situational",
       "items": [
         {
-          "id": "3041",
+          "id": "4644",
           "count": 1
         },
         {
-          "id": "4637",
+          "id": "3102",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "3115",
           "count": 1
         },
         {
-          "id": "3116",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3165",
+          "id": "3047",
           "count": 1
         }
       ]

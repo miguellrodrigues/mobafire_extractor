@@ -19,7 +19,7 @@ async function generate_lol_build_file_from_url(url: string, index?: number) {
       }
     }
   }
-  
+
   const champion_id = Number(champions.find((champion: { name: string }) => {
     return champion.name.toLocaleLowerCase() === champion_name.toLocaleLowerCase();
   }).key);
@@ -40,7 +40,7 @@ async function generate_lol_build_file_from_url(url: string, index?: number) {
     fs.mkdirSync(`src/builds/${champion_name}/Recommended`, { recursive: true });
     lol_build_file_path = `src/builds/${champion_name}/Recommended/RIOT_ItemSet_${index}.json`;
   }
-  
+
   fs.writeFileSync(lol_build_file_path, lol_build_file);
 
   return {

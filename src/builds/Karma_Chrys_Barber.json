@@ -4,146 +4,11 @@
   "associatedChampions": [
     43
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/by-force-of-will-season-12-karma-sup-amp-mid-guide-552217",
-  "_author": "IAmMakattack",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/never-fear-change-invincible-top-lane-karma-516987",
+  "_author": "Chrys_Barber",
   "blocks": [
     {
-      "type": "Starting Items",
-      "items": [
-        {
-          "id": "3850",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Back",
-      "items": [
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "1082",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Vision",
-      "items": [
-        {
-          "id": "3851",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mythic Options",
-      "items": [
-        {
-          "id": "2065",
-          "count": 1
-        },
-        {
-          "id": "6617",
-          "count": 1
-        },
-        {
-          "id": "4005",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Boots",
-      "items": [
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Utility Options",
-      "items": [
-        {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "6616",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3222",
-          "count": 1
-        },
-        {
-          "id": "3504",
-          "count": 1
-        },
-        {
-          "id": "4643",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Build Example",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "2065",
-          "count": 1
-        },
-        {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "6616",
-          "count": 1
-        },
-        {
-          "id": "4643",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
+      "type": "Starting items",
       "items": [
         {
           "id": "1056",
@@ -156,31 +21,86 @@
       ]
     },
     {
-      "type": "Early Items",
+      "type": "Starting items 2",
       "items": [
         {
-          "id": "1082",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "2055",
+          "id": "2033",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core",
+      "type": "Archangel start",
       "items": [
         {
-          "id": "6655",
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "First back options",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3057",
+          "count": 1
+        },
+        {
+          "id": "6660",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        },
+        {
+          "id": "3067",
+          "count": 1
+        },
+        {
+          "id": "4642",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic options",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Boots",
+      "items": [
+        {
+          "id": "3111",
           "count": 1
         },
         {
@@ -188,59 +108,14 @@
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3047",
           "count": 1
         }
       ]
     },
     {
-      "type": "Other Mythics",
+      "type": "Must buy",
       "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "4644",
-          "count": 1
-        },
-        {
-          "id": "2065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Items ",
-      "items": [
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3011",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
         {
           "id": "3065",
           "count": 1
@@ -248,63 +123,228 @@
       ]
     },
     {
-      "type": "Standard Build",
+      "type": "Situational items",
       "items": [
         {
-          "id": "6655",
+          "id": "3110",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "3075",
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3143",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3742",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "3193",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "4637",
           "count": 1
         },
         {
-          "id": "3363",
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "3040",
+          "count": 1
+        },
+        {
+          "id": "3181",
+          "count": 1
+        },
+        {
+          "id": "8001",
           "count": 1
         }
       ]
     },
     {
-      "type": "DFM Ceros Build",
+      "type": "Example Renewer Build",
       "items": [
         {
-          "id": "4629",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "2065",
+          "id": "6617",
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "3065",
           "count": 1
         },
         {
-          "id": "3011",
+          "id": "3110",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3107",
           "count": 1
         },
         {
-          "id": "3041",
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Gauntlet Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3003",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Sunfire Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Sunderer Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Example Mandate Build",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "4005",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3504",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Only if very ahead",
+      "items": [
+        {
+          "id": "3119",
           "count": 1
         }
       ]

@@ -30,19 +30,6 @@
       ]
     },
     {
-      "type": "Rushing Winter's Approach",
-      "items": [
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Against AD",
       "items": [
         {
@@ -61,6 +48,15 @@
       ]
     },
     {
+      "type": "Mobility",
+      "items": [
+        {
+          "id": "3009",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Standard",
       "items": [
         {
@@ -70,7 +66,7 @@
       ]
     },
     {
-      "type": "Against auto attacker",
+      "type": "Against healing",
       "items": [
         {
           "id": "3076",
@@ -79,28 +75,10 @@
       ]
     },
     {
-      "type": "Slow on basic attack",
+      "type": "Against heavy auto attacker",
       "items": [
         {
-          "id": "6662",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Damage and Tanky",
-      "items": [
-        {
-          "id": "3068",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Initiator",
-      "items": [
-        {
-          "id": "6664",
+          "id": "3082",
           "count": 1
         }
       ]
@@ -109,16 +87,25 @@
       "type": "Damage",
       "items": [
         {
-          "id": "6632",
+          "id": "3068",
           "count": 1
         }
       ]
     },
     {
-      "type": "Team Utility",
+      "type": "Vs. Ranged or Losing Lane",
       "items": [
         {
-          "id": "3001",
+          "id": "6662",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Don't Buy as Top or Mid",
+      "items": [
+        {
+          "id": "6664",
           "count": 1
         }
       ]
@@ -127,7 +114,7 @@
       "type": "Juggernaut",
       "items": [
         {
-          "id": "6662",
+          "id": "3068",
           "count": 1
         },
         {
@@ -153,10 +140,10 @@
       ]
     },
     {
-      "type": "Vanguard",
+      "type": "Full Tank",
       "items": [
         {
-          "id": "6662",
+          "id": "3068",
           "count": 1
         },
         {
@@ -164,11 +151,11 @@
           "count": 1
         },
         {
-          "id": "3119",
+          "id": "3075",
           "count": 1
         },
         {
-          "id": "3075",
+          "id": "3083",
           "count": 1
         },
         {
@@ -182,79 +169,30 @@
       ]
     },
     {
-      "type": "Warden",
-      "items": [
-        {
-          "id": "3001",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3119",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3109",
-          "count": 1
-        },
-        {
-          "id": "3222",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Fighter",
-      "items": [
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Split Pusher",
+      "type": "Frostfire Instead of Sunfire against ranged or when behind",
       "items": [
         {
           "id": "6662",
           "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Split Push (Not recommended anymore)",
+      "items": [
         {
           "id": "3181",
           "count": 1
         },
         {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
           "id": "3748",
           "count": 1
         },
@@ -264,15 +202,6 @@
         },
         {
           "id": "4401",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Against Crit Dmg",
-      "items": [
-        {
-          "id": "3143",
           "count": 1
         }
       ]
@@ -287,19 +216,19 @@
       ]
     },
     {
-      "type": "Mana and Att Speed Slow",
+      "type": "Against Crit Dmg",
       "items": [
         {
-          "id": "3110",
+          "id": "3143",
           "count": 1
         }
       ]
     },
     {
-      "type": "Team Damage",
+      "type": "Mana and Att Speed Slow",
       "items": [
         {
-          "id": "8020",
+          "id": "3110",
           "count": 1
         }
       ]
@@ -323,10 +252,28 @@
       ]
     },
     {
+      "type": "Team Damage",
+      "items": [
+        {
+          "id": "8020",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Protect the Carry",
       "items": [
         {
           "id": "3109",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Cleanse CC for Ally",
+      "items": [
+        {
+          "id": "3222",
           "count": 1
         }
       ]
@@ -350,37 +297,6 @@
       ]
     },
     {
-      "type": "Cleanse CC for Ally",
-      "items": [
-        {
-          "id": "3222",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Health + Mana",
-      "items": [
-        {
-          "id": "3119",
-          "count": 1
-        },
-        {
-          "id": "3121",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Armor + MR and GIANT shield",
-      "items": [
-        {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Health and Regen",
       "items": [
         {
@@ -399,19 +315,32 @@
       ]
     },
     {
-      "type": "Auto Attack Damage",
+      "type": "Armor + MR and GIANT shield",
       "items": [
         {
-          "id": "3748",
+          "id": "3193",
           "count": 1
         }
       ]
     },
     {
-      "type": "Damage and Armor",
+      "type": "Health + Mana",
       "items": [
         {
-          "id": "6333",
+          "id": "3119",
+          "count": 1
+        },
+        {
+          "id": "3121",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Auto Attack Damage",
+      "items": [
+        {
+          "id": "3748",
           "count": 1
         }
       ]
@@ -426,7 +355,16 @@
       ]
     },
     {
-      "type": "Splitpush",
+      "type": "Damage and Armor",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush (nerfed, not recommended)",
       "items": [
         {
           "id": "3181",
@@ -479,10 +417,10 @@
       ]
     },
     {
-      "type": "Dash + Slow",
+      "type": "Speed / Anti Slow",
       "items": [
         {
-          "id": "6631",
+          "id": "3009",
           "count": 1
         }
       ]
@@ -506,15 +444,6 @@
       ]
     },
     {
-      "type": "Speed / Anti Slow",
-      "items": [
-        {
-          "id": "3009",
-          "count": 1
-        }
-      ]
-    },
-    {
       "type": "Ability Haste",
       "items": [
         {
@@ -524,14 +453,43 @@
       ]
     },
     {
-      "type": "1v1 and Splitpush",
+      "type": "Grouping",
       "items": [
         {
           "id": "6693",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3009",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "1v1 and Splitpush (Hullbreaker Nerfed)",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        },
+        {
+          "id": "3009",
           "count": 1
         },
         {
@@ -543,40 +501,11 @@
           "count": 1
         },
         {
-          "id": "6694",
+          "id": "3179",
           "count": 1
         },
         {
-          "id": "6695",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "team fighting",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "6696",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3748",
+          "id": "3036",
           "count": 1
         }
       ]
@@ -591,7 +520,16 @@
       ]
     },
     {
-      "type": "(Great) Anti Shield ",
+      "type": "(Great) De-ward",
+      "items": [
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "(Situational) Anti Shield ",
       "items": [
         {
           "id": "6695",
@@ -600,10 +538,10 @@
       ]
     },
     {
-      "type": "(Great) Ult CD",
+      "type": "Situational) Spell Shield",
       "items": [
         {
-          "id": "6696",
+          "id": "3814",
           "count": 1
         }
       ]
@@ -618,19 +556,28 @@
       ]
     },
     {
-      "type": "(Okay) De-ward",
+      "type": "(Okay) Ult CD",
       "items": [
         {
-          "id": "3179",
+          "id": "6696",
           "count": 1
         }
       ]
     },
     {
-      "type": "(Okay) Spell Shield",
+      "type": "Anti Tank",
       "items": [
         {
-          "id": "3814",
+          "id": "3036",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Splitpush",
+      "items": [
+        {
+          "id": "3181",
           "count": 1
         }
       ]
@@ -649,15 +596,6 @@
       "items": [
         {
           "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Splitpush",
-      "items": [
-        {
-          "id": "3181",
           "count": 1
         }
       ]

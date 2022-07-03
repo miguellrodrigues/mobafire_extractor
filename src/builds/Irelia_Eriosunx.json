@@ -1,0 +1,372 @@
+{
+  "title": "Irelia",
+  "associatedMaps": [],
+  "associatedChampions": [
+    39
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-eriosuns-master-tier-complete-irelia-guide-598099",
+  "_author": "Eriosunx",
+  "blocks": [
+    {
+      "type": "•VS SAFE LANERS",
+      "items": [
+        {
+          "id": "1083",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•DORAN'S SWORD +1 POT WHEN PLAYING WITHOUT INSPIRATION",
+      "items": [
+        {
+          "id": "1055",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•DORAN SHIELD WHEN FACING HEAVY POKE MATCHUPS THAT WE CANT TRADE LEVEL 1",
+      "items": [
+        {
+          "id": "1054",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•CORRUPTING WHEN PLAYING WITH WARP TONIC (INSPIRATION TREE)",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•WHEN FACING AUTOATTACK-BASED CHAMPS",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•WHEN FACING AP CHAMPS + A LOT OF CCs",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•WHEN GOING FOR NO CDR ITEMS ",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•GR8 OVERALL",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•GOREDRINKER RUSH",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•ALL-PURPOSE - CONSISTENT OVERALL - SWAP WITS / DD'S ORDER DEPENDING ON WHO DEALS THE MOST DAMAGE IN THE ENEMY TEAM , ALSO GOING CONDITIONING WHILE RUNNING THIS BUILD IS IDEAL!",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+SUNDERER VERY VERSATILE AND BUILDABLE IN EVERY SITUATION, INSANE SNOWBALL POTENTIAL AND TANKINESS",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+SHIELDBOW FULL ON-HIT [HIGHEST DPS BUILD]",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3124",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+SHIELDBOW (MR ADAPTATION) WHEN FACING A LOT OF AP-BASED CHAMPS",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+TRINITY WHEN THE GAME IS GOING TO HAVE A LOT OF 5V5 FIGHTS",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3078",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+GARGOYLE NECESSARY WHEN YOU DONT HAVE FRONTLINE AND YOU ARE THE ONLY WAY TO ENGAGE A TEAMFIGHT (CLOSE IT WITH ANY TANK ITEM YOU NEED BASED ON ENEMY COMP) RECCOMEND PLAYING WITH CONDITIONING!",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•BOTRK+SUNFIRE MAX TENACITY [TESTING]",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•VS TARGET CCs / SUPPRESS",
+      "items": [
+        {
+          "id": "3140",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•ANTI-HEALING OPTIONS",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3076",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•TANK/ARMOR SHREDDER",
+      "items": [
+        {
+          "id": "3071",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•VS HEAVY-BURST AP DAMAGE [DONT BUY IT IF YOU HAVE SHIELDBOW]",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "•LAST TEAMFIGHT OPTION",
+      "items": [
+        {
+          "id": "2420",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

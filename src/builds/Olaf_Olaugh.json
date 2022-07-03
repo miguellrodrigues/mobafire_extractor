@@ -1,14 +1,14 @@
 {
-  "title": "Gnar",
+  "title": "Olaf",
   "associatedMaps": [],
   "associatedChampions": [
-    150
+    2
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-diamond-gnar-guide-thing-in-the-ice-season-12-546377",
-  "_author": "Thing in the Ice",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/vote-guide-if-u-barely-made-it-in-lobby-3-2-1-save-yes-547254",
+  "_author": "Olaugh",
   "blocks": [
     {
-      "type": "starting options",
+      "type": "Q mana reduced, can go Dorans ",
       "items": [
         {
           "id": "1055",
@@ -17,67 +17,66 @@
         {
           "id": "1054",
           "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        },
+        {
+          "id": "2033",
+          "count": 1
         }
       ]
     },
     {
-      "type": "boot options",
+      "type": "Vs Aatrox,jax,fiora/ hex vs heavy ap...",
       "items": [
         {
-          "id": "3047",
+          "id": "3123",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3155",
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "2420",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]
     },
     {
-      "type": "mythic options",
+      "type": "Still testing, feels good",
       "items": [
         {
           "id": "3078",
           "count": 1
         },
         {
-          "id": "6632",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "second item options",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3181",
+          "id": "6333",
           "count": 1
         },
         {
           "id": "3053",
           "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
         }
       ]
     },
     {
-      "type": "armor options",
+      "type": "Vs yone yasuo gankplank ...",
       "items": [
-        {
-          "id": "3742",
-          "count": 1
-        },
         {
           "id": "3143",
           "count": 1
@@ -87,16 +86,16 @@
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3742",
           "count": 1
         }
       ]
     },
     {
-      "type": "magic resist options",
+      "type": "SV when not against ignite , nature vs heavy ap , maw vs squishy",
       "items": [
         {
-          "id": "3091",
+          "id": "3065",
           "count": 1
         },
         {
@@ -110,47 +109,48 @@
       ]
     },
     {
-      "type": "situational",
+      "type": "Hullbreaker 1v2 / solo carry / Stride when vs all range",
       "items": [
         {
-          "id": "3123",
+          "id": "3181",
           "count": 1
         },
         {
-          "id": "3076",
-          "count": 1
-        },
-        {
-          "id": "3193",
+          "id": "6631",
           "count": 1
         }
       ]
     },
     {
-      "type": "final build example",
+      "type": "At 30%hp Olaf passive has max effect , W has max effect and shieldbow passive shields you at 30% hp giving you time to heal as maniac and barrier spell shields again for same purpose . Go barrier spell for this strategy",
       "items": [
         {
-          "id": "3078",
+          "id": "6673",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3193",
+          "id": "6333",
           "count": 1
         },
         {
           "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Finish build",
+      "items": [
+        {
+          "id": "2140",
+          "count": 1
+        },
+        {
+          "id": "2138",
           "count": 1
         }
       ]

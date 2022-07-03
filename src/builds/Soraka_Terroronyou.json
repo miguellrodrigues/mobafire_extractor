@@ -1,0 +1,40 @@
+{
+  "title": "Soraka",
+  "associatedMaps": [],
+  "associatedChampions": [
+    16
+  ],
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-bizzleberrys-support-soraka-guide-season-12-543705",
+  "_author": "Terroronyou",
+  "blocks": [
+    {
+      "type": "Core",
+      "items": [
+        {
+          "id": "3853",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "3011",
+          "count": 1
+        },
+        {
+          "id": "3107",
+          "count": 1
+        },
+        {
+          "id": "4643",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

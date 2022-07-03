@@ -4,7 +4,7 @@
   "associatedChampions": [
     80
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-best-pantheon-guide-from-a-to-z-546404",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/prepare-for-glory-best-pantheon-guide-546404",
   "_author": "ObiW",
   "blocks": [
     {
@@ -45,7 +45,7 @@
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "3111",
           "count": 1
         },
         {
@@ -61,7 +61,7 @@
           "count": 1
         },
         {
-          "id": "6609",
+          "id": "3156",
           "count": 1
         }
       ]
@@ -70,27 +70,27 @@
       "type": "Bruiser Build",
       "items": [
         {
-          "id": "6692",
+          "id": "6632",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3111",
           "count": 1
         },
         {
-          "id": "3142",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
+          "id": "3071",
           "count": 1
         },
         {
           "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "6609",
           "count": 1
         }
       ]
@@ -132,11 +132,11 @@
           "count": 1
         },
         {
-          "id": "1001",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "3142",
+          "id": "6695",
           "count": 1
         },
         {
@@ -144,7 +144,7 @@
           "count": 1
         },
         {
-          "id": "6676",
+          "id": "3156",
           "count": 1
         },
         {
@@ -173,64 +173,11 @@
           "count": 1
         },
         {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational Items",
-      "items": [
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
           "id": "3053",
           "count": 1
         },
         {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3065",
+          "id": "3156",
           "count": 1
         }
       ]
@@ -239,19 +186,15 @@
       "type": "Suggested JUNG Build",
       "items": [
         {
-          "id": "3078",
+          "id": "6692",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3047",
           "count": 1
         },
         {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3814",
+          "id": "3071",
           "count": 1
         },
         {
@@ -259,7 +202,11 @@
           "count": 1
         },
         {
-          "id": "6676",
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3156",
           "count": 1
         }
       ]
@@ -276,11 +223,40 @@
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "3009",
           "count": 1
         },
         {
-          "id": "3179",
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Tanker",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6694",
           "count": 1
         },
         {
@@ -288,7 +264,144 @@
           "count": 1
         },
         {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "6676",
+          "count": 1
+        },
+        {
+          "id": "3179",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti AD",
+      "items": [
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti AP",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
           "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti Sustain",
+      "items": [
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "3033",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Anti CC",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3814",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6035",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Niche Items",
+      "items": [
+        {
+          "id": "6695",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "3139",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6696",
           "count": 1
         }
       ]

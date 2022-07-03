@@ -4,7 +4,7 @@
   "associatedChampions": [
     77
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/not-so-fireproof-jungle-udyr-12-3-444301",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/not-so-fireproof-jungle-udyr-12-12-444301",
   "_author": "Ellesmere",
   "blocks": [
     {
@@ -41,7 +41,7 @@
       "type": "Essential Items",
       "items": [
         {
-          "id": "6664",
+          "id": "3068",
           "count": 1
         },
         {
@@ -49,32 +49,7 @@
           "count": 1
         },
         {
-          "id": "3742",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Offensive Options",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3100",
+          "id": "3110",
           "count": 1
         }
       ]
@@ -101,6 +76,39 @@
         {
           "id": "3110",
           "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive Options",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
         }
       ]
     },
@@ -112,7 +120,11 @@
           "count": 1
         },
         {
-          "id": "6664",
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3110",
           "count": 1
         },
         {
@@ -126,10 +138,6 @@
         {
           "id": "3075",
           "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
         }
       ]
     },
@@ -141,7 +149,7 @@
           "count": 1
         },
         {
-          "id": "6664",
+          "id": "3068",
           "count": 1
         },
         {
@@ -170,7 +178,11 @@
           "count": 1
         },
         {
-          "id": "6664",
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3110",
           "count": 1
         },
         {
@@ -182,11 +194,7 @@
           "count": 1
         },
         {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3110",
+          "id": "3143",
           "count": 1
         }
       ]

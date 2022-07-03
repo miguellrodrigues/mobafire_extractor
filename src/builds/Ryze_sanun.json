@@ -1,17 +1,29 @@
 {
-  "title": "Renekton",
+  "title": "Ryze",
   "associatedMaps": [],
   "associatedChampions": [
-    58
+    13
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/11-15-rtos-6-000-game-challenger-croc-guide-530190",
-  "_author": "RTO",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/sanuns-diamond-ryze-guide-top-amp-mid-544240",
+  "_author": "sanun",
   "blocks": [
     {
-      "type": "Standard Start",
+      "type": "Starting items",
       "items": [
         {
-          "id": "1055",
+          "id": "1027",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "2033",
+          "count": 1
+        },
+        {
+          "id": "1056",
           "count": 1
         },
         {
@@ -21,14 +33,18 @@
       ]
     },
     {
-      "type": "Core",
+      "type": "First back",
       "items": [
         {
-          "id": "6630",
+          "id": "3070",
           "count": 1
         },
         {
-          "id": "3074",
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         }
       ]
@@ -37,86 +53,86 @@
       "type": "Boots",
       "items": [
         {
-          "id": "3158",
+          "id": "3020",
           "count": 1
         },
         {
           "id": "3111",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Core item",
+      "items": [
         {
-          "id": "3047",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "3003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Offensive",
+      "type": "Good options",
       "items": [
         {
-          "id": "6609",
+          "id": "3165",
           "count": 1
         },
         {
-          "id": "6694",
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "Defensive",
+      "type": "Full build example",
       "items": [
         {
-          "id": "6333",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3003",
           "count": 1
         },
         {
-          "id": "3075",
+          "id": "4629",
           "count": 1
         },
         {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Ideal Final Build (In Order)",
-      "items": [
-        {
-          "id": "6630",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3074",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3193",
+          "id": "3089",
           "count": 1
         }
       ]

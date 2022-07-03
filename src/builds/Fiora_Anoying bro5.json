@@ -4,7 +4,7 @@
   "associatedChampions": [
     114
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-fiora-handbook-top-mid-match-up-guide-570006",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-fiora-handbook-top-mid-match-up-guide-570006",
   "_author": "Anoying bro5",
   "blocks": [
     {
@@ -45,11 +45,11 @@
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "3009",
           "count": 1
         },
         {
-          "id": "3009",
+          "id": "3158",
           "count": 1
         }
       ]
@@ -117,6 +117,39 @@
         },
         {
           "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "High AD/ Armor ",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3070",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "3110",
           "count": 1
         },
         {

@@ -4,7 +4,7 @@
   "associatedChampions": [
     81
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-challenger-ezreal-build-amp-guide-by-cookielol-605212",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-challenger-ezreal-build-amp-guide-by-cookielol-605212",
   "_author": "CookieLoL",
   "blocks": [
     {
@@ -70,6 +70,24 @@
       ]
     },
     {
+      "type": "If the enemy is Squishy ",
+      "items": [
+        {
+          "id": "6693",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy is stacking HP",
+      "items": [
+        {
+          "id": "6692",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Build this if the enemy has a lot of Dive Champions such as Hecarim, Qiyana, Talon and they don't have long-range abilities that can break it",
       "items": [
         {
@@ -79,25 +97,7 @@
       ]
     },
     {
-      "type": "Build this if the enemy has some armor items +/ mountain drakes, the slow is also amazing for Ezreal as it allows you to land skillshots easier",
-      "items": [
-        {
-          "id": "6694",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Build this if the enemy has a lot of AD damage, even better if they rely on attack speed",
-      "items": [
-        {
-          "id": "3110",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Maw is good after the 12.3 Buffs and I always build this if enemy has a lot of AP damage ",
+      "type": "If the enemy has a lot of AP Damage ",
       "items": [
         {
           "id": "3156",
@@ -110,15 +110,6 @@
       "items": [
         {
           "id": "3508",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "S12 Item, Crown's REALLY good even after the 11.24 Nerfs. Great item if the enemy has a lot of Burst/Dive Characters such as Hecarim, Zed, Talon, Qiyana, etc",
-      "items": [
-        {
-          "id": "4644",
           "count": 1
         }
       ]
@@ -169,7 +160,7 @@
       ]
     },
     {
-      "type": "Default Build (Do this if the other 2 don't fit)",
+      "type": "Default Build ",
       "items": [
         {
           "id": "3004",
@@ -180,15 +171,15 @@
           "count": 1
         },
         {
-          "id": "3078",
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6693",
           "count": 1
         },
         {
           "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3110",
           "count": 1
         },
         {

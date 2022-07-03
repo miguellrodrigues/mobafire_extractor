@@ -4,7 +4,7 @@
   "associatedChampions": [
     221
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-challenger-zeri-build-amp-guide-by-cookielol-607824",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-challenger-zeri-build-amp-guide-by-cookielol-607824",
   "_author": "CookieLoL",
   "blocks": [
     {
@@ -34,34 +34,16 @@
       ]
     },
     {
-      "type": "First Recall (700-850G)",
+      "type": "First Recall ",
       "items": [
         {
-          "id": "3057",
+          "id": "6670",
           "count": 1
         }
       ]
     },
     {
-      "type": "Second Recall (1100-1250G) ",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "I like ER Rush before Mythic ",
-      "items": [
-        {
-          "id": "3508",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Default",
+      "type": "Default ",
       "items": [
         {
           "id": "6673",
@@ -70,7 +52,7 @@
       ]
     },
     {
-      "type": "If the enemy has 3+ Tanks and not much DMG ",
+      "type": "If the enemy has a tanky team",
       "items": [
         {
           "id": "6672",
@@ -79,7 +61,34 @@
       ]
     },
     {
-      "type": "60% Crit Infinity Edge OP",
+      "type": "Best zeal item",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has an EXTREMELY tanky team",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If Bork 2nd",
+      "items": [
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Default",
       "items": [
         {
           "id": "3031",
@@ -88,252 +97,59 @@
       ]
     },
     {
-      "type": "If the enemy is stacking Armor ",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy only has 1 Strong/Fed champion ",
-      "items": [
-        {
-          "id": "8001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has 3+ Long Ranged and you have MS Boosters",
-      "items": [
-        {
-          "id": "3094",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "A lot of melees or Enemies Grouping",
-      "items": [
-        {
-          "id": "3085",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has BURST AP Damage (ex, Diana, Kassadin, Fizz, Syndra)",
-      "items": [
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If nothing else is good, go BT to fill ",
-      "items": [
-        {
-          "id": "3072",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has all-in Assassins such as Vex, Rengar, Diana, Malphite",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has A LOT of HP Stackers ",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has DPS AP Damage (ex, Cassiopeia, Vel'Koz, Xerath, Teemo)",
-      "items": [
-        {
-          "id": "4401",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has Crit Champions / Heavy AD It's good ",
-      "items": [
-        {
-          "id": "3143",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has Malzahar, Mordekaiser, Skarner, Warwick and you need to remove their ULTI",
-      "items": [
-        {
-          "id": "6035",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VS Dive Support (Rell, Ali, etc)",
-      "items": [
-        {
-          "id": "1055",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VS 2x Ranged / Poke (Caitlyn & Karma, etc)",
-      "items": [
-        {
-          "id": "1036",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Recall",
-      "items": [
-        {
-          "id": "3057",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Second Recall",
+      "type": "I usually do this ",
       "items": [
         {
           "id": "3006",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "It's a Sheen item and It gives a lot of good stats that Zeri likes ",
-      "items": [
+        },
         {
-          "id": "3078",
+          "id": "3046",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         }
       ]
     },
     {
-      "type": "It offers wave clear and It builds into Titanic Hydra",
+      "type": "I do this if enemy has a lot of tanks ",
       "items": [
         {
-          "id": "3077",
+          "id": "3006",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Good All Around",
-      "items": [
+        },
         {
-          "id": "3085",
+          "id": "3046",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Good against HP Stackers",
-      "items": [
+        },
+        {
+          "id": "6672",
+          "count": 1
+        },
         {
           "id": "Blade of the Ruined King",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Enemy Large AP Threats",
-      "items": [
+        },
         {
-          "id": "3091",
+          "id": "3036",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Build After Tiamat",
-      "items": [
+        },
         {
-          "id": "3071",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy only has 1 Threat, bind this to them",
-      "items": [
-        {
-          "id": "8001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Wave clear, provides health, works well with completed items",
-      "items": [
-        {
-          "id": "3748",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If your team cannot / will not build anti healing and enemy has a lot of healing ",
-      "items": [
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If enemy has a lot of AD damage and also healing and you team cant/wont bu anti-healing",
-      "items": [
-        {
-          "id": "3075",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "For AP Threats",
-      "items": [
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Helpful against Crit",
-      "items": [
-        {
-          "id": "3143",
+          "id": "3031",
           "count": 1
         }
       ]

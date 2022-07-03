@@ -4,7 +4,7 @@
   "associatedChampions": [
     92
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-become-a-riven-god-404727",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-10-become-a-riven-god-404727",
   "_author": "Seth346",
   "blocks": [
     {
@@ -54,19 +54,19 @@
           "count": 1
         },
         {
-          "id": "3071",
-          "count": 1
-        },
-        {
           "id": "6333",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3156",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3748",
           "count": 1
         }
       ]
@@ -83,15 +83,15 @@
           "count": 1
         },
         {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
           "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "4401",
           "count": 1
         },
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "type": "Safe Bet (No Resistances)",
+      "type": "Crit Option",
       "items": [
         {
           "id": "3158",
@@ -112,61 +112,7 @@
           "count": 1
         },
         {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Hyper carry (Testing)",
-      "items": [
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Hyper Carry Finishers (choose 2)",
-      "items": [
-        {
-          "id": "6035",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "6694",
+          "id": "6333",
           "count": 1
         },
         {
@@ -174,15 +120,20 @@
           "count": 1
         },
         {
-          "id": "3193",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "6676",
+          "id": "3508",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Pick up if needed and you have an open slot",
+      "items": [
         {
-          "id": "3031",
+          "id": "2420",
           "count": 1
         }
       ]

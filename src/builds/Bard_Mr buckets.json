@@ -4,26 +4,26 @@
   "associatedChampions": [
     432
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/lathyrus-12-4-euw-challenger-guide-updated-544216",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/lathyrus-12-12-euw-challenger-guide-durabilty-patch-update-544216",
   "_author": "Mr buckets",
   "blocks": [
     {
-      "type": "Guardian Setup - Best in Current Meta",
+      "type": "Core Build",
       "items": [
         {
           "id": "3853",
           "count": 1
         },
         {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3047",
+          "id": "3158",
           "count": 1
         },
         {
           "id": "3190",
+          "count": 1
+        },
+        {
+          "id": "3109",
           "count": 1
         },
         {
@@ -32,51 +32,6 @@
         },
         {
           "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3109",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core build",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3009",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3109",
           "count": 1
         },
         {
@@ -99,19 +54,11 @@
         {
           "id": "4637",
           "count": 1
-        },
-        {
-          "id": "3001",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
         }
       ]
     },
     {
-      "type": "Normal Items",
+      "type": "Electrocute Setup - Low Elo only",
       "items": [
         {
           "id": "3853",
@@ -122,118 +69,7 @@
           "count": 1
         },
         {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "When ahead early",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Normal items",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3364",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "When ahead early",
-      "items": [
-        {
-          "id": "3853",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6656",
+          "id": "4636",
           "count": 1
         },
         {

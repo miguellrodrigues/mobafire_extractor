@@ -4,7 +4,7 @@
   "associatedChampions": [
     120
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/hecarim-jungle-guide-for-season-12-patch-12-4-513159",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/hecarim-jungle-guide-for-season-12-patch-12-12b-513159",
   "_author": "DjapeFromSerbia",
   "blocks": [
     {
@@ -24,7 +24,7 @@
       "type": "Core Items",
       "items": [
         {
-          "id": "6632",
+          "id": "3078",
           "count": 1
         },
         {
@@ -41,7 +41,7 @@
       "type": "Example of full build",
       "items": [
         {
-          "id": "6632",
+          "id": "3078",
           "count": 1
         },
         {
@@ -53,11 +53,11 @@
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3110",
           "count": 1
         },
         {
-          "id": "3742",
+          "id": "4401",
           "count": 1
         },
         {
@@ -70,11 +70,11 @@
       "type": "Situational Items",
       "items": [
         {
-          "id": "3078",
+          "id": "6632",
           "count": 1
         },
         {
-          "id": "4401",
+          "id": "3065",
           "count": 1
         },
         {

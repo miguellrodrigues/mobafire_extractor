@@ -4,7 +4,7 @@
   "associatedChampions": [
     141
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-guide-to-kayn-the-shadow-reaper-red-and-blue-543579",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-guide-to-kayn-the-shadow-reaper-red-and-blue-543579",
   "_author": "KebabGames",
   "blocks": [
     {
@@ -205,11 +205,7 @@
           "count": 1
         },
         {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "3814",
+          "id": "3004",
           "count": 1
         },
         {
@@ -219,34 +215,9 @@
         {
           "id": "3142",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Full Build (blue) 2",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
         },
         {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3004",
-          "count": 1
-        },
-        {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3026",
+          "id": "3814",
           "count": 1
         }
       ]
@@ -263,19 +234,19 @@
           "count": 1
         },
         {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
           "id": "6333",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3143",
           "count": 1
         }
       ]
@@ -322,6 +293,31 @@
         },
         {
           "id": "6695",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "NEW RED BUILD (Purple Kayn)",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3004",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3156",
           "count": 1
         }
       ]

@@ -1,250 +1,32 @@
 {
-  "title": "Qiyana",
+  "title": "Warwick",
   "associatedMaps": [],
   "associatedChampions": [
-    246
+    19
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/carry-with-qiyana-durability-patch-challenger-guide-590371",
-  "_author": "Johnny Fast",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-10-climb-with-warwick-comprehensive-guide-575694",
+  "_author": "Lodart",
   "blocks": [
     {
-      "type": "Starting Item",
+      "type": "STARTING ITEMS (TOP)",
       "items": [
         {
-          "id": "1036",
+          "id": "1055",
           "count": 1
         },
         {
-          "id": "2031",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "First Recall",
+      "type": "STARTING ITEMS (JG)",
       "items": [
         {
-          "id": "3134",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mythic",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Muramana > Ghostblade",
-      "items": [
-        {
-          "id": "3042",
+          "id": "1035",
           "count": 1
         },
-        {
-          "id": "3142",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Grudge 3rd ALWAYS",
-      "items": [
-        {
-          "id": "6694",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Rest",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Build Example",
-      "items": [
-        {
-          "id": "6693",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Items",
-      "items": [
-        {
-          "id": "3340",
-          "count": 1
-        },
-        {
-          "id": "3070",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First recall",
-      "items": [
-        {
-          "id": "3134",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Eclipse is broken rn",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Muramana Baby",
-      "items": [
-        {
-          "id": "3042",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Always Grudge 3rd",
-      "items": [
-        {
-          "id": "6694",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Black Cleaver and Chempunk",
-      "items": [
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Exemple of Final Build",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3042",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational",
-      "items": [
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting Item",
-      "items": [
         {
           "id": "1039",
           "count": 1
@@ -256,111 +38,19 @@
       ]
     },
     {
-      "type": "First Recall",
+      "type": "IF YOU WANT TO FARM",
       "items": [
         {
-          "id": "3134",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3364",
+          "id": "3077",
           "count": 1
         }
       ]
     },
     {
-      "type": "Umbral is rly good",
+      "type": "SUNDERER BUILD VS AD",
       "items": [
         {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mythic",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Core",
-      "items": [
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full Build Example",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3158",
-          "count": 1
-        },
-        {
-          "id": "3179",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Situational",
-      "items": [
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        },
-        {
-          "id": "6695",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "3071",
+          "id": "6632",
           "count": 1
         },
         {
@@ -368,11 +58,307 @@
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
           "count": 1
         },
         {
           "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SUNDERER BUILD VS AP",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LATEGAME MONSTER WARWICK VS AD",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "LATEGAME MONSTER WARWICK VS AP",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AP Warwick for fun!",
+      "items": [
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BORK RUSH TOPLANE",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "GOREDRINKER CORE BUILD",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "STRIDEBREAKER CORE BUILD",
+      "items": [
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ALL OPTIONAL ITEMS",
+      "items": [
+        {
+          "id": "3068",
+          "count": 1
+        },
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "6631",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]

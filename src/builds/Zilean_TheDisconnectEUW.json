@@ -1,60 +1,38 @@
 {
-  "title": "Taliyah",
+  "title": "Zilean",
   "associatedMaps": [],
   "associatedChampions": [
-    163
+    26
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/taliyah-primer-ultimate-guide-to-taliyah-mid-550410",
-  "_author": "Drewmatth Taliyah",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/challenger-zilean-mid-top-guide-by-thedisconnect-1000-lp-600810",
+  "_author": "TheDisconnectEUW",
   "blocks": [
     {
-      "type": "KILL PRESSURE / DEFENSIVE STARTER",
-      "items": [
-        {
-          "id": "1056",
-          "count": 1
-        },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "LONG FIGHTING / SUSTAIN",
+      "type": "Starting Items",
       "items": [
         {
           "id": "2033",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CORE",
-      "items": [
+        },
         {
-          "id": "6653",
+          "id": "2010",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "BUILD ORDER",
+      "type": "Base with less than 950g",
       "items": [
         {
-          "id": "1056",
+          "id": "1052",
           "count": 1
         },
         {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "3802",
+          "id": "1027",
           "count": 1
         },
         {
@@ -62,27 +40,62 @@
           "count": 1
         },
         {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3157",
+          "id": "1082",
           "count": 1
         },
         {
           "id": "2055",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "type": "Base with more than 950g",
+      "items": [
         {
-          "id": "2420",
+          "id": "3802",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "The Strongest Zilean Gets",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "1082",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Second Item",
+      "items": [
+        {
+          "id": "3102",
           "count": 1
         },
         {
@@ -90,57 +103,28 @@
           "count": 1
         },
         {
-          "id": "2055",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FULL BUILD",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3135",
+          "id": "3011",
           "count": 1
         }
       ]
     },
     {
-      "type": "DEFENSIVE ALTERNATIVES ITEMS (PICK ZERO, ONE OR TWO PER GAME UP TO YOUR OWN COMFORT)",
+      "type": "Example Full Build",
       "items": [
         {
-          "id": "4632",
+          "id": "6656",
           "count": 1
         },
         {
-          "id": "3191",
+          "id": "3158",
           "count": 1
         },
         {
-          "id": "3116",
+          "id": "4629",
           "count": 1
         },
         {
@@ -148,24 +132,32 @@
           "count": 1
         },
         {
-          "id": "2420",
-          "count": 1
-        },
-        {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "3111",
+          "id": "3011",
           "count": 1
         }
       ]
     },
     {
-      "type": "I SMURF I GET ALL THE KILLS AND I WILL NOT DIE",
+      "type": "Niche Items",
       "items": [
         {
-          "id": "3041",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         }
       ]

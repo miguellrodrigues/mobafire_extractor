@@ -4,7 +4,7 @@
   "associatedChampions": [
     7
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-4-fuzzmonkeys-leblanc-guide-always-win-lane-1-523241",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-12-fuzzmonkeys-leblanc-guide-always-win-lane-100-523241",
   "_author": "Fuzzmonkey",
   "blocks": [
     {
@@ -84,6 +84,35 @@
         },
         {
           "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If 2 or more carries DO NOT have MR, build this instead of cosmic ",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
           "count": 1
         }
       ]

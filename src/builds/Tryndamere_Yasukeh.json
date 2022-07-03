@@ -76,7 +76,7 @@
       "type": "General Core Items ",
       "items": [
         {
-          "id": "6671",
+          "id": "6672",
           "count": 1
         },
         {
@@ -101,7 +101,7 @@
           "count": 1
         },
         {
-          "id": "6671",
+          "id": "6672",
           "count": 1
         },
         {
@@ -185,7 +185,7 @@
           "count": 1
         },
         {
-          "id": "6671",
+          "id": "6672",
           "count": 1
         }
       ]
@@ -202,7 +202,7 @@
           "count": 1
         },
         {
-          "id": "6671",
+          "id": "6672",
           "count": 1
         },
         {
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "type": "Situational items (Phantom Dancer standard)",
+      "type": "Situational items",
       "items": [
         {
           "id": "3046",
@@ -248,7 +248,7 @@
           "count": 1
         },
         {
-          "id": "6671",
+          "id": "6672",
           "count": 1
         },
         {
@@ -363,14 +363,6 @@
         },
         {
           "id": "6671",
-          "count": 1
-        },
-        {
-          "id": "6631",
-          "count": 1
-        },
-        {
-          "id": "6630",
           "count": 1
         }
       ]

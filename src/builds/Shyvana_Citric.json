@@ -4,14 +4,14 @@
   "associatedChampions": [
     102
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/citrics-jungle-shyvana-guide-mobile-friendly-584897",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/citrics-jungle-shyvana-guide-584897",
   "_author": "Citric",
   "blocks": [
     {
-      "type": "BOOTS",
+      "type": "FULL BUILD",
       "items": [
         {
-          "id": "1001",
+          "id": "6662",
           "count": 1
         },
         {
@@ -19,7 +19,271 @@
           "count": 1
         },
         {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
           "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CORE",
+      "items": [
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "DAMAGE/TANK ITEMS",
+      "items": [
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "8020",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "TANK ITEMS",
+      "items": [
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "DAMAGE ITEMS",
+      "items": [
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "FULL BUILD",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS",
+      "items": [
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CORE",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6662",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "DAMAGE/TANK ITEMS",
+      "items": [
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ARMOR ITEMS",
+      "items": [
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3110",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MR ITEMS",
+      "items": [
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "TANK OPTIONS",
+      "items": [
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "8001",
+          "count": 1
+        },
+        {
+          "id": "3193",
           "count": 1
         }
       ]
@@ -40,11 +304,11 @@
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "4629",
           "count": 1
         },
         {
@@ -54,68 +318,23 @@
       ]
     },
     {
-      "type": "DAMAGE OPTIONS",
+      "type": "BOOTS",
       "items": [
-        {
-          "id": "3115",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3041",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "4645",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "UTILITY OPTIONS",
-      "items": [
-        {
-          "id": "3165",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXAMPLE BUILD 1",
-      "items": [
-        {
-          "id": "3115",
-          "count": 1
-        },
         {
           "id": "3020",
           "count": 1
         },
         {
-          "id": "4636",
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "PRIMARY ITEMS",
+      "items": [
+        {
+          "id": "3041",
           "count": 1
         },
         {
@@ -123,11 +342,32 @@
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         },
         {
           "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "SECONDARY ITEMS",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3100",
           "count": 1
         }
       ]
@@ -144,204 +384,32 @@
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3100",
+          "count": 1
+        },
+        {
+          "id": "4629",
           "count": 1
         },
         {
           "id": "3135",
           "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
         }
       ]
     },
     {
-      "type": "BOOTS",
-      "items": [
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FULL BUILD",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STANDARD CORE",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CORE VS MULTI TANKS",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "CORE VS MULTI SQUISHIES",
+      "type": "Trinity Force",
       "items": [
         {
           "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DAMAGE OPTIONS",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3091",
           "count": 1
         },
         {
           "id": "3748",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "TANK OPTIONS",
-      "items": [
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "8001",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXAMPLE BUILD 1",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3193",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "EXAMPLE (NO BORK)",
-      "items": [
-        {
-          "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "3053",
           "count": 1
         },
         {
@@ -349,7 +417,7 @@
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "3053",
           "count": 1
         },
         {
@@ -363,35 +431,14 @@
       ]
     },
     {
-      "type": "BOOTS",
+      "type": "Divine Sunderer",
       "items": [
         {
-          "id": "1001",
+          "id": "Blade of the Ruined King",
           "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FULL BUILD VS TANKY",
-      "items": [
-        {
-          "id": "6662",
-          "count": 1
-        },
-        {
-          "id": "4637",
+          "id": "6632",
           "count": 1
         },
         {
@@ -399,82 +446,15 @@
           "count": 1
         },
         {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "4629",
+          "id": "3053",
           "count": 1
         },
         {
           "id": "3193",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "FULL BUILD VS SQUISHY",
-      "items": [
-        {
-          "id": "6662",
-          "count": 1
         },
         {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DAMAGE OPTIONS",
-      "items": [
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "TANK OPTIONS",
-      "items": [
-        {
-          "id": "3075",
-          "count": 1
-        },
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "4401",
-          "count": 1
-        },
-        {
-          "id": "3193",
+          "id": "3065",
           "count": 1
         }
       ]
@@ -509,6 +489,35 @@
       ]
     },
     {
+      "type": "Everfrost",
+      "items": [
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Hextech Rocketbelt",
       "items": [
         {
@@ -528,7 +537,7 @@
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "3157",
           "count": 1
         },
         {
@@ -553,11 +562,11 @@
           "count": 1
         },
         {
-          "id": "4629",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "4629",
           "count": 1
         },
         {

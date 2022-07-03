@@ -1,42 +1,171 @@
 {
-  "title": "Olaf",
+  "title": "Annie",
   "associatedMaps": [],
   "associatedChampions": [
-    2
+    1
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/11-4-whobicks-detailed-olaf-top-jungle-guide-422678",
-  "_author": "Whobick",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-the-beginners-guide-to-annie-590162",
+  "_author": "Aethlo",
   "blocks": [
     {
-      "type": "Starting Items",
+      "type": "Luden's Tempest (Recommended/Generic)",
       "items": [
         {
-          "id": "2033",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "Warding Totem Removed",
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core Items",
+      "type": "Rocketbelt (Read guide)",
       "items": [
         {
-          "id": "3074",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3071",
+          "id": "3152",
           "count": 1
         },
         {
-          "id": "3065",
+          "id": "4645",
           "count": 1
         },
         {
-          "id": "Frozen Mallet",
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Everfrost (Read guide)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Liandry's (Read guide)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start [Mid]",
+      "items": [
+        {
+          "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Start [Support]",
+      "items": [
+        {
+          "id": "3858",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Mythic (Choose one)",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3152",
+          "count": 1
+        },
+        {
+          "id": "6656",
+          "count": 1
+        },
+        {
+          "id": "6653",
           "count": 1
         }
       ]
@@ -45,172 +174,44 @@
       "type": "Boots",
       "items": [
         {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "Ninja Tabi",
-          "count": 1
-        },
-        {
-          "id": "3009",
+          "id": "3020",
           "count": 1
         }
       ]
     },
     {
-      "type": "Ward!!!",
+      "type": "Item choices (Read guide)",
       "items": [
         {
-          "id": "3363",
+          "id": "4645",
           "count": 1
         },
         {
-          "id": "3364",
+          "id": "3089",
           "count": 1
         },
         {
-          "id": "Sweeping Lens",
+          "id": "3041",
           "count": 1
         },
         {
-          "id": "Warding Totem Removed",
+          "id": "3102",
           "count": 1
         },
         {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Offensive Items",
-      "items": [
-        {
-          "id": "3046",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3078",
+          "id": "3165",
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "6691",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3156",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Defensive Items",
-      "items": [
-        {
-          "id": "Frozen Mallet",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "6664",
-          "count": 1
-        },
-        {
-          "id": "3068",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3075",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Build 1",
-      "items": [
-        {
-          "id": "3748",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "Frozen Mallet",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Build 2",
-      "items": [
-        {
-          "id": "3074",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "Frozen Mallet",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "Ninja Tabi",
-          "count": 1
-        },
-        {
-          "id": "3033",
+          "id": "3116",
           "count": 1
         }
       ]

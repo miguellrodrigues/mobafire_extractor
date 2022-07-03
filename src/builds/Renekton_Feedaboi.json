@@ -1,172 +1,38 @@
 {
-  "title": "Wukong",
+  "title": "Renekton",
   "associatedMaps": [],
   "associatedChampions": [
-    62
+    58
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/my-full-lethality-armor-penetration-amp-pta-wukong-build-489742",
-  "_author": "BaLoRi",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-10-the-ultimate-s12-challenger-renekton-guide-585677",
+  "_author": "Feedaboi",
   "blocks": [
     {
-      "type": "Start Items!",
-      "items": [
-        {
-          "id": "2003",
-          "count": 1
-        },
-        {
-          "id": "1054",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "First Back",
+      "type": "Starting Items",
       "items": [
         {
           "id": "1055",
           "count": 1
         },
         {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Final Build",
-      "items": [
-        {
-          "id": "6692",
+          "id": "1054",
           "count": 1
         },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6694",
-          "count": 1
-        },
-        {
-          "id": "2140",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Final Build V2",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "2140",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Final Build v3",
-      "items": [
-        {
-          "id": "6692",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3814",
-          "count": 1
-        },
-        {
-          "id": "3117",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "2140",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "PTA Start item (Full Pen as well)",
-      "items": [
         {
           "id": "2003",
           "count": 1
         },
         {
-          "id": "1054",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "PTA First Back",
+      "type": "FULL DMG BUILD",
       "items": [
         {
-          "id": "1055",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Pta On-Hit Build",
-      "items": [
-        {
-          "id": "3078",
-          "count": 1
-        },
-        {
-          "id": "3071",
+          "id": "6693",
           "count": 1
         },
         {
@@ -174,19 +40,130 @@
           "count": 1
         },
         {
-          "id": "3006",
+          "id": "6333",
           "count": 1
         },
         {
-          "id": "3124",
+          "id": "3156",
           "count": 1
         },
         {
-          "id": "3036",
+          "id": "3071",
           "count": 1
         },
         {
-          "id": "2140",
+          "id": "3158",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "brusier build Build",
+      "items": [
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Tanks",
+      "items": [
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3193",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "3156",
+          "count": 1
+        },
+        {
+          "id": "3053",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3142",
+          "count": 1
+        },
+        {
+          "id": "6609",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
           "count": 1
         }
       ]

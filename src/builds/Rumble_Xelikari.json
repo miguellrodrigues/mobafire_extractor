@@ -4,7 +4,7 @@
   "associatedChampions": [
     68
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-3-through-the-fire-and-the-flames-568169",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/patch-12-12-through-the-fire-and-the-flames-568169",
   "_author": "Xelikari",
   "blocks": [
     {
@@ -16,6 +16,10 @@
         },
         {
           "id": "1056",
+          "count": 1
+        },
+        {
+          "id": "1082",
           "count": 1
         }
       ]
@@ -37,7 +41,7 @@
       "type": "Core vs All Squishies",
       "items": [
         {
-          "id": "3152",
+          "id": "4636",
           "count": 1
         },
         {
@@ -54,7 +58,7 @@
       "type": "Core vs MR Stack",
       "items": [
         {
-          "id": "3152",
+          "id": "4636",
           "count": 1
         },
         {
@@ -71,52 +75,52 @@
       "type": "Generic Full Build",
       "items": [
         {
-          "id": "3152",
-          "count": 1
-        },
-        {
           "id": "3020",
           "count": 1
         },
-        {
-          "id": "4645",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Better Teamfight Damage",
-      "items": [
         {
           "id": "4636",
           "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
           "id": "4645",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Conqueror + Riftmaker",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3020",
           "count": 1
         },
         {
           "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3157",
           "count": 1
         },
         {
@@ -184,6 +188,10 @@
         },
         {
           "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "6653",
           "count": 1
         }
       ]

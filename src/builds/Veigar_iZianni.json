@@ -38,7 +38,7 @@
       ]
     },
     {
-      "type": "Season 11 items no assassins",
+      "type": "Core items",
       "items": [
         {
           "id": "6656",
@@ -49,28 +49,11 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3158",
           "count": 1
         },
         {
           "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Ideal end game",
-      "items": [
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3020",
           "count": 1
         },
         {
@@ -79,14 +62,6 @@
         },
         {
           "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        },
-        {
-          "id": "3135",
           "count": 1
         }
       ]

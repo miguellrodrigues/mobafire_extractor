@@ -4,7 +4,7 @@
   "associatedChampions": [
     119
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/euw-challenger-draven-guide-updated-s12-599501",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/euw-challenger-draven-guide-updated-12-12-599501",
   "_author": "Dealersz",
   "blocks": [
     {
@@ -21,7 +21,45 @@
       ]
     },
     {
-      "type": "Buildpath 1 ",
+      "type": "Starter 2 ",
+      "items": [
+        {
+          "id": "1036",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buildpath 1",
+      "items": [
+        {
+          "id": "3134",
+          "count": 1
+        },
+        {
+          "id": "3508",
+          "count": 1
+        },
+        {
+          "id": "6692",
+          "count": 1
+        },
+        {
+          "id": "3036",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Buildpath 2",
       "items": [
         {
           "id": "3134",
@@ -42,7 +80,7 @@
       ]
     },
     {
-      "type": "Buildpath 2",
+      "type": "Buildpath 3",
       "items": [
         {
           "id": "1053",
@@ -63,18 +101,22 @@
       ]
     },
     {
-      "type": "Buildpath 3 ",
+      "type": "Good build with Conqueror or Lethal Tempo",
       "items": [
         {
-          "id": "3134",
+          "id": "6672",
           "count": 1
         },
         {
-          "id": "3508",
+          "id": "3006",
           "count": 1
         },
         {
-          "id": "6692",
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3031",
           "count": 1
         },
         {
@@ -82,7 +124,7 @@
           "count": 1
         },
         {
-          "id": "3031",
+          "id": "6676",
           "count": 1
         }
       ]
@@ -114,34 +156,9 @@
         {
           "id": "6692",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard build ",
-      "items": [
-        {
-          "id": "6673",
-          "count": 1
         },
         {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6676",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3508",
+          "id": "6672",
           "count": 1
         }
       ]
@@ -195,11 +212,15 @@
           "count": 1
         },
         {
+          "id": "3094",
+          "count": 1
+        },
+        {
           "id": "3508",
           "count": 1
         },
         {
-          "id": "3094",
+          "id": "3156",
           "count": 1
         }
       ]

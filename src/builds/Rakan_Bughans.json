@@ -25,34 +25,12 @@
       ]
     },
     {
-      "type": "First back (1675 gold)",
-      "items": [
-        {
-          "id": "3802",
-          "count": 1
-        },
-        {
-          "id": "1001",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Damage mythic",
+      "type": "Mythic (notes)",
       "items": [
         {
           "id": "6655",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Defensive mythic",
-      "items": [
+        },
         {
           "id": "4644",
           "count": 1
@@ -60,7 +38,7 @@
       ]
     },
     {
-      "type": "Boot options",
+      "type": "Boot options ",
       "items": [
         {
           "id": "3020",
@@ -73,14 +51,84 @@
       ]
     },
     {
-      "type": "After mythic and boots",
+      "type": "After mythic *IF AHEAD* (3th/4th item)",
       "items": [
+        {
+          "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "After mythic (3th/4th item)",
+      "items": [
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "5th item",
+      "items": [
+        {
+          "id": "4645",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "6th item",
+      "items": [
+        {
+          "id": "4628",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If the enemy has lots of heals (replaces shadowflame)",
+      "items": [
+        {
+          "id": "3165",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If laughably behind ",
+      "items": [
+        {
+          "id": "3504",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Build when fed (example)",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
         {
           "id": "4645",
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3135",
           "count": 1
         },
         {
@@ -90,28 +138,30 @@
       ]
     },
     {
-      "type": "Last item",
+      "type": "Example build when behind ",
       "items": [
         {
-          "id": "3100",
+          "id": "4644",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy builds a LOT of MR (replaces lb)",
-      "items": [
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
         {
           "id": "3135",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If the enemy has lots of heals (replaces lb)",
-      "items": [
+        },
         {
-          "id": "3011",
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "4628",
           "count": 1
         }
       ]

@@ -10,27 +10,15 @@ async function extract_build_items_from_mobafire(url: string) {
 
   const blocks = Array<Block>();
   const author = $('#scroll-follower-container > div.side-toc > div.side-toc__top > div > span.nickname').text();
+  const build = $('#content > div > div.mf-responsive__wrap.mf-redesign.view-guide > div.mf-responsive__topCol > div > div.view-guide__header__top > span').text();
 
-  const build = $('#content > div > div.mf-responsive__wrap.mf-redesign.view-guide > div.mf-responsive__rightCol > div.sidebar-module.sidebar-module__topBuilds.mf-redesign.self-clear > a').text();
-
-  const _build = build.split(' ').slice(1, -1);
-  let champion_name = _build[0].trim();
-
-  if (_build.length !== 1) {
-    const _champion_name = _build.reduce((acc, curr, i) => {
-      if (i % 2 === 0) {
-        acc.push(`${curr}${_build[i + 1]}`);
-      }
-      return acc;
-    }, [] as string[]);
-
-    champion_name = _champion_name.join();
-  }
+  const _build = build.replace('\n', '').split(' ');
+  let champion_name = _build[0].replace('\nBuild', '');
 
   console.log(champion_name);
 
   // find all divs with class 'view-guide__items'
-  $('.view-guide__items').each((i, el) => {
+  $('.view-guide__items').each((_, el) => {
     const items = Array<Item>();
 
     const name = $(el).find('.view-guide__items__bar > span').text();
@@ -61,7 +49,7 @@ async function extract_build_items_from_mobafire(url: string) {
 
 async function get_champion_builds_from_mobafire(champions: Array<{name: string, id: string}>) {
   const url = 'https://www.mobafire.com/league-of-legends/champion/'
-  
+
   const builds_urls = Array<{
     href: string,
     likes: number,
@@ -73,7 +61,7 @@ async function get_champion_builds_from_mobafire(champions: Array<{name: string,
     try{
       const { data } = await axios(champion_url);
       const $ = cheerio.load(data);
-      
+
       const urls = Array<{href: string, likes: number, rating: number}>();
 
       $('.mf-listings__item').each((_, el) => {

@@ -4,25 +4,16 @@
   "associatedChampions": [
     777
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/yeagers-master-yone-guide-season-12-in-depth-578626",
-  "_author": "Yeager",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-tempests-challenger-yone-guide-in-depth-590183",
+  "_author": "WayOfTheTempesst",
   "blocks": [
     {
-      "type": "Starting items #1",
+      "type": "Starting Items",
       "items": [
         {
           "id": "1055",
           "count": 1
         },
-        {
-          "id": "2003",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Starting items #2",
-      "items": [
         {
           "id": "1054",
           "count": 1
@@ -34,27 +25,41 @@
       ]
     },
     {
-      "type": "Mythic items",
+      "type": "Ideal First Back",
       "items": [
         {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "6672",
-          "count": 1
-        },
-        {
-          "id": "6671",
+          "id": "3006",
           "count": 1
         }
       ]
     },
     {
-      "type": "Core items",
+      "type": "Less than 1100g",
       "items": [
         {
-          "id": "3006",
+          "id": "1042",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Snowballing",
+      "items": [
+        {
+          "id": "3086",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "",
+      "items": [
+        {
+          "id": "6673",
           "count": 1
         },
         {
@@ -64,10 +69,10 @@
       ]
     },
     {
-      "type": "Situational items",
+      "type": "Good into teams with little burst",
       "items": [
         {
-          "id": "3091",
+          "id": "3006",
           "count": 1
         },
         {
@@ -75,118 +80,120 @@
           "count": 1
         },
         {
+          "id": "6673",
+          "count": 1
+        },
+        {
           "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "",
+      "items": [
+        {
+          "id": "3006",
+          "count": 1
+        },
+        {
+          "id": "6673",
+          "count": 1
+        },
+        {
+          "id": "3031",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Heavy AP",
+      "items": [
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "4401",
+          "count": 1
+        },
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Against Heavy AD",
+      "items": [
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Offensive Items",
+      "items": [
+        {
+          "id": "3072",
+          "count": 1
+        },
+        {
+          "id": "3026",
+          "count": 1
+        },
+        {
+          "id": "3006",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Situational Items",
+      "items": [
+        {
+          "id": "6035",
           "count": 1
         },
         {
           "id": "3033",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3071",
-          "count": 1
-        },
-        {
-          "id": "3139",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full build #1 VS Mixed Damage",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Full build #2 Anti-tank",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "3036",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Season 12 Build",
-      "items": [
-        {
-          "id": "3006",
-          "count": 1
-        },
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3031",
-          "count": 1
-        },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
-          "id": "3026",
           "count": 1
         }
       ]

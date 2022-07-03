@@ -4,7 +4,7 @@
   "associatedChampions": [
     60
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/season-11-extensive-guide-to-elise-486408",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-extensive-guide-to-elise-486408",
   "_author": "uSgSello",
   "blocks": [
     {
@@ -55,15 +55,19 @@
       "type": "next Items to get ",
       "items": [
         {
+          "id": "4645",
+          "count": 1
+        },
+        {
           "id": "3157",
           "count": 1
         },
         {
-          "id": "3165",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3135",
+          "id": "3165",
           "count": 1
         }
       ]
@@ -134,7 +138,7 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "4645",
           "count": 1
         },
         {
@@ -246,7 +250,11 @@
           "count": 1
         },
         {
-          "id": "3152",
+          "id": "4636",
+          "count": 1
+        },
+        {
+          "id": "4645",
           "count": 1
         },
         {
@@ -258,117 +266,7 @@
           "count": 1
         },
         {
-          "id": "3102",
-          "count": 1
-        },
-        {
           "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Start Items",
-      "items": [
-        {
-          "id": "1039",
-          "count": 1
-        },
-        {
-          "id": "2031",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Rush",
-      "items": [
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3116",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Tanky",
-      "items": [
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Decide between dmg and more tankiness",
-      "items": [
-        {
-          "id": "3190",
-          "count": 1
-        },
-        {
-          "id": "6653",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "More impact in TF",
-      "items": [
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "3143",
-          "count": 1
-        },
-        {
-          "id": "3110",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Example Build",
-      "items": [
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3116",
-          "count": 1
-        },
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "6653",
           "count": 1
         }
       ]

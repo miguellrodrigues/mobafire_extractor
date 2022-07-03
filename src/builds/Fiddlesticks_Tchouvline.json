@@ -4,7 +4,7 @@
   "associatedChampions": [
     9
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-reworked-fiddlesticks-jungle-the-detailled-guide-569186",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-11-reworked-fiddlesticks-jungle-the-detailled-guide-569186",
   "_author": "Tchouvline",
   "blocks": [
     {
@@ -16,6 +16,15 @@
         },
         {
           "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Rush",
+      "items": [
+        {
+          "id": "3020",
           "count": 1
         }
       ]
@@ -38,18 +47,6 @@
       "items": [
         {
           "id": "3152",
-          "count": 1
-        },
-        {
-          "id": "4633",
-          "count": 1
-        },
-        {
-          "id": "4636",
-          "count": 1
-        },
-        {
-          "id": "6656",
           "count": 1
         }
       ]

@@ -4,7 +4,7 @@
   "associatedChampions": [
     38
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/12-4-rank-1-kassadin-complete-guide-by-xblademojo-602685",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-rank-1-kassadin-complete-guide-by-xblademojo-602685",
   "_author": "xblademojo",
   "blocks": [
     {
@@ -146,15 +146,15 @@
           "count": 1
         },
         {
+          "id": "3157",
+          "count": 1
+        },
+        {
           "id": "3040",
           "count": 1
         },
         {
           "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3157",
           "count": 1
         },
         {
@@ -168,18 +168,18 @@
       ]
     },
     {
-      "type": "Example Build #2 Scaling vs Squishy",
+      "type": "Example Build #2 vs Heavy Burst & Fastest Impact",
       "items": [
         {
-          "id": "6655",
+          "id": "4644",
+          "count": 1
+        },
+        {
+          "id": "4645",
           "count": 1
         },
         {
           "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3040",
           "count": 1
         },
         {
@@ -208,11 +208,11 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "3089",
           "count": 1
         },
         {
@@ -226,10 +226,10 @@
       ]
     },
     {
-      "type": "Example Build #4 vs Heavy Burst Fastest Impact",
+      "type": "Example Build #4 Scaling vs Squishy",
       "items": [
         {
-          "id": "4644",
+          "id": "6655",
           "count": 1
         },
         {
@@ -237,11 +237,11 @@
           "count": 1
         },
         {
-          "id": "3089",
+          "id": "3157",
           "count": 1
         },
         {
-          "id": "3157",
+          "id": "3040",
           "count": 1
         },
         {
@@ -249,7 +249,7 @@
           "count": 1
         },
         {
-          "id": "4645",
+          "id": "3089",
           "count": 1
         }
       ]

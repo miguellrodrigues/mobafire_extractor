@@ -1,21 +1,21 @@
 {
-  "title": "Lillia",
+  "title": "Lissandra",
   "associatedMaps": [],
   "associatedChampions": [
-    876
+    127
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/s12-doubtfulls-challenger-lillia-guide-581881",
-  "_author": "Doubtfull",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/new-season-12-12-11-updated-the-midlane-ice-queen-of-death-603019",
+  "_author": "RezoneVerified",
   "blocks": [
     {
-      "type": "Standard Completed Build",
+      "type": "Full Build",
       "items": [
         {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "4637",
+          "id": "3020",
           "count": 1
         },
         {
@@ -23,15 +23,15 @@
           "count": 1
         },
         {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
           "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3041",
           "count": 1
         }
       ]
@@ -40,24 +40,37 @@
       "type": "Starting Items",
       "items": [
         {
-          "id": "1039",
+          "id": "1056",
           "count": 1
         },
         {
-          "id": "1035",
-          "count": 1
-        },
-        {
-          "id": "2031",
+          "id": "2003",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boots",
+      "type": "First Recall",
       "items": [
         {
-          "id": "3111",
+          "id": "3802",
+          "count": 1
+        },
+        {
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "2055",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AP Matchup Midgame",
+      "items": [
+        {
+          "id": "6653",
           "count": 1
         },
         {
@@ -65,62 +78,36 @@
           "count": 1
         },
         {
-          "id": "3158",
+          "id": "2031",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4645",
           "count": 1
         }
       ]
     },
     {
-      "type": "Mythic",
+      "type": "Assassin Matchup Midgame",
       "items": [
         {
-          "id": "6653",
+          "id": "4644",
           "count": 1
         },
         {
-          "id": "4636",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Offensive Options",
-      "items": [
-        {
-          "id": "3116",
+          "id": "3135",
           "count": 1
         },
         {
-          "id": "3041",
+          "id": "3020",
           "count": 1
         },
         {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3102",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Defensive Options",
-      "items": [
-        {
-          "id": "3742",
-          "count": 1
-        },
-        {
-          "id": "3065",
-          "count": 1
-        },
-        {
-          "id": "8020",
+          "id": "2031",
           "count": 1
         }
       ]

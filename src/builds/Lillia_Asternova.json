@@ -1,101 +1,107 @@
 {
-  "title": "Lissandra",
+  "title": "Lillia",
   "associatedMaps": [],
   "associatedChampions": [
-    127
+    876
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/how-to-bury-the-world-in-ice-the-lissandra-guide-535653",
-  "_author": "Katasandra",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-quot-your-soul-is-blooming-quot-a-lillia-guide-590578",
+  "_author": "Asternova",
   "blocks": [
     {
-      "type": "Standard Start",
+      "type": "STARTER ITEMS (CHOOSE ONE)",
       "items": [
         {
-          "id": "1056",
+          "id": "1039",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "1035",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Corrupting Start",
-      "items": [
+        },
         {
-          "id": "2033",
+          "id": "2031",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Perfect 1st Base",
-      "items": [
+        },
         {
-          "id": "3802",
+          "id": "3340",
           "count": 1
         }
       ]
     },
     {
-      "type": "Usual 1st Base",
+      "type": "FIRST BACKS",
       "items": [
         {
           "id": "1001",
           "count": 1
         },
         {
-          "id": "1027",
+          "id": "3802",
           "count": 1
         },
         {
-          "id": "2031",
-          "count": 1
-        },
-        {
-          "id": "2055",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Alternatives",
-      "items": [
-        {
-          "id": "1029",
-          "count": 1
-        },
-        {
-          "id": "1033",
-          "count": 1
-        },
-        {
-          "id": "1052",
+          "id": "4635",
           "count": 1
         },
         {
           "id": "1082",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Dont forget ",
-      "items": [
+        },
         {
-          "id": "2031",
+          "id": "2055",
           "count": 1
         },
         {
-          "id": "2003",
+          "id": "3364",
           "count": 1
         }
       ]
     },
     {
-      "type": "Boots",
+      "type": "MYTHIC OPTIONS",
       "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4633",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "CORE ITEMS",
+      "items": [
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "BOOTS OPTIONS",
+      "items": [
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
         {
           "id": "3020",
           "count": 1
@@ -103,19 +109,72 @@
       ]
     },
     {
-      "type": "Buy & Place ",
+      "type": "LEGENDARY OPTIONS",
       "items": [
         {
-          "id": "2055",
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3742",
           "count": 1
         }
       ]
     },
     {
-      "type": "Late Game",
+      "type": "SITUATIONAL ITEMS",
+      "items": [
+        {
+          "id": "3116",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ESSENTIALS",
       "items": [
         {
           "id": "3364",
+          "count": 1
+        },
+        {
+          "id": "2055",
           "count": 1
         },
         {
@@ -125,331 +184,265 @@
       ]
     },
     {
-      "type": "DPS Burn",
+      "type": "STANDARD BUILD",
       "items": [
         {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "3020",
+          "id": "3157",
           "count": 1
         },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Moar Burn",
-      "items": [
         {
           "id": "4637",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Moar Burst",
-      "items": [
+        },
         {
-          "id": "4628",
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3364",
           "count": 1
         }
       ]
     },
     {
-      "type": "VS Sustain",
+      "type": "AD DEFENSIVE BUILD",
       "items": [
         {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3916",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Dont go",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VS heavy AP",
-      "items": [
-        {
-          "id": "8020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Standard Luden",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "More burst",
-      "items": [
-        {
-          "id": "4628",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Anti-Heal",
-      "items": [
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Pure Dive & Oneshot",
-      "items": [
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Buying Time",
-      "items": [
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VS heavy AP",
-      "items": [
-        {
-          "id": "8020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Team Setup",
-      "items": [
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
           "id": "3157",
           "count": 1
         },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Anti-Heal",
-      "items": [
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "DPS",
-      "items": [
-        {
-          "id": "6656",
-          "count": 1
-        },
-        {
-          "id": "3020",
-          "count": 1
-        },
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "3089",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Burst",
-      "items": [
-        {
-          "id": "4628",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "VS Heavy AP",
-      "items": [
-        {
-          "id": "8020",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Mythics",
-      "items": [
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "6655",
-          "count": 1
-        },
-        {
-          "id": "6656",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Pure offense",
-      "items": [
-        {
-          "id": "3089",
-          "count": 1
-        },
-        {
-          "id": "3135",
-          "count": 1
-        },
-        {
-          "id": "4628",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "2nd Item",
-      "items": [
-        {
-          "id": "4629",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Other",
-      "items": [
-        {
-          "id": "8020",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "Don't need anything else",
-      "items": [
         {
           "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3047",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "AP DEFENSIVE BUILD",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3102",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "VS SQUISHY TARGETS",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "RIFTMAKER BUILD",
+      "items": [
+        {
+          "id": "4633",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3165",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "TANK LILLIA (READ NOTES)",
+      "items": [
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3065",
+          "count": 1
+        },
+        {
+          "id": "3742",
+          "count": 1
+        },
+        {
+          "id": "3111",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "ENRAGED BAMBI",
+      "items": [
+        {
+          "id": "6655",
+          "count": 1
+        },
+        {
+          "id": "4629",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        },
+        {
+          "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3364",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MOONSTONE SUPPORTIVE BUILD",
+      "items": [
+        {
+          "id": "6617",
+          "count": 1
+        },
+        {
+          "id": "6616",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3041",
+          "count": 1
+        },
+        {
+          "id": "3158",
+          "count": 1
+        },
+        {
+          "id": "3364",
           "count": 1
         }
       ]

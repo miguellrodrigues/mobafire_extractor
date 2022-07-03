@@ -1,14 +1,14 @@
 {
-  "title": "Irelia",
+  "title": "Wukong",
   "associatedMaps": [],
   "associatedChampions": [
-    39
+    62
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-masters-irelia-guide-china-ionia-server-601727",
-  "_author": "At_Tar_Ras",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/12-12-wukong-s-tier-top-amp-jungle-in-depth-solo-carry-571038",
+  "_author": "freddy66623",
   "blocks": [
     {
-      "type": "STARTING - MOST GAMES",
+      "type": "Startout Agressive",
       "items": [
         {
           "id": "1055",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "type": "STARTING - VS HEAVY POKE",
+      "type": "Startout Passive",
       "items": [
         {
           "id": "1054",
@@ -34,115 +34,82 @@
       ]
     },
     {
-      "type": "FIRST BACK - CHEATER RECALL",
+      "type": "Jungle Start",
       "items": [
-        {
-          "id": "1036",
-          "count": 1
-        },
         {
           "id": "2031",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "SECOND BACK AT LEAST",
-      "items": [
+        },
         {
-          "id": "1053",
+          "id": "1035",
           "count": 1
         }
       ]
     },
     {
-      "type": "BUILD VS HEAVY AD",
+      "type": "Agressive Core",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "3077",
           "count": 1
         },
         {
-          "id": "3047",
+          "id": "1001",
           "count": 1
         },
+        {
+          "id": "6029",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tanky Core",
+      "items": [
+        {
+          "id": "3077",
+          "count": 1
+        },
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "3044",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Jungle Monkey",
+      "items": [
+        {
+          "id": "1001",
+          "count": 1
+        },
+        {
+          "id": "2003",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Agressive monkey",
+      "items": [
         {
           "id": "6632",
           "count": 1
         },
         {
-          "id": "3053",
+          "id": "3074",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "6630",
           "count": 1
         },
-        {
-          "id": "6333",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "STOPWATCH",
-      "items": [
-        {
-          "id": "2420",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BUILD VS HEAVY AP",
-      "items": [
         {
           "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "6632",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3053",
-          "count": 1
-        },
-        {
-          "id": "3026",
-          "count": 1
-        },
-        {
-          "id": "6609",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "BUILD VS SUPER BEEFY TEAM",
-      "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "6632",
           "count": 1
         },
         {
@@ -154,11 +121,65 @@
           "count": 1
         },
         {
-          "id": "3748",
+          "id": "6333",
           "count": 1
         },
         {
           "id": "3053",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Tanky Monkey ",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "6333",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3075",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Agressive Jungle",
+      "items": [
+        {
+          "id": "6632",
+          "count": 1
+        },
+        {
+          "id": "3074",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3026",
           "count": 1
         },
         {
@@ -168,63 +189,47 @@
       ]
     },
     {
-      "type": "BUILD VS SUPER SUPER HEAVY AP TEAM",
+      "type": "Tanky Jungle",
       "items": [
-        {
-          "id": "Blade of the Ruined King",
-          "count": 1
-        },
-        {
-          "id": "3111",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
         {
           "id": "6632",
           "count": 1
         },
         {
-          "id": "3156",
+          "id": "3748",
+          "count": 1
+        },
+        {
+          "id": "6630",
+          "count": 1
+        },
+        {
+          "id": "3071",
+          "count": 1
+        },
+        {
+          "id": "3083",
+          "count": 1
+        },
+        {
+          "id": "3075",
           "count": 1
         },
         {
           "id": "3065",
           "count": 1
-        },
-        {
-          "id": "6035",
-          "count": 1
         }
       ]
     },
     {
-      "type": "BUILD IF FOR-FUN",
+      "type": "Boots ",
       "items": [
         {
-          "id": "Blade of the Ruined King",
+          "id": "3111",
           "count": 1
         },
         {
           "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "6673",
-          "count": 1
-        },
-        {
-          "id": "3124",
-          "count": 1
-        },
-        {
-          "id": "3091",
-          "count": 1
-        },
-        {
-          "id": "3026",
           "count": 1
         }
       ]

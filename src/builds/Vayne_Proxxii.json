@@ -4,7 +4,7 @@
   "associatedChampions": [
     67
   ],
-  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-vayne-guide-12-4-patch-updated-ready-487606",
+  "_notes": "https://www.mobafire.com/league-of-legends/build/season-12-vayne-guide-12-12-patch-updated-ready-487606",
   "_author": "Proxxii",
   "blocks": [
     {
@@ -46,11 +46,7 @@
       "type": "3RD Item",
       "items": [
         {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "Blade of the Ruined King",
+          "id": "3124",
           "count": 1
         }
       ]
@@ -58,6 +54,27 @@
     {
       "type": "4TH Item",
       "items": [
+        {
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3046",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "5TH ITEM",
+      "items": [
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "Blade of the Ruined King",
+          "count": 1
+        },
         {
           "id": "3031",
           "count": 1
@@ -135,19 +152,19 @@
           "count": 1
         },
         {
-          "id": "3046",
-          "count": 1
-        },
-        {
-          "id": "3072",
-          "count": 1
-        },
-        {
           "id": "3124",
           "count": 1
         },
         {
-          "id": "3026",
+          "id": "3091",
+          "count": 1
+        },
+        {
+          "id": "3143",
+          "count": 1
+        },
+        {
+          "id": "3072",
           "count": 1
         }
       ]

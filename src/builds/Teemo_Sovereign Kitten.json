@@ -21,6 +21,15 @@
       ]
     },
     {
+      "type": "Corrupting Potion (Grasp into heavy poke)",
+      "items": [
+        {
+          "id": "2033",
+          "count": 1
+        }
+      ]
+    },
+    {
       "type": "Dark Seal (Fed Early)",
       "items": [
         {
@@ -130,7 +139,7 @@
       ]
     },
     {
-      "type": "MAIN CORE ITEMS",
+      "type": "MAIN CORE ITEMS (Split)",
       "items": [
         {
           "id": "3006",
@@ -172,48 +181,10 @@
       ]
     },
     {
-      "type": "CORE ITEMS Liandry's (AD COMPS)",
+      "type": "FED CRIT CHAMPIONS",
       "items": [
         {
-          "id": "3047",
-          "count": 1
-        },
-        {
-          "id": "3115",
-          "count": 1
-        },
-        {
-          "id": "6653",
-          "count": 1
-        },
-        {
-          "id": "3157",
-          "count": 1
-        },
-        {
-          "id": "4637",
-          "count": 1
-        },
-        {
-          "id": "3165",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "If MR is needed.",
-      "items": [
-        {
-          "id": "3091",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "type": "More Magic Pen / Damage",
-      "items": [
-        {
-          "id": "4645",
+          "id": "3143",
           "count": 1
         }
       ]
@@ -228,10 +199,48 @@
       ]
     },
     {
-      "type": "FED CRIT CHAMPIONS",
+      "type": "Really Fed One-Shot Mages",
       "items": [
         {
-          "id": "3143",
+          "id": "8001",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "MAIN CORE ITEMS (Burn)",
+      "items": [
+        {
+          "id": "3020",
+          "count": 1
+        },
+        {
+          "id": "3115",
+          "count": 1
+        },
+        {
+          "id": "6653",
+          "count": 1
+        },
+        {
+          "id": "4637",
+          "count": 1
+        },
+        {
+          "id": "3157",
+          "count": 1
+        },
+        {
+          "id": "3135",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "If anti-heal is needed.",
+      "items": [
+        {
+          "id": "3165",
           "count": 1
         }
       ]
@@ -286,15 +295,15 @@
           "count": 1
         },
         {
-          "id": "4645",
-          "count": 1
-        },
-        {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3165",
           "count": 1
         },
         {
@@ -304,16 +313,16 @@
       ]
     },
     {
-      "type": "ANTI-HEAL",
+      "type": "REPLACES BOOTS",
       "items": [
         {
-          "id": "3165",
+          "id": "4629",
           "count": 1
         }
       ]
     },
     {
-      "type": "FULL BUILD #2 | TANKS",
+      "type": "FULL BUILD #2 | BRUISERS",
       "items": [
         {
           "id": "3020",
@@ -321,10 +330,6 @@
         },
         {
           "id": "3115",
-          "count": 1
-        },
-        {
-          "id": "4645",
           "count": 1
         },
         {
@@ -338,14 +343,9 @@
         {
           "id": "3135",
           "count": 1
-        }
-      ]
-    },
-    {
-      "type": "REPLACES BOOTS",
-      "items": [
+        },
         {
-          "id": "4629",
+          "id": "3089",
           "count": 1
         }
       ]
@@ -387,11 +387,11 @@
           "count": 1
         },
         {
-          "id": "3100",
+          "id": "6655",
           "count": 1
         },
         {
-          "id": "6655",
+          "id": "3100",
           "count": 1
         }
       ]
@@ -493,7 +493,7 @@
       ]
     },
     {
-      "type": "FULL BUILD #2 | VS | SQUISHY",
+      "type": "FULL BUILD #2 | VS | BRUISERS",
       "items": [
         {
           "id": "3020",
@@ -504,19 +504,19 @@
           "count": 1
         },
         {
-          "id": "4645",
-          "count": 1
-        },
-        {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "4637",
           "count": 1
         },
         {
           "id": "3089",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         }
       ]
@@ -546,15 +546,24 @@
           "count": 1
         },
         {
-          "id": "4645",
-          "count": 1
-        },
-        {
           "id": "6653",
           "count": 1
         },
         {
+          "id": "4645",
+          "count": 1
+        },
+        {
           "id": "3089",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "Instead of Shadowflame",
+      "items": [
+        {
+          "id": "3135",
           "count": 1
         }
       ]
@@ -575,7 +584,7 @@
           "count": 1
         },
         {
-          "id": "4645",
+          "id": "3102",
           "count": 1
         },
         {
@@ -583,16 +592,16 @@
           "count": 1
         },
         {
-          "id": "3102",
+          "id": "3135",
           "count": 1
         }
       ]
     },
     {
-      "type": "High MR targets",
+      "type": "SITUATIONAL",
       "items": [
         {
-          "id": "3135",
+          "id": "3047",
           "count": 1
         }
       ]
@@ -636,7 +645,7 @@
       ]
     },
     {
-      "type": "FULL BUILD #2 | VS | SQUISHY | SHROOMS",
+      "type": "FULL BUILD #2 | VS | BRUISERS | SHROOMS",
       "items": [
         {
           "id": "3020",
@@ -647,15 +656,15 @@
           "count": 1
         },
         {
-          "id": "4645",
-          "count": 1
-        },
-        {
           "id": "6653",
           "count": 1
         },
         {
-          "id": "4628",
+          "id": "4645",
+          "count": 1
+        },
+        {
+          "id": "3135",
           "count": 1
         },
         {
